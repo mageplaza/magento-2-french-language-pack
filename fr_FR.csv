@@ -3093,7 +3093,7 @@ Dashboard,"Tableau de bord",module,Magento_Config
 "Web Section","Section web",module,Magento_Config
 "Store Email Addresses Section","Section d'adresses email du magasin",module,Magento_Config
 "Email to a Friend","Envoyer par email à un ami",module,Magento_Config
-"Add configurable attributes to the current Attribute Set (""%1"")","Add configurable attributes to the current Attribute Set (""%1"")",module,Magento_ConfigurableProduct
+"Add configurable attributes to the current Attribute Set (""%1"")","En_US. csv",module,Magento_ConfigurableProduct
 "Add configurable attributes to the new Attribute Set based on current","Add configurable attributes to the new Attribute Set based on current",module,Magento_ConfigurableProduct
 "New attribute set name","New attribute set name",module,Magento_ConfigurableProduct
 "Add configurable attributes to the existing Attribute Set","Add configurable attributes to the existing Attribute Set",module,Magento_ConfigurableProduct
