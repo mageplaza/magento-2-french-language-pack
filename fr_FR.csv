@@ -215,7 +215,7 @@ button_label,"Couleur de texte de bouton pour le gabarit Ogone",module,Magento_A
 "Missing search engine parameter.","Paramètre de moteur de recherche manquant.",module,Magento_AdvancedSearch
 "Successful! Test again?","Réussie ! Testez à nouveau ?",module,Magento_AdvancedSearch
 "Connection failed! Test again?","La connexion a échoué ! Testez à nouveau ?",module,Magento_AdvancedSearch
-"Enable Search Recommendations","Enable Search Recommendations",module,Magento_AdvancedSearch
+"Enable Search Recommendations","Activer les recommandations de recherche",module,Magento_AdvancedSearch
 "When you enable this option your site may slow down.","Lorsque vous activez cette option, votre site peut ralentir.",module,Magento_AdvancedSearch
 "Search Recommendations Count","Nombre de recommandations de recherche",module,Magento_AdvancedSearch
 "Show Results Count for Each Recommendation","Afficher le nombre de résultats pour chaque recommandation",module,Magento_AdvancedSearch
@@ -236,71 +236,71 @@ Edit,Éditer,module,Magento_AdvancedSearch
 "RPC call failed, connection timed out after %time_out.","L'appel RPC a échoué, connexion a expiré après %time_out.",module,Magento_Amqp
 "Message has been rejected: %1","Message a été rejeté : %1",module,Magento_Amqp
 "Error while checking if topic is synchronous","Erreur lors de la vérification de la synchronisation",module,Magento_Amqp
-"Subscription status","Subscription status",module,Magento_Analytics
+"Subscription status","État de l'abonnement",module,Magento_Analytics
 "Sorry, there has been an error processing your request. Please try again later.","Sorry, there has been an error processing your request. Please try again later.",module,Magento_Analytics
 "Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.",module,Magento_Analytics
 "Error occurred during postponement notification","Error occurred during postponement notification",module,Magento_Analytics
 "Command was not found.","Command was not found.",module,Magento_Analytics
 "There was an error save new configuration value.","There was an error save new configuration value.",module,Magento_Analytics
 "Please select a vertical.","Please select a vertical.",module,Magento_Analytics
-"--Please Select--","--Please Select--",module,Magento_Analytics
+"--Please Select--","--Votre choix--",module,Magento_Analytics
 "Cannot find predefined integration user!","Cannot find predefined integration user!",module,Magento_Analytics
 TestMessage,TestMessage,module,Magento_Analytics
-"Error message","Error message",module,Magento_Analytics
-"Apps and Games","Apps and Games",module,Magento_Analytics
+"Error message","Message d'erreur",module,Magento_Analytics
+"Apps and Games","Applications et jeux",module,Magento_Analytics
 "Athletic/Sporting Goods","Athletic/Sporting Goods",module,Magento_Analytics
-"Art and Design","Art and Design",module,Magento_Analytics
-"Free Tier","Free Tier",module,Magento_Analytics
-"An error occurred while subscription process.","An error occurred while subscription process.",module,Magento_Analytics
-Analytics,Analytics,module,Magento_Analytics
+"Art and Design","Art et Design",module,Magento_Analytics
+"Free Tier","Version d'évaluation",module,Magento_Analytics
+"An error occurred while subscription process.","Une erreur s’est produite lors du processus d’abonnement.",module,Magento_Analytics
+Analytics,Analyses,module,Magento_Analytics
 API,API,module,Magento_Analytics
 Configuration,Configuration,module,Magento_Analytics
 "BI Essential","BI Essential",module,Magento_Analytics
 "Basic Tier","Basic Tier",module,Magento_Analytics
 "BI Essentials","BI Essentials",module,Magento_Analytics
-General,General,module,Magento_Analytics
+General,Général,module,Magento_Analytics
 "Send the system and transaction data to Magento Analytics service","Send the system and transaction data to Magento Analytics service",module,Magento_Analytics
 Vertical,Vertical,module,Magento_Analytics
 "Analytics Subscription","Analytics Subscription",module,Magento_Analytics
 "Subscription Confirmation","Subscription Confirmation",module,Magento_Analytics
-Cancel,Cancel,module,Magento_Analytics
-Ok,Ok,module,Magento_Analytics
+Cancel,Annuler,module,Magento_Analytics
+Ok,OK,module,Magento_Analytics
 "I agree with sending my system
                             configuration and transaction data to Magento Analytics.","I agree with sending my system
                             configuration and transaction data to Magento Analytics.",module,Magento_Analytics
-Back,Back,module,Magento_AsynchronousOperations
-Done,Done,module,Magento_AsynchronousOperations
-Retry,Retry,module,Magento_AsynchronousOperations
+Back,Retour,module,Magento_AsynchronousOperations
+Done,Terminé,module,Magento_AsynchronousOperations
+Retry,Réessayer,module,Magento_AsynchronousOperations
 "'Action Details - #' .","'Action Details - #' .",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.""","%1 item(s) have been scheduled for update.""",module,Magento_AsynchronousOperations
 "Bulk Actions Log","Bulk Actions Log",module,Magento_AsynchronousOperations
 "%1 item(s) are currently being updated.","%1 item(s) are currently being updated.",module,Magento_AsynchronousOperations
-"Task ""%1"":","Task ""%1"":",module,Magento_AsynchronousOperations
+"Task ""%1"":","Tâche « %1 » :",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.","%1 item(s) have been scheduled for update.",module,Magento_AsynchronousOperations
 "%1 item(s) have been successfully updated.","%1 item(s) have been successfully updated.",module,Magento_AsynchronousOperations
 "%1 item(s) failed to update","%1 item(s) failed to update",module,Magento_AsynchronousOperations
-Details,Details,module,Magento_AsynchronousOperations
-"View Details","View Details",module,Magento_AsynchronousOperations
-Dismiss,Dismiss,module,Magento_AsynchronousOperations
-"Pending, in queue...","Pending, in queue...",module,Magento_AsynchronousOperations
+Details,Détails,module,Magento_AsynchronousOperations
+"View Details","Voir les détails",module,Magento_AsynchronousOperations
+Dismiss,Fermer,module,Magento_AsynchronousOperations
+"Pending, in queue...","En attente, dans la file d’attente...",module,Magento_AsynchronousOperations
 "%1 items selected for mass update","%1 items selected for mass update",module,Magento_AsynchronousOperations
 ", %1 successfully updated",", %1 successfully updated",module,Magento_AsynchronousOperations
 ", %1 failed to update",", %1 failed to update",module,Magento_AsynchronousOperations
 "Something went wrong.","Something went wrong.",module,Magento_AsynchronousOperations
 "Action Log","Action Log",module,Magento_AsynchronousOperations
-"Bulk Actions","Bulk Actions",module,Magento_AsynchronousOperations
+"Bulk Actions","Actions en masse",module,Magento_AsynchronousOperations
 "Days Saved in Log","Days Saved in Log",module,Magento_AsynchronousOperations
 "Description of Operation","Description of Operation",module,Magento_AsynchronousOperations
-Summary,Summary,module,Magento_AsynchronousOperations
-"Start Time","Start Time",module,Magento_AsynchronousOperations
+Summary,Résumé,module,Magento_AsynchronousOperations
+"Start Time","Heure de début",module,Magento_AsynchronousOperations
 "Items to Retry","Items to Retry",module,Magento_AsynchronousOperations
 "To retry, select the items and click “Retry”.","To retry, select the items and click “Retry”.",module,Magento_AsynchronousOperations
 "Items That Can’t Be Updated.","Items That Can’t Be Updated.",module,Magento_AsynchronousOperations
 ID,ID,module,Magento_AsynchronousOperations
-Status,Status,module,Magento_AsynchronousOperations
+Status,Statut,module,Magento_AsynchronousOperations
 Action,Action,module,Magento_AsynchronousOperations
 "Meta Information","Meta Information",module,Magento_AsynchronousOperations
-Error,Error,module,Magento_AsynchronousOperations
+Error,Erreur,module,Magento_AsynchronousOperations
 "Dismiss All Completed Tasks","Dismiss All Completed Tasks",module,Magento_AsynchronousOperations
 "Action Details - #","Action Details - #",module,Magento_AsynchronousOperations
 "Number of Records Affected","Number of Records Affected",module,Magento_AsynchronousOperations
@@ -631,7 +631,7 @@ Minute,Minute,module,Magento_Backend
 "JavaScript may be disabled in your browser.","JavaScript peut être désactivé dans votre navigateur.",module,Magento_Backend
 "To use this website you must first enable JavaScript in your browser.","Pour utiliser ce site web vous devez d'abord activer JavaScript dans votre navigateur.",module,Magento_Backend
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","Il s'agit seulement d'un magasin de démo. Vous pouvez naviguer et passer des commandes, mais rien ne sera traité.",module,Magento_Backend
-"Report a Bug","Report a Bug",module,Magento_Backend
+"Report a Bug","Signaler un bug",module,Magento_Backend
 "Store View:","Vue magasin:",module,Magento_Backend
 "Stores Configuration","Configuration des magasins",module,Magento_Backend
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Veuillez confirmer le changement de portée. Toutes les données non sauvegardées seront perdues.",module,Magento_Backend
@@ -679,15 +679,15 @@ Elements,Éléments,module,Magento_Backend
 Design,Design,module,Magento_Backend
 Schedule,Planning,module,Magento_Backend
 Settings,Paramètres,module,Magento_Backend
-Attributes,Attributes,module,Magento_Backend
-"Other Settings","Other Settings",module,Magento_Backend
-"Data Transfer","Data Transfer",module,Magento_Backend
+Attributes,Attributs,module,Magento_Backend
+"Other Settings","Autres paramètres",module,Magento_Backend
+"Data Transfer","Transfert de données",module,Magento_Backend
 "Magento Connect","Magento Connect",module,Magento_Backend
 "Connect Manager","Connect Manager",module,Magento_Backend
-"Package Extensions","Package Extensions",module,Magento_Backend
-Tools,Tools,module,Magento_Backend
-"Web Setup Wizard","Web Setup Wizard",module,Magento_Backend
-Currency,Currency,module,Magento_Backend
+"Package Extensions","Packager des extensions",module,Magento_Backend
+Tools,Outils,module,Magento_Backend
+"Web Setup Wizard","Assistant d'installation",module,Magento_Backend
+Currency,Devise,module,Magento_Backend
 Communications,Communications,module,Magento_Backend
 Services,Services,module,Magento_Backend
 Advanced,Avancé,module,Magento_Backend
@@ -708,8 +708,8 @@ Debug,Déboguage,module,Magento_Backend
 "Template Settings","Paramètres de gabarit",module,Magento_Backend
 "Allow Symlinks","Autoriser les liens symboliques",module,Magento_Backend
 "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Attention ! L'activation de cette fonctionnalité n'est pas recommandée dans un environnement de production car elle présente un risque de sécurité potentiel.",module,Magento_Backend
-"Minify Html","Minify Html",module,Magento_Backend
-"Minification is not applied in developer mode.","Minification is not applied in developer mode.",module,Magento_Backend
+"Minify Html","Minifier le HTML",module,Magento_Backend
+"Minification is not applied in developer mode.","La minification n’est pas appliquée en mode développeur.",module,Magento_Backend
 "Translate Inline","Traduire en ligne",module,Magento_Backend
 "Enabled for Storefront","Enabled for Storefront",module,Magento_Backend
 "Enabled for Admin","Activée pour l'admin",module,Magento_Backend
@@ -717,15 +717,15 @@ Debug,Déboguage,module,Magento_Backend
 "JavaScript Settings","Paramètres JavaScript",module,Magento_Backend
 "Merge JavaScript Files","Fusionner les fichiers javascript",module,Magento_Backend
 "Enable JavaScript Bundling","Enable JavaScript Bundling",module,Magento_Backend
-"Minify JavaScript Files","Minify JavaScript Files",module,Magento_Backend
+"Minify JavaScript Files","Minifier les fichiers JavaScript",module,Magento_Backend
 "CSS Settings","Paramètres CSS",module,Magento_Backend
 "Merge CSS Files","Fusionner les fichiers CSS",module,Magento_Backend
-"Minify CSS Files","Minify CSS Files",module,Magento_Backend
-"Image Processing Settings","Image Processing Settings",module,Magento_Backend
-"Image Adapter","Image Adapter",module,Magento_Backend
-"Static Files Settings","Static Files Settings",module,Magento_Backend
-"Sign Static Files","Sign Static Files",module,Magento_Backend
-"Country Options","Country Options",module,Magento_Backend
+"Minify CSS Files","Minifier les fichiers CSS",module,Magento_Backend
+"Image Processing Settings","Paramètres de traitement d'image",module,Magento_Backend
+"Image Adapter","Adaptateur d’image",module,Magento_Backend
+"Static Files Settings","Paramètres de fichiers statiques",module,Magento_Backend
+"Sign Static Files","Signer les fichiers statiques",module,Magento_Backend
+"Country Options","Options de pays",module,Magento_Backend
 "Allow Countries","Autoriser les pays",module,Magento_Backend
 "Default Country","Pays par défaut",module,Magento_Backend
 "European Union Countries","Pays de l'Union Européenne",module,Magento_Backend
@@ -745,8 +745,8 @@ City,Ville,module,Magento_Backend
 "Street Address",Adresse,module,Magento_Backend
 "Street Address Line 2","Adresse - ligne 2",module,Magento_Backend
 "VAT Number","Numéro de TVA""Cron (Scheduled Tasks) - all the times are in minutes",module,Magento_Backend
-"Single-Store Mode","Single-Store Mode",module,Magento_Backend
-"Enable Single-Store Mode","Enable Single-Store Mode",module,Magento_Backend
+"Single-Store Mode","Mode mono-boutique",module,Magento_Backend
+"Enable Single-Store Mode","Activer le mode mono-boutique",module,Magento_Backend
 "This setting will not be taken into account if system has more than one store view.","Ce paramètre ne sera pas pris dans le compte, si le système a plus d'une vue de magasin.",module,Magento_Backend
 "Mail Sending Settings","Paramètres d'envoi des emails",module,Magento_Backend
 "Disable Email Communications","Désactiver les envois d'email",module,Magento_Backend
@@ -758,7 +758,7 @@ Admin,Administration,module,Magento_Backend
 "Admin User Emails","Emails de l'administrateur",module,Magento_Backend
 "Forgot Password Email Template","Gabarit du mail d'oubli de mot de passe",module,Magento_Backend
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Backend
-"Forgot and Reset Email Sender","Forgot and Reset Email Sender",module,Magento_Backend
+"Forgot and Reset Email Sender","Expéditeur du mail d'oubli et de réinitialisation du mot de passe",module,Magento_Backend
 "Startup Page","Page de démarrage",module,Magento_Backend
 "Admin Base URL","URL de base de l'admin",module,Magento_Backend
 "Use Custom Admin URL","Utiliser une URL d'admin personnalisée",module,Magento_Backend
@@ -766,7 +766,7 @@ Admin,Administration,module,Magento_Backend
 "Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Assurez-vous que l'URL se termine par un '/' (slash), par ex. http://votredomains/magento/",module,Magento_Backend
 "Use Custom Admin Path","Utiliser le chemin d'accès au back office personnalisé",module,Magento_Backend
 "Custom Admin Path","Chemin d'accès au back office personnalisé",module,Magento_Backend
-"You will have to sign in after you save your custom admin path.","You will have to sign in after you save your custom admin path.",module,Magento_Backend
+"You will have to sign in after you save your custom admin path.","Vous devrez vous reconnecter après avoir enregistré le chemin personnalisé.",module,Magento_Backend
 Security,Sécurité,module,Magento_Backend
 "Recovery Link Expiration Period (hours)","Recovery Link Expiration Period (hours)",module,Magento_Backend
 "Please enter a number 1 or greater in this field.","Veuillez saisir un nombre supérieur ou égal à 1.",module,Magento_Backend
@@ -782,17 +782,17 @@ Web,Web,module,Magento_Backend
 "Auto-redirect to Base URL","Rediriger automatiquement vers l'URL de base",module,Magento_Backend
 "Search Engine Optimization","Search Engine Optimization",module,Magento_Backend
 "Use Web Server Rewrites","Utiliser les réécritures du serveur web",module,Magento_Backend
-"Base URLs","Base URLs",module,Magento_Backend
+"Base URLs","URL de base",module,Magento_Backend
 "Base URL","URL de base",module,Magento_Backend
 "Specify URL or {{base_url}} placeholder.","Specify URL or {{base_url}} placeholder.",module,Magento_Backend
 "Base Link URL","URL de base lien",module,Magento_Backend
 "Base URL for Static View Files","Base URL for Static View Files",module,Magento_Backend
 "May be empty or start with {{unsecure_base_url}} placeholder.","May be empty or start with {{unsecure_base_url}} placeholder.",module,Magento_Backend
 "Base URL for User Media Files","Base URL for User Media Files",module,Magento_Backend
-"Base URLs (Secure)","Base URLs (Secure)",module,Magento_Backend
+"Base URLs (Secure)","URL de base (sécurisé)",module,Magento_Backend
 "Secure Base URL","URL de base sécurisée",module,Magento_Backend
 "Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.",module,Magento_Backend
-"Secure Base Link URL","Secure Base Link URL",module,Magento_Backend
+"Secure Base Link URL","URL de base sécurisée",module,Magento_Backend
 "Secure Base URL for Static View Files","Secure Base URL for Static View Files",module,Magento_Backend
 "May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.",module,Magento_Backend
 "Secure Base URL for User Media Files","Secure Base URL for User Media Files",module,Magento_Backend
@@ -965,17 +965,17 @@ Error,Erreur,module,Magento_Banner
 "Manage Banners","Gestion des bannières",module,Magento_Banner
 "Banner Rotator","Banner Rotator",module,Magento_Banner
 "Displays Specified or Promotion Banners","Displays Specified or Promotion Banners",module,Magento_Banner
-"Banners to Display","Banners to Display",module,Magento_Banner
-"Specified Banners","Specified Banners",module,Magento_Banner
-"Shopping Cart Promotions Related","Shopping Cart Promotions Related",module,Magento_Banner
-"Catalog Promotions Related","Catalog Promotions Related",module,Magento_Banner
-"Restrict by Banner Types","Restrict by Banner Types",module,Magento_Banner
-"Rotation Mode","Rotation Mode",module,Magento_Banner
+"Banners to Display","Bannières à afficher",module,Magento_Banner
+"Specified Banners","Bannière spécifiées",module,Magento_Banner
+"Shopping Cart Promotions Related","Promotions liées au panier d'achats",module,Magento_Banner
+"Catalog Promotions Related","Promotions liées au catalogue",module,Magento_Banner
+"Restrict by Banner Types","Restreindre par types de bannière",module,Magento_Banner
+"Rotation Mode","Mode de rotation",module,Magento_Banner
 "Display all instead of rotating","Display all instead of rotating",module,Magento_Banner
-"One at the time, Random","One at the time, Random",module,Magento_Banner
-"One at the time, Series","One at the time, Series",module,Magento_Banner
-"One at the time, Shuffle","One at the time, Shuffle",module,Magento_Banner
-"Specify Banners","Specify Banners",module,Magento_Banner
+"One at the time, Random","Un à la fois, Aléatoire",module,Magento_Banner
+"One at the time, Series","Un à la fois, Séries",module,Magento_Banner
+"One at the time, Shuffle","Un à la fois, Mélanger",module,Magento_Banner
+"Specify Banners","Spécifier les bannières",module,Magento_Banner
 "Banner Block Template","Banner Block Template",module,Magento_Banner
 "Banner Inline Template","Banner Inline Template",module,Magento_Banner
 Country,Pays,module,Magento_Braintree
@@ -999,10 +999,10 @@ Authorize,Autoriser,module,Magento_Braintree
 "Please, enter valid Expiration Date","Please, enter valid Expiration Date",module,Magento_Braintree
 "Card Verification Number","Numéro de vérification",module,Magento_Braintree
 "Please, enter valid Card Verification Number","Please, enter valid Card Verification Number",module,Magento_Braintree
-ending,ending,module,Magento_Braintree
-expires,expires,module,Magento_Braintree
-"PayPal Account","PayPal Account",module,Magento_Braintree
-"PayPal Logo","PayPal Logo",module,Magento_Braintree
+ending,fin,module,Magento_Braintree
+expires,"expire le",module,Magento_Braintree
+"PayPal Account","Compte PayPal",module,Magento_Braintree
+"PayPal Logo","Logo PayPal",module,Magento_Braintree
 Actions,Actions,module,Magento_Braintree
 Delete,Supprimer,module,Magento_Braintree
 "Credit Card Information","Information de carte bancaire",module,Magento_Braintree
@@ -1011,36 +1011,36 @@ Delete,Supprimer,module,Magento_Braintree
 "Place Order","Passez la commande",module,Magento_Braintree
 "This payment is not available","This payment is not available",module,Magento_Braintree
 MM,MM,module,Magento_Braintree
-YY,YY,module,Magento_Braintree
+YY,AA,module,Magento_Braintree
 "Please try again with another form of payment.","Please try again with another form of payment.",module,Magento_Braintree
 "Sorry, but something went wrong.","Sorry, but something went wrong.",module,Magento_Braintree
-Payment,Payment,module,Magento_Braintree
+Payment,Paiement,module,Magento_Braintree
 Braintree,Braintree,module,Magento_Braintree
 "Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.",module,Magento_Braintree
-"Enable this Solution","Enable this Solution",module,Magento_Braintree
-"Enable PayPal through Braintree","Enable PayPal through Braintree",module,Magento_Braintree
-"Vault Enabled","Vault Enabled",module,Magento_Braintree
+"Enable this Solution","Activer cette solution",module,Magento_Braintree
+"Enable PayPal through Braintree","Activer PayPal par le biais de Braintree",module,Magento_Braintree
+"Vault Enabled","Coffre activé",module,Magento_Braintree
 "Basic Braintree Settings","Paramètres de base de Braintree",module,Magento_Braintree
 Title,Titre,module,Magento_Braintree
-Environment,Environment,module,Magento_Braintree
+Environment,Environnement,module,Magento_Braintree
 "Payment Action","Action de paiement",module,Magento_Braintree
 "Merchant ID","ID de marchand",module,Magento_Braintree
 "Public Key","Clé publique",module,Magento_Braintree
 "Private Key","Clé privée",module,Magento_Braintree
 "Advanced Braintree Settings","Paramètres avancés de Braintree",module,Magento_Braintree
-"Vault Title","Vault Title",module,Magento_Braintree
+"Vault Title","Nom du coffre",module,Magento_Braintree
 "Merchant Account ID","ID du compte marchand",module,Magento_Braintree
 "Advanced Fraud Protection","Advanced Fraud Protection",module,Magento_Braintree
 "Kount Merchant ID","Kount Merchant ID",module,Magento_Braintree
 Debug,Déboguage,module,Magento_Braintree
-"CVV Verification","CVV Verification",module,Magento_Braintree
+"CVV Verification","Vérification du CVV",module,Magento_Braintree
 "Credit Card Types","Types de cartes de paiement",module,Magento_Braintree
 "Sort Order","Ordre de tri""Abandoned Carts",module,Magento_Braintree
-"Country Specific Settings","Country Specific Settings",module,Magento_Braintree
+"Country Specific Settings","Paramètres spécifiques au pays",module,Magento_Braintree
 "Payment from Applicable Countries","Mode de paiement autorisé pour",module,Magento_Braintree
 "Payment from Specific Countries","Mode de paiement autorisé pour les pays spécifiques",module,Magento_Braintree
 "Country Specific Credit Card Types","Country Specific Credit Card Types",module,Magento_Braintree
-"PayPal through Braintree","PayPal through Braintree",module,Magento_Braintree
+"PayPal through Braintree","PayPal par le biais de Braintree",module,Magento_Braintree
 "Override Merchant Name","Override Merchant Name",module,Magento_Braintree
 "Require Customer's Billing Address","Nécessite l'adresse de facturation du client",module,Magento_Braintree
 "Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Allow to Edit Shipping Address Entered During Checkout on PayPal Side",module,Magento_Braintree
@@ -1052,15 +1052,15 @@ Debug,Déboguage,module,Magento_Braintree
 "Verify for Applicable Countries","Verify for Applicable Countries",module,Magento_Braintree
 "Verify for Specific Countries","Verify for Specific Countries",module,Magento_Braintree
 "Dynamic Descriptors","Dynamic Descriptors",module,Magento_Braintree
-Name,Name,module,Magento_Braintree
-Phone,Phone,module,Magento_Braintree
+Name,Nom,module,Magento_Braintree
+Phone,Téléphone,module,Magento_Braintree
 URL,URL,module,Magento_Braintree
 "Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.",module,Magento_Braintree
-Select...,Select...,module,Magento_Braintree
-Status,Status,module,Magento_Braintree
-"Transaction Type","Transaction Type",module,Magento_Braintree
-"Payment Type","Payment Type",module,Magento_Braintree
-"PayPal Payment ID","PayPal Payment ID",module,Magento_Braintree
+Select...,Sélectionner...,module,Magento_Braintree
+Status,Statut,module,Magento_Braintree
+"Transaction Type","Type de transaction",module,Magento_Braintree
+"Payment Type","Type de paiement",module,Magento_Braintree
+"PayPal Payment ID","ID de paiement PayPal",module,Magento_Braintree
 "Created At","Created At",module,Magento_Braintree
 "Transaction ID","Transaction ID",module,Magento_Braintree
 "Order ID","Order ID",module,Magento_Braintree
@@ -1088,50 +1088,50 @@ Authorize,Autoriser,module,Magento_BraintreeTwo
 "Paypal account","Paypal account",module,Magento_BraintreeTwo
 "Coinbase account","Coinbase account",module,Magento_BraintreeTwo
 "Europe bank account","Europe bank account",module,Magento_BraintreeTwo
-"Credit card","Credit card",module,Magento_BraintreeTwo
+"Credit card","Carte de crédit",module,Magento_BraintreeTwo
 "Apple pay card","Apple pay card",module,Magento_BraintreeTwo
 "Android pay card","Android pay card",module,Magento_BraintreeTwo
-"Authorization expired","Authorization expired",module,Magento_BraintreeTwo
-Authorizing,Authorizing,module,Magento_BraintreeTwo
-Authorized,Authorized,module,Magento_BraintreeTwo
+"Authorization expired","Autorisation expirée",module,Magento_BraintreeTwo
+Authorizing,"Autorisation en cours",module,Magento_BraintreeTwo
+Authorized,Autorisé,module,Magento_BraintreeTwo
 "Gateway rejected","Gateway rejected",module,Magento_BraintreeTwo
-Failed,Failed,module,Magento_BraintreeTwo
+Failed,Échec,module,Magento_BraintreeTwo
 "Processor declined","Processor declined",module,Magento_BraintreeTwo
-Settled,Settled,module,Magento_BraintreeTwo
-Settling,Settling,module,Magento_BraintreeTwo
-"Submitted for settlement","Submitted for settlement",module,Magento_BraintreeTwo
-Voided,Voided,module,Magento_BraintreeTwo
-Unrecognized,Unrecognized,module,Magento_BraintreeTwo
+Settled,Réglé,module,Magento_BraintreeTwo
+Settling,"Réglement en cours",module,Magento_BraintreeTwo
+"Submitted for settlement","Soumis pour règlement",module,Magento_BraintreeTwo
+Voided,Annulé,module,Magento_BraintreeTwo
+Unrecognized,"Non reconnu",module,Magento_BraintreeTwo
 "Settlement declined","Settlement declined",module,Magento_BraintreeTwo
-"Settlement pending","Settlement pending",module,Magento_BraintreeTwo
-"Settlement confirmed","Settlement confirmed",module,Magento_BraintreeTwo
-Sale,Sale,module,Magento_BraintreeTwo
-Credit,Credit,module,Magento_BraintreeTwo
+"Settlement pending","Règlement en attente",module,Magento_BraintreeTwo
+"Settlement confirmed","Règlement confirmé",module,Magento_BraintreeTwo
+Sale,Vente,module,Magento_BraintreeTwo
+Credit,Crédit,module,Magento_BraintreeTwo
 "Credit Card Type","Type de carte de crédit",module,Magento_BraintreeTwo
 "Credit Card Number","Numéro de carte bancaire",module,Magento_BraintreeTwo
-"Please, enter valid Credit Card Number","Please, enter valid Credit Card Number",module,Magento_BraintreeTwo
+"Please, enter valid Credit Card Number","Veuillez saisir un numéro de carte bancaire valide",module,Magento_BraintreeTwo
 "Expiration Date","Date d'expiration",module,Magento_BraintreeTwo
 "Please, enter valid Expiration Date","Please, enter valid Expiration Date",module,Magento_BraintreeTwo
 "Card Verification Number","Numéro de vérification",module,Magento_BraintreeTwo
 "Please, enter valid Card Verification Number","Please, enter valid Card Verification Number",module,Magento_BraintreeTwo
-ending,ending,module,Magento_BraintreeTwo
-expires,expires,module,Magento_BraintreeTwo
+ending,fin,module,Magento_BraintreeTwo
+expires,"expire le",module,Magento_BraintreeTwo
 "Credit Card Information","Information de carte bancaire",module,Magento_BraintreeTwo
 "What is this?","Aide ?""Add",module,Magento_BraintreeTwo
-"Save for later use.","Save for later use.",module,Magento_BraintreeTwo
+"Save for later use.","Sauvegarder pour plus tard.",module,Magento_BraintreeTwo
 "Place Order","Passez la commande",module,Magento_BraintreeTwo
 "This payment is not available","This payment is not available",module,Magento_BraintreeTwo
 MM,MM,module,Magento_BraintreeTwo
-YY,YY,module,Magento_BraintreeTwo
+YY,AA,module,Magento_BraintreeTwo
 "Please try again with another form of payment.","Please try again with another form of payment.",module,Magento_BraintreeTwo
 "Sorry, but something went wrong.","Sorry, but something went wrong.",module,Magento_BraintreeTwo
 BraintreeTwo,BraintreeTwo,module,Magento_BraintreeTwo
 &nbsp;,&nbsp;,module,Magento_BraintreeTwo
-"Enable this Solution","Enable this Solution",module,Magento_BraintreeTwo
-"Enable PayPal through Braintree","Enable PayPal through Braintree",module,Magento_BraintreeTwo
+"Enable this Solution","Activer cette solution",module,Magento_BraintreeTwo
+"Enable PayPal through Braintree","Activer PayPal par le biais de Braintree",module,Magento_BraintreeTwo
 "Basic BraintreeTwo Settings","Basic BraintreeTwo Settings",module,Magento_BraintreeTwo
 Title,Titre,module,Magento_BraintreeTwo
-Environment,Environment,module,Magento_BraintreeTwo
+Environment,Environnement,module,Magento_BraintreeTwo
 "Payment Action","Action de paiement",module,Magento_BraintreeTwo
 "Merchant ID","ID de marchand",module,Magento_BraintreeTwo
 "Public Key","Clé publique",module,Magento_BraintreeTwo
@@ -1141,10 +1141,10 @@ Environment,Environment,module,Magento_BraintreeTwo
 "Advanced Fraud Protection","Advanced Fraud Protection",module,Magento_BraintreeTwo
 "Kount Merchant ID","Kount Merchant ID",module,Magento_BraintreeTwo
 Debug,Déboguage,module,Magento_BraintreeTwo
-"CVV Verification","CVV Verification",module,Magento_BraintreeTwo
+"CVV Verification","Vérification du CVV",module,Magento_BraintreeTwo
 "Credit Card Types","Types de cartes de paiement",module,Magento_BraintreeTwo
 "Sort Order","Ordre de tri""Abandoned Carts",module,Magento_BraintreeTwo
-"Country Specific Settings","Country Specific Settings",module,Magento_BraintreeTwo
+"Country Specific Settings","Paramètres spécifiques au pays",module,Magento_BraintreeTwo
 "Payment from Applicable Countries","Mode de paiement autorisé pour",module,Magento_BraintreeTwo
 "Payment from Specific Countries","Mode de paiement autorisé pour les pays spécifiques",module,Magento_BraintreeTwo
 "Country Specific Credit Card Types","Country Specific Credit Card Types",module,Magento_BraintreeTwo
@@ -1173,7 +1173,7 @@ Amount,Amount,module,Magento_BraintreeTwo
 "Settlement Response Text","Settlement Response Text",module,Magento_BraintreeTwo
 "Refund Ids","Refund Ids",module,Magento_BraintreeTwo
 "Settlement Batch ID","Settlement Batch ID",module,Magento_BraintreeTwo
-Currency,Currency,module,Magento_BraintreeTwo
+Currency,Devise,module,Magento_BraintreeTwo
 "Percent Discount","Remise en pourcentage",module,Magento_Bundle
 "-- Select --","-- Votre choix --",module,Magento_Bundle
 Dynamic,Dynamique,module,Magento_Bundle
@@ -11789,7 +11789,7 @@ username,username,module,Magento_User
 "Your password must include both numeric and alphabetic characters.","Your password must include both numeric and alphabetic characters.",module,Magento_User
 "Your password confirmation must match your password.","Your password confirmation must match your password.",module,Magento_User
 "It's time to change your password.","It's time to change your password.",module,Magento_User
-"It's time to <a href=""%1"">change your password</a>.","It's time to <a href=""%1"">change your password</a>.",module,Magento_User
+"It's time to <a href=""%1"">change your password</a>.","Il est temps de <a href=""%1"">changer votre mot de passe</a>.",module,Magento_User
 "Your password has expired; please contact your administrator.","Your password has expired; please contact your administrator.",module,Magento_User
 "Password Help","Password Help",module,Magento_User
 "Enter your email address.  You will receive an email with a link to reset your password.","Enter your email address.  You will receive an email with a link to reset your password.",module,Magento_User
