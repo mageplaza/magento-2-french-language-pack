@@ -4128,7 +4128,7 @@ Address,Adresse,module,Magento_CustomerCustomAttributes
 City,Ville,module,Magento_CustomerCustomAttributes
 State/Province,État/Région,module,Magento_CustomerCustomAttributes
 "Please select a region, state or province.","Merci de sélectionner une région, une état ou une province.",module,Magento_CustomerCustomAttributes
-"Zip/Postal Code","Code postal""Express Checkout and Order have been canceled.",module,Magento_CustomerCustomAttributes
+"Zip/Postal Code","Code postal"
 Country,Pays,module,Magento_CustomerCustomAttributes
 "This is your default billing address.","This is your default billing address.",module,Magento_CustomerCustomAttributes
 "Use as my default billing address","Utiliser comme adresse de facturation par défaut",module,Magento_CustomerCustomAttributes
