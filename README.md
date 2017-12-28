@@ -1,4 +1,5 @@
 ## Magento 2 French Language Pack
+**Bitbull clone**
 
 In this free topic, **Magento 2 French Language Pack** is referred to give you two steps of setting language. Today, you can remove the language barrier in the simple way if you really want to approach French clients. The only thing you need to do is transferring the default language of Magento 2 CE into French language via the following instructions.
 
