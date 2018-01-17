@@ -1262,7 +1262,7 @@ To,À,module,Magento_Bundle
 "Buy %1 with %2 discount each","Achetez-en %1 et profitez d'une remise de %2 par produit",module,Magento_Bundle
 "Go back to product details","Revenir aux détails du produit",module,Magento_Bundle
 "Customize and Add to Cart","Personnaliser et ajouter au panier",module,Magento_Bundle
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Bundle
+"* Required Fields","* Champs obligatoires"
 "Your Customization","Votre personnalisation",module,Magento_Bundle
 Availability,Disponibilité,module,Magento_Bundle
 "In stock","En stock",module,Magento_Bundle
@@ -3745,7 +3745,7 @@ or,ou,module,Magento_Customer
 Address,Adresse,module,Magento_Customer
 "Street Address",Adresse,module,Magento_Customer
 "Street Address %1",Fax,module,Magento_Customer
-"VAT Number","Numéro de TVA""Cron (Scheduled Tasks) - all the times are in minutes",module,Magento_Customer
+"VAT Number","Numéro de TVA"
 City,Ville,module,Magento_Customer
 State/Province,État/Région,module,Magento_Customer
 "Please select a region, state or province.","Merci de sélectionner une région, une état ou une province.",module,Magento_Customer
@@ -3754,7 +3754,7 @@ Country,Pays,module,Magento_Customer
 "It's a default billing address.","It's a default billing address.",module,Magento_Customer
 "Use as my default billing address","Utiliser comme adresse de facturation par défaut",module,Magento_Customer
 "It's a default shipping address.","It's a default shipping address.",module,Magento_Customer
-"Use as my default shipping address","Utiliser comme adresse de <strong>livraison</strong> par défaut",module,Magento_Customer
+"Use as my default shipping address","Utiliser comme adresse de livraison par défaut",module,Magento_Customer
 "Save Address","Sauvegarder l'adresse",module,Magento_Customer
 "Go back",Retour,module,Magento_Customer
 "Please enter your email below and we will send you the confirmation link.","Please enter your email below and we will send you the confirmation link.",module,Magento_Customer
@@ -4128,7 +4128,7 @@ Address,Adresse,module,Magento_CustomerCustomAttributes
 City,Ville,module,Magento_CustomerCustomAttributes
 State/Province,État/Région,module,Magento_CustomerCustomAttributes
 "Please select a region, state or province.","Merci de sélectionner une région, une état ou une province.",module,Magento_CustomerCustomAttributes
-"Zip/Postal Code","Code postal""Express Checkout and Order have been canceled.",module,Magento_CustomerCustomAttributes
+"Zip/Postal Code","Code postal"
 Country,Pays,module,Magento_CustomerCustomAttributes
 "This is your default billing address.","This is your default billing address.",module,Magento_CustomerCustomAttributes
 "Use as my default billing address","Utiliser comme adresse de facturation par défaut",module,Magento_CustomerCustomAttributes
