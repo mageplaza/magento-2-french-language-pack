@@ -2602,7 +2602,7 @@ Conditions,Conditions,module,Magento_CatalogWidget
 City,Ville,module,Magento_Checkout
 Country,Pays,module,Magento_Checkout
 State/Province,État/Région,module,Magento_Checkout
-"Zip/Postal Code","Code postal""Express Checkout and Order have been canceled.",module,Magento_Checkout
+"Zip/Postal Code","Code postal",module,Magento_Checkout
 "My Cart (1 item)","Mon panier (1 article)",module,Magento_Checkout
 "My Cart (%1 items)","Mon panier (%1 articles)",module,Magento_Checkout
 "My Cart","Mon panier",module,Magento_Checkout
@@ -3749,7 +3749,7 @@ Address,Adresse,module,Magento_Customer
 City,Ville,module,Magento_Customer
 State/Province,État/Région,module,Magento_Customer
 "Please select a region, state or province.","Merci de sélectionner une région, une état ou une province.",module,Magento_Customer
-"Zip/Postal Code","Code postal""Express Checkout and Order have been canceled.",module,Magento_Customer
+"Zip/Postal Code","Code postal",module,Magento_Customer
 Country,Pays,module,Magento_Customer
 "It's a default billing address.","It's a default billing address.",module,Magento_Customer
 "Use as my default billing address","Utiliser comme adresse de facturation par défaut",module,Magento_Customer
@@ -4128,7 +4128,7 @@ Address,Adresse,module,Magento_CustomerCustomAttributes
 City,Ville,module,Magento_CustomerCustomAttributes
 State/Province,État/Région,module,Magento_CustomerCustomAttributes
 "Please select a region, state or province.","Merci de sélectionner une région, une état ou une province.",module,Magento_CustomerCustomAttributes
-"Zip/Postal Code","Code postal""Express Checkout and Order have been canceled.",module,Magento_CustomerCustomAttributes
+"Zip/Postal Code","Code postal",module,Magento_CustomerCustomAttributes
 Country,Pays,module,Magento_CustomerCustomAttributes
 "This is your default billing address.","This is your default billing address.",module,Magento_CustomerCustomAttributes
 "Use as my default billing address","Utiliser comme adresse de facturation par défaut",module,Magento_CustomerCustomAttributes
@@ -4888,7 +4888,7 @@ Unknown,Inconnu,module,Magento_Email
 "Store Hours","Heures d'ouverture",module,Magento_Email
 Country,Pays,module,Magento_Email
 Region/State,Région/État,module,Magento_Email
-"Zip/Postal Code","Code postal""Express Checkout and Order have been canceled.",module,Magento_Email
+"Zip/Postal Code","Code postal",module,Magento_Email
 City,Ville,module,Magento_Email
 "Street Address 1",Rue,module,Magento_Email
 "Street Address 2","Complément d'adresse",module,Magento_Email
@@ -5528,7 +5528,7 @@ Address,Adresse,module,Magento_GiftRegistry
 "Street Address %1",Fax,module,Magento_GiftRegistry
 City,Ville,module,Magento_GiftRegistry
 "Please select a region, state or province.","Merci de sélectionner une région, une état ou une province.",module,Magento_GiftRegistry
-"Zip/Postal Code","Code postal""Express Checkout and Order have been canceled.",module,Magento_GiftRegistry
+"Zip/Postal Code","Code postal",module,Magento_GiftRegistry
 Country,Pays,module,Magento_GiftRegistry
 "Phone Number","Numéro de téléphone",module,Magento_GiftRegistry
 Fax,Fax,module,Magento_GiftRegistry
@@ -6902,7 +6902,7 @@ Instructions,Instructions,module,Magento_OfflinePayments
 "Automatically Invoice All Items","Facturer automatiquement tous les articles",module,Magento_OfflinePayments
 Country,Pays,module,Magento_OfflineShipping
 Region/State,Région/État,module,Magento_OfflineShipping
-"Zip/Postal Code","Code postal""Express Checkout and Order have been canceled.",module,Magento_OfflineShipping
+"Zip/Postal Code","Code postal",module,Magento_OfflineShipping
 "Shipping Price","Tarif de livraison",module,Magento_OfflineShipping
 "Export CSV","Exporter en CSV",module,Magento_OfflineShipping
 "Store Pickup","Retrait en magasin",module,Magento_OfflineShipping
@@ -9356,7 +9356,7 @@ Email,Email,module,Magento_Sales
 State/Province,État/Région,module,Magento_Sales
 "Street Address",Adresse,module,Magento_Sales
 "Phone Number","Numéro de téléphone",module,Magento_Sales
-"Zip/Postal Code","Code postal""Express Checkout and Order have been canceled.",module,Magento_Sales
+"Zip/Postal Code","Code postal",module,Magento_Sales
 "We can't save the address:\n%1","We can't save the address:\n%1",module,Magento_Sales
 "Cannot save comment:\n%1","Cannot save comment:\n%1",module,Magento_Sales
 "We don't have enough information to save the parent transaction ID.","We don't have enough information to save the parent transaction ID.",module,Magento_Sales
