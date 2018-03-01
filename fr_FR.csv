@@ -11588,7 +11588,7 @@ Password:,Password:,module,Magento_Theme
 Empty,Vide,module,Magento_Theme
 "1 column","1 colonne",module,Magento_Theme
 Configuration,Configuration,module,Magento_Theme
-"Default welcome msg!","Message d'accueil par défaut",module,Magento_Theme
+"Default welcome msg!","Message d\'accueil par défaut",module,Magento_Theme
 "Copyright © 2013-2017 Magento, Inc. All rights reserved.","Copyright © 2013-2017 Magento, Inc. All rights reserved.",module,Magento_Theme
 "Design Config Grid","Design Config Grid",module,Magento_Theme
 "Rebuild design config grid index","Rebuild design config grid index",module,Magento_Theme
@@ -12743,7 +12743,7 @@ Edit,Éditer,module,Magento_Wishlist
 Product,Produit,module,Magento_Wishlist
 Back,Retour,module,Magento_Wishlist
 "Wish List is empty now.","Wish List is empty now.",module,Magento_Wishlist
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Wishlist
+"* Required Fields","* Champs obligatoires",module,Magento_Wishlist
 "Sharing Information","Information de partage",module,Magento_Wishlist
 "Email addresses, separated by commas","Adresses email, séparées par des virgules",module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","Check here to link an RSS feed to your Wish List.",module,Magento_Wishlist
