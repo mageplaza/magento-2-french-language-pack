@@ -1351,7 +1351,7 @@ To,À,module,Magento_Bundle
 "Buy %1 with %2 discount each","Achetez-en %1 et profitez d'une remise de %2 par produit",module,Magento_Bundle
 "Go back to product details","Revenir aux détails du produit",module,Magento_Bundle
 "Customize and Add to Cart","Personnaliser et ajouter au panier",module,Magento_Bundle
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Bundle
+"* Required Fields","* Champs obligatoires",module,Magento_Bundle
 "Your Customization","Votre personnalisation",module,Magento_Bundle
 Availability,Disponibilité,module,Magento_Bundle
 "In stock","En stock",module,Magento_Bundle
@@ -3417,7 +3417,7 @@ Comparable,Comparable,module,Magento_ConfigurableProductStaging
 "Name is missing","Nom manquant",module,Magento_Contact
 "Comment is missing","Commentaire manquant",module,Magento_Contact
 "Invalid email address","Adresse email invalide",module,Magento_Contact
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Contact
+"* Required Fields","* Champs obligatoires",module,Magento_Contact
 "Write Us",Écrivez-nous,module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Contactez nous et nous vous répondrons aussi rapidement que possible.",module,Magento_Contact
 Name,Nom,module,Magento_Contact
@@ -3841,7 +3841,7 @@ or,ou,module,Magento_Customer
 "Additional Address Entries","Saisies d'adresses supplémentaires",module,Magento_Customer
 "Delete Address","Effacer l'adresse",module,Magento_Customer
 "You have no other address entries in your address book.","Vous n'avez aucune autre adresse dans votre carnet d'adresses.",module,Magento_Customer
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Customer
+"* Required Fields","* Champs obligatoires",module,Magento_Customer
 Address,Adresse,module,Magento_Customer
 "Street Address",Adresse,module,Magento_Customer
 "Street Address %1",Fax,module,Magento_Customer
@@ -4217,7 +4217,7 @@ Customer,Client,module,Magento_CustomerCustomAttributes
 "This fieldset is not empty!","This fieldset is not empty!",module,Magento_CustomerCustomAttributes
 "Choose Website:","Choose Website:",module,Magento_CustomerCustomAttributes
 "Please confirm site switching. All data that hasn't been saved will be lost.","Please confirm site switching. All data that hasn't been saved will be lost.",module,Magento_CustomerCustomAttributes
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_CustomerCustomAttributes
+"* Required Fields","* Champs obligatoires",module,Magento_CustomerCustomAttributes
 "Contact Information","Informations de contact",module,Magento_CustomerCustomAttributes
 Company,Société,module,Magento_CustomerCustomAttributes
 "Phone Number","Numéro de téléphone",module,Magento_CustomerCustomAttributes
@@ -5651,7 +5651,7 @@ Remove,Supprimer,module,Magento_GiftRegistry
 "First Name",Prénom,module,Magento_GiftRegistry
 Name,Nom,module,Magento_GiftRegistry
 Email,Email,module,Magento_GiftRegistry
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_GiftRegistry
+"* Required Fields","* Champs obligatoires",module,Magento_GiftRegistry
 Sender,Expéditeur,module,Magento_GiftRegistry
 Invitee,"Statut du stock de l'inventaire",module,Magento_GiftRegistry
 "Maximum %1 email addresses.","Maximum %1 email addresses.",module,Magento_GiftRegistry
@@ -6278,7 +6278,7 @@ Link,Lien,module,Magento_Invitation
 "Sign Up At","Sign Up At",module,Magento_Invitation
 "Inviter Information","Inviter Information",module,Magento_Invitation
 Admin,Administration,module,Magento_Invitation
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Invitation
+"* Required Fields","* Champs obligatoires",module,Magento_Invitation
 "Invite your friends by entering their email addresses","Invite your friends by entering their email addresses",module,Magento_Invitation
 "Maximum %1 email addresses allowed.","%1 adresses mail maxi autorisées",module,Magento_Invitation
 Add,Ajouter,module,Magento_Invitation
@@ -8454,7 +8454,7 @@ Back,Retour,module,Magento_Review
 "Ratings Review Summary","Ratings Review Summary",module,Magento_Review
 "Be the first to review this product","Soyez le premier à commenter ce produit",module,Magento_Review
 "Write Your Own Review","Rédigez votre propre commentaire",module,Magento_Review
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Review
+"* Required Fields","* Champs obligatoires",module,Magento_Review
 "You're reviewing:","Vous commentez :",module,Magento_Review
 "Your Rating","Your Rating",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
@@ -10417,7 +10417,7 @@ Exception.,Exception.,module,Magento_SendFriend
 Remove,Supprimer,module,Magento_SendFriend
 Name,Nom,module,Magento_SendFriend
 Email,Email,module,Magento_SendFriend
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_SendFriend
+"* Required Fields","* Champs obligatoires",module,Magento_SendFriend
 Sender,Expéditeur,module,Magento_SendFriend
 Message,Message,module,Magento_SendFriend
 Invitee,"Statut du stock de l'inventaire",module,Magento_SendFriend
@@ -12743,7 +12743,7 @@ Edit,Éditer,module,Magento_Wishlist
 Product,Produit,module,Magento_Wishlist
 Back,Retour,module,Magento_Wishlist
 "Wish List is empty now.","Wish List is empty now.",module,Magento_Wishlist
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Wishlist
+"* Required Fields","* Champs obligatoires",module,Magento_Wishlist
 "Sharing Information","Information de partage",module,Magento_Wishlist
 "Email addresses, separated by commas","Adresses email, séparées par des virgules",module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","Check here to link an RSS feed to your Wish List.",module,Magento_Wishlist
