@@ -320,7 +320,7 @@ Cancel,Annuler,module,Magento_Analytics
                     free of charge, in your Magento software. When you opt out, we collect no product, order, and
                     customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
                     Reporting in you Admin Panel.</p>",module,Magento_Analytics
-"In order to personalize your Advanced Reporting experience, please select your industry.","In order to personalize your Advanced Reporting experience, please select your industry.",module,Magento_Analytics
+"In order to personalize your Advanced Reporting experience, please select your industry.","Afin de personnaliser votre expérience de rapport avancé, veuillez sélectionner votre secteur d’activité.",module,Magento_Analytics
 Back,Retour,module,Magento_AsynchronousOperations
 Done,Terminé,module,Magento_AsynchronousOperations
 Retry,Réessayer,module,Magento_AsynchronousOperations
