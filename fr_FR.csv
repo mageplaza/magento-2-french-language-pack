@@ -231,7 +231,7 @@ Results,Résultats,module,Magento_AdvancedSearch
 Uses,"Les utilisateurs verront cette image au chargement de l'application. Image de 320 x 460px.",module,Magento_AdvancedSearch
 "Redirect URL","URL de redirection",module,Magento_AdvancedSearch
 "Suggested Term","Durée suggérée",module,Magento_AdvancedSearch
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_AdvancedSearch
+Yes,Oui,module,Magento_AdvancedSearch
 No,Non,module,Magento_AdvancedSearch
 Action,Action,module,Magento_AdvancedSearch
 Edit,Éditer,module,Magento_AdvancedSearch
@@ -510,7 +510,7 @@ Cancel,Annuler,module,Magento_Backend
 "Block Information",Information,module,Magento_Backend
 "Backup Options","Options de sauvegarde",module,Magento_Backend
 "Create DB Backup","Créer une sauvegarde de la BDD",module,Magento_Backend
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Backend
+Yes,Oui,module,Magento_Backend
 No,Non,module,Magento_Backend
 "Delete Store","Supprimer le magasin",module,Magento_Backend
 "Delete Web Site","Supprimer le Site Web",module,Magento_Backend
@@ -2493,7 +2493,7 @@ Actions,Actions,module,Magento_CatalogRule
 Apply,Appliquer,module,Magento_CatalogRule
 "Discount Amount",Remise,module,Magento_CatalogRule
 "Discard subsequent rules","Discard subsequent rules",module,Magento_CatalogRule
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_CatalogRule
+Yes,Oui,module,Magento_CatalogRule
 No,Non,module,Magento_CatalogRule
 catalog_rule,catalog_rule,module,Magento_CatalogRuleStaging
 "Magento\CatalogRule\Api\Data\RuleInterface","Magento\CatalogRule\Api\Data\RuleInterface",module,Magento_CatalogRuleStaging
@@ -2546,7 +2546,7 @@ Home,Accueil,module,Magento_CatalogSearch
 "Go to Home Page","Aller à la page d'accueil",module,Magento_CatalogSearch
 "Catalog Advanced Search","Recherche avancée dans le catalogue",module,Magento_CatalogSearch
 All,Tous,module,Magento_CatalogSearch
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_CatalogSearch
+Yes,Oui,module,Magento_CatalogSearch
 No,Non,module,Magento_CatalogSearch
 Results,Résultats,module,Magento_CatalogSearch
 "Advanced Search Results","Résultat de recherche avancée",module,Magento_CatalogSearch
@@ -3192,7 +3192,7 @@ Store,Magasin,module,Magento_Config
 "HTTPS (SSL)","HTTPS (SSL)",module,Magento_Config
 "Yes (302 Found)","Oui (302 Document déplacé de façon temporaire)",module,Magento_Config
 "Yes (301 Moved Permanently)","Oui (301 Document déplacé de façon permanente)",module,Magento_Config
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Config
+Yes,Oui,module,Magento_Config
 Specified,Spécifié,module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Un modèle de clone de champs de formulaire de configuration est nécessaire pour pouvoir cloner les champs",module,Magento_Config
 "%1: Instance of %2 is expected, got %3 instead","%1: Instance of %2 is expected, got %3 instead",module,Magento_Config
@@ -3499,7 +3499,7 @@ Currency,Devise,module,Magento_CurrencySymbol
 "The current module XML block name is undefined.","The current module XML block name is undefined.",module,Magento_CustomAttributeManagement
 "The current module form model pathname is undefined.","The current module form model pathname is undefined.",module,Magento_CustomAttributeManagement
 No,Non,module,Magento_CustomAttributeManagement
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_CustomAttributeManagement
+Yes,Oui,module,Magento_CustomAttributeManagement
 "Use helper with defined EAV entity.","Utiliser une connexion FTP",module,Magento_CustomAttributeManagement
 "Default EAV Form","Default EAV Form",module,Magento_CustomAttributeManagement
 "Please correct the values for minimum and maximum text length validation rules.","Please correct the values for minimum and maximum text length validation rules.",module,Magento_CustomAttributeManagement
@@ -3596,7 +3596,7 @@ Locked,Locked,module,Magento_Customer
 "Days in Wish List","Days in Wish List",module,Magento_Customer
 Unlock,Unlock,module,Magento_Customer
 No,Non,module,Magento_Customer
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Customer
+Yes,Oui,module,Magento_Customer
 "Delete File","Supprimer le fichier",module,Magento_Customer
 Download,Télécharger,module,Magento_Customer
 "Delete Image","Effacer l'image",module,Magento_Customer
@@ -4153,7 +4153,7 @@ Properties,Propriétés,module,Magento_CustomerCustomAttributes
 "Attribute Information","Informations attributs",module,Magento_CustomerCustomAttributes
 "Visible to Customer","Visible to Customer",module,Magento_CustomerCustomAttributes
 No,Non,module,Magento_CustomerCustomAttributes
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_CustomerCustomAttributes
+Yes,Oui,module,Magento_CustomerCustomAttributes
 "Customer Attributes","Customer Attributes",module,Magento_CustomerCustomAttributes
 "Edit Customer Attribute ""%1""","Edit Customer Attribute ""%1""",module,Magento_CustomerCustomAttributes
 "New Customer Attribute","New Customer Attribute",module,Magento_CustomerCustomAttributes
@@ -4697,7 +4697,7 @@ Unlimited,Illimité,module,Magento_Downloadable
 "There is no downloadable sample with provided ID.","There is no downloadable sample with provided ID.",module,Magento_Downloadable
 "Provided downloadable sample is not related to given product.","Provided downloadable sample is not related to given product.",module,Magento_Downloadable
 "Cannot delete sample with id %1","Cannot delete sample with id %1",module,Magento_Downloadable
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Downloadable
+Yes,Oui,module,Magento_Downloadable
 No,Non,module,Magento_Downloadable
 "Use config","Utiliser la config",module,Magento_Downloadable
 "Upload File","Upload File",module,Magento_Downloadable
@@ -4791,7 +4791,7 @@ Error,Erreur,module,Magento_DownloadableImportExport
 "Not shared with other products.","Not shared with other products.",module,Magento_Eav
 "Input Validation for Store Owner","Validation requise",module,Magento_Eav
 Required,Obligatoire,module,Magento_Eav
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Eav
+Yes,Oui,module,Magento_Eav
 No,Non,module,Magento_Eav
 System,Système,module,Magento_Eav
 None,Aucun,module,Magento_Eav
@@ -5179,7 +5179,7 @@ Combined,Combiné,module,Magento_GiftCard
 "Gift Card Recipient","Gift Card Recipient",module,Magento_GiftCard
 "Gift Card Message","Gift Card Message",module,Magento_GiftCard
 "Gift Card Lifetime","Gift Card Lifetime",module,Magento_GiftCard
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_GiftCard
+Yes,Oui,module,Magento_GiftCard
 No,Non,module,Magento_GiftCard
 "Gift Card Is Redeemable","Gift Card Is Redeemable",module,Magento_GiftCard
 "We cannot create this gift card.","We cannot create this gift card.",module,Magento_GiftCard
@@ -5268,7 +5268,7 @@ Information,Informations,module,Magento_GiftCardAccount
 "Gift Card Code","Gift Card Code",module,Magento_GiftCardAccount
 Status,Statut,module,Magento_GiftCardAccount
 Active,Actif,module,Magento_GiftCardAccount
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_GiftCardAccount
+Yes,Oui,module,Magento_GiftCardAccount
 No,Non,module,Magento_GiftCardAccount
 Redeemable,"Répertoire récursif",module,Magento_GiftCardAccount
 Website,"Site web""%s and greater",module,Magento_GiftCardAccount
@@ -5472,7 +5472,7 @@ Registrants,Registrants,module,Magento_GiftRegistry
 Remaining,Remaining,module,Magento_GiftRegistry
 Public,PSPID,module,Magento_GiftRegistry
 No,Non,module,Magento_GiftRegistry
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_GiftRegistry
+Yes,Oui,module,Magento_GiftRegistry
 Website,"Site web""%s and greater",module,Magento_GiftRegistry
 "Gift Registry Types","Gift Registry Types",module,Magento_GiftRegistry
 "Add Gift Registry Type","Add Gift Registry Type",module,Magento_GiftRegistry
@@ -5847,7 +5847,7 @@ Enable,Activer,module,Magento_GoogleAnalytics
 "Category View Optimization","Category View Optimization",module,Magento_GoogleOptimizer
 "Google Analytics Enhanced Ecommerce Settings","Type de compte",module,Magento_GoogleTagManager
 "Send to Google","Send to Google",module,Magento_GoogleTagManager
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_GoogleTagManager
+Yes,Oui,module,Magento_GoogleTagManager
 No,Non,module,Magento_GoogleTagManager
 Creative,Creative,module,Magento_GoogleTagManager
 "Universal Analytics","Universal Analytics",module,Magento_GoogleTagManager
@@ -7113,7 +7113,7 @@ Shipping,Livraison,module,Magento_Payment
 "Please enter a valid credit card verification number.","Veuillez saisir un numéro de vérification de carte bancaire valide.",module,Magento_Payment
 "Please enter a valid credit card expiration date.","Please enter a valid credit card expiration date.",module,Magento_Payment
 "%1 class doesn't implement \Magento\Payment\Model\MethodInterface","%1 class doesn't implement \Magento\Payment\Model\MethodInterface",module,Magento_Payment
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Payment
+Yes,Oui,module,Magento_Payment
 No,Non,module,Magento_Payment
 "Failure #1","Failure #1",module,Magento_Payment
 "Failure #2","Failure #2",module,Magento_Payment
@@ -7257,7 +7257,7 @@ Shortcut,Raccourci,module,Magento_Paypal
 "Acceptance Mark Image","Image de marque d'acceptation",module,Magento_Paypal
 Authorization,Autorisation,module,Magento_Paypal
 Sale,Vente,module,Magento_Paypal
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Paypal
+Yes,Oui,module,Magento_Paypal
 No,Non,module,Magento_Paypal
 "For Virtual Quotes Only","Pour les commandes virtuelles uniquement",module,Magento_Paypal
 Auto,Auto,module,Magento_Paypal
@@ -7976,7 +7976,7 @@ Email,Email,module,Magento_Reminder
 "Matched At","Matched At",module,Magento_Reminder
 "Thread Active","Thread Active",module,Magento_Reminder
 No,Non,module,Magento_Reminder
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Reminder
+Yes,Oui,module,Magento_Reminder
 Coupon,"Bon de réduction",module,Magento_Reminder
 N/A,N/A,module,Magento_Reminder
 "Coupon Use Limit","Coupon Use Limit",module,Magento_Reminder
@@ -8126,7 +8126,7 @@ Year,"Année""<a href=""%s"" target=""_blank"">Link</a>",module,Magento_Reports
 Period,Période,module,Magento_Reports
 From,Depuis,module,Magento_Reports
 To,À,module,Magento_Reports
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Reports
+Yes,Oui,module,Magento_Reports
 No,Non,module,Magento_Reports
 "Empty Rows","Lignes vides",module,Magento_Reports
 "Invalid date specified","Invalid date specified",module,Magento_Reports
@@ -8735,7 +8735,7 @@ Properties,Propriétés,module,Magento_Rma
 "Attribute Information","Informations attributs",module,Magento_Rma
 "Visible to Customer","Visible to Customer",module,Magento_Rma
 No,Non,module,Magento_Rma
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Rma
+Yes,Oui,module,Magento_Rma
 "Submit Returns","Submit Returns",module,Magento_Rma
 "Add Products","Ajouter des produits",module,Magento_Rma
 "Add Selected Product(s) to returns","Add Selected Product(s) to returns",module,Magento_Rma
@@ -9211,7 +9211,7 @@ Any,Tous,module,Magento_Sales
 Specified,Spécifié,module,Magento_Sales
 "Applies to Any of the Specified Order Statuses except canceled orders","Applies to Any of the Specified Order Statuses except canceled orders",module,Magento_Sales
 "Cart Price Rule","Certains articles dans le panier ne sont pas elligibles à l'export vers l'API PayPal.",module,Magento_Sales
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Sales
+Yes,Oui,module,Magento_Sales
 No,Non,module,Magento_Sales
 "Show Actual Values","Montrer les valeurs actuelles",module,Magento_Sales
 "New Order RSS","Flux RSS des nouvelles commandes",module,Magento_Sales
@@ -9950,7 +9950,7 @@ Generate,Générer,module,Magento_SalesRule
 Created,Créer...,module,Magento_SalesRule
 Uses,"Les utilisateurs verront cette image au chargement de l'application. Image de 320 x 460px.",module,Magento_SalesRule
 No,Non,module,Magento_SalesRule
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_SalesRule
+Yes,Oui,module,Magento_SalesRule
 "Times Used","Nombre d'utilisations",module,Magento_SalesRule
 CSV,CSV,module,Magento_SalesRule
 "Excel XML","XML d'Excel",module,Magento_SalesRule
@@ -10134,7 +10134,7 @@ Labels,Labels,module,Magento_SalesRuleStaging
 "Fatal Error","Fatal Error",module,Magento_ScalableCheckout
 "Advanced Inventory",Disponibilité,module,Magento_ScalableInventory
 "Manage Stock","Gérer les stocks",module,Magento_ScalableInventory
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_ScalableInventory
+Yes,Oui,module,Magento_ScalableInventory
 No,Non,module,Magento_ScalableInventory
 "Use Config Settings","Utiliser les paramètres de la configuration",module,Magento_ScalableInventory
 [GLOBAL],[GLOBAL],module,Magento_ScalableInventory
@@ -10295,7 +10295,7 @@ Search,Chercher,module,Magento_Search
 "Search Information","Informations de recherche",module,Magento_Search
 "General Information","Informations générales",module,Magento_Search
 No,Non,module,Magento_Search
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Search
+Yes,Oui,module,Magento_Search
 "Search Query","Termes de recherche",module,Magento_Search
 Store,Magasin,module,Magento_Search
 "Number of results","Nombre de résultats",module,Magento_Search
@@ -10927,7 +10927,7 @@ Windows,Windows,module,Magento_Support
 "And more...","And more...",module,Magento_Support
 "Column %1","Column %1",module,Magento_Support
 "Preparing system report data: Detected Single Row Mode but data may be incomplete.","Preparing system report data: Detected Single Row Mode but data may be incomplete.",module,Magento_Support
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Support
+Yes,Oui,module,Magento_Support
 No,Non,module,Magento_Support
 "All Eav Attributes","All Eav Attributes",module,Magento_Support
 "Category Eav Attributes","Category Eav Attributes",module,Magento_Support
@@ -12220,7 +12220,7 @@ Rectangular,Rectangulaire,module,Magento_Usps
 Non-rectangular,"Non rectangulaire",module,Magento_Usps
 Regular,Régulier,module,Magento_Usps
 Large,Grand,module,Magento_Usps
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Usps
+Yes,Oui,module,Magento_Usps
 No,Non,module,Magento_Usps
 "Not Required","Non requis",module,Magento_Usps
 Required,Obligatoire,module,Magento_Usps
@@ -12278,7 +12278,7 @@ Variable,Variable,module,Magento_Variable
 "Variable Name","Nom de la variable",module,Magento_Variable
 "Use Default Variable Values","Utiliser les valeurs par défaut",module,Magento_Variable
 No,Non,module,Magento_Variable
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Variable
+Yes,Oui,module,Magento_Variable
 "Variable HTML Value","Valeur HTML de la variable",module,Magento_Variable
 "Variable Plain Value","Valeur texte de la variable",module,Magento_Variable
 "You deleted the custom variable.","You deleted the custom variable.",module,Magento_Variable
@@ -12384,7 +12384,7 @@ Square,Square,module,Magento_VersionsCms
 Unordered,Unordered,module,Magento_VersionsCms
 Ordered,Commandé,module,Magento_VersionsCms
 "Use Parent","Use Parent",module,Magento_VersionsCms
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_VersionsCms
+Yes,Oui,module,Magento_VersionsCms
 "Use the parent node hierarchy.","Use the parent node hierarchy.",module,Magento_VersionsCms
 "Are you sure you want to delete current hierarchy?","Are you sure you want to delete current hierarchy?",module,Magento_VersionsCms
 "This page cannot be added, because a node or page with the same URL Key already exists in this tree part.","This page cannot be added, because a node or page with the same URL Key already exists in this tree part.",module,Magento_VersionsCms
@@ -12495,7 +12495,7 @@ Logic,Logique,module,Magento_VisualMerchandiser
 "Add Condition","Add Condition",module,Magento_VisualMerchandiser
 Delete,Supprimer,module,Magento_VisualMerchandiser
 "Match products by rule","Match products by rule",module,Magento_VisualMerchandiser
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_VisualMerchandiser
+Yes,Oui,module,Magento_VisualMerchandiser
 No,Non,module,Magento_VisualMerchandiser
 "Add Products","Ajouter des produits",module,Magento_VisualMerchandiser
 "Save and Close","Save and Close",module,Magento_VisualMerchandiser
