@@ -11589,7 +11589,7 @@ Password:,Password:,module,Magento_Theme
 Empty,Vide,module,Magento_Theme
 "1 column","1 colonne",module,Magento_Theme
 Configuration,Configuration,module,Magento_Theme
-"Default welcome msg!","Message d'accueil par défaut",module,Magento_Theme
+"Default welcome msg!","Message d\'accueil par défaut",module,Magento_Theme
 "Copyright © 2013-2017 Magento, Inc. All rights reserved.","Copyright © 2013-2017 Magento, Inc. All rights reserved.",module,Magento_Theme
 "Design Config Grid","Design Config Grid",module,Magento_Theme
 "Rebuild design config grid index","Rebuild design config grid index",module,Magento_Theme
