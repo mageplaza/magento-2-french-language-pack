@@ -6186,17 +6186,17 @@
 "We cannot specify the product.","Impossible de spécifier le produit.",module,Magento_GiftRegistry
 "The gift registry item quantity is incorrect. Verify the item quantity and try again.","La quantité du produit enregistré n'est pas correct. Veuillez vérifier la quantité and essayez à nouveau.",module,Magento_GiftRegistry
 "The gift registry item ID is incorrect. Verify the gift registry item ID and try again.","L'ID du produit enregistré n'est pas correct. Veuillez vérifier l'ID et essayez à nouveau.",module,Magento_GiftRegistry
-"The quantity of ""%1"" product added to cart exceeds the quantity desired by the Gift Registry owner. The quantity added has been adjusted to meet remaining quantity %2.","The quantity of ""%1"" product added to cart exceeds the quantity desired by the Gift Registry owner. The quantity added has been adjusted to meet remaining quantity %2.",module,Magento_GiftRegistry
-"Existing quantity of ""%1"" product in the cart has been replaced with quantity %2 just requested.","Existing quantity of ""%1"" product in the cart has been replaced with quantity %2 just requested.",module,Magento_GiftRegistry
-"This product(s) is out of stock.","This product(s) is out of stock.",module,Magento_GiftRegistry
-"Please correct the product for adding the item to the quote.","Please correct the product for adding the item to the quote.",module,Magento_GiftRegistry
-"Please correct the item option format.","Please correct the item option format.",module,Magento_GiftRegistry
+"The quantity of ""%1"" product added to cart exceeds the quantity desired by the Gift Registry owner. The quantity added has been adjusted to meet remaining quantity %2.","La quantité du produit ""%1"" ajoutée au panier dépasse la quantité souhaitée par le propriétaire du registre des cadeaux. La quantité ajoutée a été ajustée pour correspondre avec la quantité restante %2.",module,Magento_GiftRegistry
+"Existing quantity of ""%1"" product in the cart has been replaced with quantity %2 just requested.","La quantité actuelle du produit ""%1"" dans le panier a été remplacée par la quantité %2 qui vient juste d'être demandée.",module,Magento_GiftRegistry
+"This product(s) is out of stock.","Produit(s) en rupture de stock.",module,Magento_GiftRegistry
+"Please correct the product for adding the item to the quote.","Merci de modifier le produit pour ajouter l'élément à la cotation.",module,Magento_GiftRegistry
+"Please correct the item option format.","Merci de modifier le format de l'option de l'élément.",module,Magento_GiftRegistry
 "An item option with code %1 already exists.","Une option article avec le code %1 existe déjà.",module,Magento_GiftRegistry
 "New","Nouveau",module,Magento_GiftRegistry
 "Please enter the first name.","Veuillez renseigner le prénom.",module,Magento_GiftRegistry
 "Please enter the last name.","Veuillez renseigner le nom de famille.",module,Magento_GiftRegistry
-"Please enter a valid email address(for example, daniel@x.com).","Please enter a valid email address(for example, daniel@x.com).",module,Magento_GiftRegistry
-"Ship to the recipient's address.","Ship to the recipient's address.",module,Magento_GiftRegistry
+"Please enter a valid email address(for example, daniel@x.com).","Veuillez saisir une adresse email valide. Par exemple prenom.nom@domaine.com.",module,Magento_GiftRegistry
+"Ship to the recipient's address.","Expédier à l'adresse du destinataire.",module,Magento_GiftRegistry
 "-- All --","-- Tous --",module,Magento_GiftRegistry
 "Unknown gift registry identifier","Identifiant inconnu de registre des cadeaux",module,Magento_GiftRegistry
 "All Forms","Tous les modèles",module,Magento_GiftRegistry
@@ -6300,54 +6300,54 @@
 "Registry Location:","Emplacement du Registre :",module,Magento_GiftRegistry
 "Registry ID:","Identifiant du registre :",module,Magento_GiftRegistry
 "Gift Registry shared at %store_name","Registre des cadeaux partagé chez %store_name",module,Magento_GiftRegistry
-"You can view and purchase items from this gift registry at <a href='%account_url'>%store_name</a>.","You can view and purchase items from this gift registry at <a href='%account_url'>%store_name</a>.",module,Magento_GiftRegistry
-"Gift Registry:","Gift Registry:",module,Magento_GiftRegistry
-"Created For:","Created For:",module,Magento_GiftRegistry
-"You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.","You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.",module,Magento_GiftRegistry
-"Gift Registry updated at %store_name","Gift Registry updated at %store_name",module,Magento_GiftRegistry
+"You can view and purchase items from this gift registry at <a href='%account_url'>%store_name</a>.","Vous pouvez voir et acheter des articles de ce registre de cadeaux chez <a href='%account_url'>%store_name</a>.",module,Magento_GiftRegistry
+"Gift Registry:","Registre des cadeaux :",module,Magento_GiftRegistry
+"Created For:","Créé pour :",module,Magento_GiftRegistry
+"You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.","Vous pouvez créer votre propre registre des cadeaux chez <a href='%account_url'>%store_name</a> et le partager avec des amis ou votre famille.",module,Magento_GiftRegistry
+"Gift Registry updated at %store_name","Registre des cadeaux modifié chez %store_name",module,Magento_GiftRegistry
 "The following items have been purchased from your gift registry ""%registry_name"":","The following items have been purchased from your gift registry ""%registry_name"":",module,Magento_GiftRegistry
-"You can sign in to your account to view more details about this gift registry.","You can sign in to your account to view more details about this gift registry.",module,Magento_GiftRegistry
-"Ship to Recipient Address","Ship to Recipient Address",module,Magento_GiftRegistry
-"Ship Here","Ship Here",module,Magento_GiftRegistry
-"Recipient Address","Recipient Address",module,Magento_GiftRegistry
-"Use gift registry shipping address","Use gift registry shipping address",module,Magento_GiftRegistry
-"The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.","The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.",module,Magento_GiftRegistry
+"You can sign in to your account to view more details about this gift registry.","Vous pouvez vous connecter à votre compte pour voir plus de détails concernant ce registre des cadeaux.",module,Magento_GiftRegistry
+"Ship to Recipient Address","Expédier à l'adresse du destinataire",module,Magento_GiftRegistry
+"Ship Here","Livrer ici",module,Magento_GiftRegistry
+"Recipient Address","Adresse du destinataire",module,Magento_GiftRegistry
+"Use gift registry shipping address","Utiliser une adresse d'expédition du registre des cadeaux",module,Magento_GiftRegistry
+"The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.","Le seul endroit pour modifier le nombre d’articles du registre des cadeaux est sur la page Info du registre des cadeaux ou directement dans votre panier.",module,Magento_GiftRegistry
 "Text","Texte",module,Magento_GiftRegistry
-"Gift Registry Details","Gift Registry Details",module,Magento_GiftRegistry
+"Gift Registry Details","Détails du registre des cadeaux",module,Magento_GiftRegistry
 "Role","Rôle",module,Magento_GiftRegistry
-"Event Data","Event Data",module,Magento_GiftRegistry
-"Event Information","Event Information",module,Magento_GiftRegistry
-"Event Country","Event Country",module,Magento_GiftRegistry
-"My event special","My event special",module,Magento_GiftRegistry
-"My special attribute","My special attribute",module,Magento_GiftRegistry
-"Gift Registry Section","Gift Registry Section",module,Magento_GiftRegistry
+"Event Data","Données de l'événement",module,Magento_GiftRegistry
+"Event Information","Informations sur l'événement",module,Magento_GiftRegistry
+"Event Country","Pays de l'événement",module,Magento_GiftRegistry
+"My event special","Mon événement spécial",module,Magento_GiftRegistry
+"My special attribute","Mon attribut spécial",module,Magento_GiftRegistry
+"Gift Registry Section","Section du registre des cadeaux",module,Magento_GiftRegistry
 "General Options","Options générales",module,Magento_GiftRegistry
-"Enable Gift Registry","Enable Gift Registry",module,Magento_GiftRegistry
-"Maximum Registrants","Maximum Registrants",module,Magento_GiftRegistry
-"Owner Notification","Owner Notification",module,Magento_GiftRegistry
+"Enable Gift Registry","Autoriser les registres des cadeaux",module,Magento_GiftRegistry
+"Maximum Registrants","Nombre maximum d'inscrits",module,Magento_GiftRegistry
+"Owner Notification","Notification du propriétaire",module,Magento_GiftRegistry
 "Email Template","Gabarit du mail",module,Magento_GiftRegistry
 "Email Sender","Expéditeur du mail",module,Magento_GiftRegistry
-"Gift Registry Sharing","Gift Registry Sharing",module,Magento_GiftRegistry
-"Maximum Sent Emails Threshold","Maximum Sent Emails Threshold",module,Magento_GiftRegistry
-"Gift Registry Update","Gift Registry Update",module,Magento_GiftRegistry
+"Gift Registry Sharing","Partage d'un registre des cadeaux",module,Magento_GiftRegistry
+"Maximum Sent Emails Threshold","Seuil maximal de courriels envoyés",module,Magento_GiftRegistry
+"Gift Registry Update","Mise à jour du registre des cadeaux",module,Magento_GiftRegistry
 "Select","Sélectionnez",module,Magento_GiftRegistry
 "Date","Date",module,Magento_GiftRegistry
-"Event Region Id","Event Region Id",module,Magento_GiftRegistry
-"Event Region Text","Event Region Text",module,Magento_GiftRegistry
-"Event Location","Event Location",module,Magento_GiftRegistry
-"Gift Registry Quick Search Form","Gift Registry Quick Search Form",module,Magento_GiftRegistry
-"Quick Search Form Types","Quick Search Form Types",module,Magento_GiftRegistry
+"Event Region Id","Identifiant de la région de l'événement",module,Magento_GiftRegistry
+"Event Region Text","Texte de la région de l'événement",module,Magento_GiftRegistry
+"Event Location","Lieu de l'événement",module,Magento_GiftRegistry
+"Gift Registry Quick Search Form","Formulaire de recherche rapide pour le registre des cadeaux",module,Magento_GiftRegistry
+"Quick Search Form Types","Types de formulaires de recherche rapide",module,Magento_GiftRegistry
 "Template","Gabarit",module,Magento_GiftRegistry
 "Default Template","Gabarit par défaut",module,Magento_GiftRegistry
-"Listed","Listed",module,Magento_GiftRegistry
+"Listed","Répertorié",module,Magento_GiftRegistry
 "Gift Wrapping","Emballage-cadeau",module,Magento_GiftWrapping
-"Add Gift Wrapping","Add Gift Wrapping",module,Magento_GiftWrapping
+"Add Gift Wrapping","Ajouter un emballage-cadeau",module,Magento_GiftWrapping
 "Save and Continue Edit","Sauvegarder et continuer à éditer",module,Magento_GiftWrapping
-"Are you sure you want to delete this gift wrapping?","Are you sure you want to delete this gift wrapping?",module,Magento_GiftWrapping
-"Edit Gift Wrapping ""%1""","Edit Gift Wrapping ""%1""",module,Magento_GiftWrapping
-"New Gift Wrapping","New Gift Wrapping",module,Magento_GiftWrapping
-"Gift Wrapping Information","Gift Wrapping Information",module,Magento_GiftWrapping
-"Gift Wrapping Design","Gift Wrapping Design",module,Magento_GiftWrapping
+"Are you sure you want to delete this gift wrapping?","Etes-vous sûr de vouloir supprimer cet emballage-cadeau ?",module,Magento_GiftWrapping
+"Edit Gift Wrapping ""%1""","Modifier l'emballage-cadeau ""%1""",module,Magento_GiftWrapping
+"New Gift Wrapping","Nouvel emballage-cadeau",module,Magento_GiftWrapping
+"Gift Wrapping Information","Information d'un emballage-cadeau",module,Magento_GiftWrapping
+"Gift Wrapping Design","Conception d'un emballage-cadeau",module,Magento_GiftWrapping
 "Websites","Sites web",module,Magento_GiftWrapping
 "Status","Statut",module,Magento_GiftWrapping
 "Enabled","Activé",module,Magento_GiftWrapping
@@ -6357,15 +6357,15 @@
 "[GLOBAL]","[GLOBAL]",module,Magento_GiftWrapping
 "[WEBSITE]","[SITE WEB]",module,Magento_GiftWrapping
 "[STORE VIEW]","[VUE MAGASIN]",module,Magento_GiftWrapping
-"Please request the correct gift wrapping.","Please request the correct gift wrapping.",module,Magento_GiftWrapping
-"You updated a total of %1 records.","You updated a total of %1 records.",module,Magento_GiftWrapping
-"Something went wrong while updating the wrapping(s) status.","Something went wrong while updating the wrapping(s) status.",module,Magento_GiftWrapping
-"You deleted the gift wrapping.","You deleted the gift wrapping.",module,Magento_GiftWrapping
+"Please request the correct gift wrapping.","Veuillez demander l'emballage-cadeau correct.",module,Magento_GiftWrapping
+"You updated a total of %1 records.","Vous avez mis à jour un total de %1 enregistrements.",module,Magento_GiftWrapping
+"Something went wrong while updating the wrapping(s) status.","Une erreur s'est produite lors de la mise à jour des statuts des emballages.",module,Magento_GiftWrapping
+"You deleted the gift wrapping.","Vous avez supprimé l'emballage-cadeau.",module,Magento_GiftWrapping
 "%1","%1",module,Magento_GiftWrapping
-"An item needs to be selected. Select and try again.","An item needs to be selected. Select and try again.",module,Magento_GiftWrapping
+"An item needs to be selected. Select and try again.","Un élément doit être sélectionné. Sélectionnez, puis réessayez.",module,Magento_GiftWrapping
 "You deleted a total of %1 records.","Vous pouvez activer cette option pour utiliser la fonctionnalité de réécritures du serveur web pour l'optimisation pour les moteurs de recherche",module,Magento_GiftWrapping
-"You have not uploaded the image.","You have not uploaded the image.",module,Magento_GiftWrapping
-"You saved the gift wrapping.","You saved the gift wrapping.",module,Magento_GiftWrapping
+"You have not uploaded the image.","Vous n'avez pas téléchargé l'image.",module,Magento_GiftWrapping
+"You saved the gift wrapping.","Vous avez sauvegardé l'emballage-cadeau.",module,Magento_GiftWrapping
 "We can't save the gift wrapping right now.","We can't save the gift wrapping right now.",module,Magento_GiftWrapping
 "We can't update the image right now.","We can't update the image right now.",module,Magento_GiftWrapping
 "Please select","Sélectionnez",module,Magento_GiftWrapping
@@ -6373,46 +6373,46 @@
 "Including Tax","TTC",module,Magento_GiftWrapping
 "Including and Excluding Tax","HT et TTC",module,Magento_GiftWrapping
 "None","Aucun",module,Magento_GiftWrapping
-"The image content must be valid data.","The image content must be valid data.",module,Magento_GiftWrapping
-"The image extension ""%1"" not allowed.","The image extension ""%1"" not allowed.",module,Magento_GiftWrapping
-"Provided image name contains forbidden characters.","Provided image name contains forbidden characters.",module,Magento_GiftWrapping
-"The image MIME type is not valid or not supported.","The image MIME type is not valid or not supported.",module,Magento_GiftWrapping
-"Gift wrapping with the %1 ID wasn't found. Verify the ID and try again.","Gift wrapping with the %1 ID wasn't found. Verify the ID and try again.",module,Magento_GiftWrapping
-"A valid currency code wasn't entered. Enter a valid %1 currency code and try again.","A valid currency code wasn't entered. Enter a valid %1 currency code and try again.",module,Magento_GiftWrapping
-"The ""%1"" gift wrapping couldn't be removed.","The ""%1"" gift wrapping couldn't be removed.",module,Magento_GiftWrapping
-"Printed Card","Printed Card",module,Magento_GiftWrapping
-"Use Config Settings","Use Config Settings",module,Magento_GiftWrapping
+"The image content must be valid data.","Le contenu de l'image doit être correct.",module,Magento_GiftWrapping
+"The image extension ""%1"" not allowed.","L'extension de l'image ""%1"" n'est pas autorisé.",module,Magento_GiftWrapping
+"Provided image name contains forbidden characters.","Le nom fourni de l'image contient des caractères interdits.",module,Magento_GiftWrapping
+"The image MIME type is not valid or not supported.","Le type de l'image MIME n'est pas valide ou n'est pas supporté.",module,Magento_GiftWrapping
+"Gift wrapping with the %1 ID wasn't found. Verify the ID and try again.","L'emballage-cadeau avec l'identifiant %1 n'a pas été trouvé. Vérifiez l'identifiant et réessayez.",module,Magento_GiftWrapping
+"A valid currency code wasn't entered. Enter a valid %1 currency code and try again.","Un code de devise valide n'a pas été entré. Entrez un code de devise %1 valide et réessayez.",module,Magento_GiftWrapping
+"The ""%1"" gift wrapping couldn't be removed.","L'emballage-cadeau ""%1"" n'a pas pu être supprimé.",module,Magento_GiftWrapping
+"Printed Card","Carte imprimée",module,Magento_GiftWrapping
+"Use Config Settings","Utilisez les paramètres de configuration",module,Magento_GiftWrapping
 "Use Default Value","Utiliser la valeur par défaut",module,Magento_GiftWrapping
 "Leave a box blank if you don't want to add gift wrapping for whole order.","Leave a box blank if you don't want to add gift wrapping for whole order.",module,Magento_GiftWrapping
-"Price Excl. Tax","Price Excl. Tax",module,Magento_GiftWrapping
-"Price Incl. Tax","Price Incl. Tax",module,Magento_GiftWrapping
-"Send Gift Receipt","Send Gift Receipt",module,Magento_GiftWrapping
-"Add Printed Card","Add Printed Card",module,Magento_GiftWrapping
+"Price Excl. Tax","Prix HT",module,Magento_GiftWrapping
+"Price Incl. Tax","Prix TTC",module,Magento_GiftWrapping
+"Send Gift Receipt","Envoyer un reçu de cadeau",module,Magento_GiftWrapping
+"Add Printed Card","Ajouter une carte imprimée",module,Magento_GiftWrapping
 "Gift Wrapping for the Entire Order","Emballage cadeau pour la commande dans son intégralité",module,Magento_GiftWrapping
-"Other Gift Options","Other Gift Options",module,Magento_GiftWrapping
+"Other Gift Options","Autres options de cadeau",module,Magento_GiftWrapping
 "Excl. Tax","HT",module,Magento_GiftWrapping
 "Incl. Tax","TTC",module,Magento_GiftWrapping
 "Preview","Prévisualiser",module,Magento_GiftWrapping
-"Gift wrapping","Gift wrapping",module,Magento_GiftWrapping
-"Printed card","Printed card",module,Magento_GiftWrapping
-"Gift receipt","Gift receipt",module,Magento_GiftWrapping
-"Pick a paper of your choice (optional)","Pick a paper of your choice (optional)",module,Magento_GiftWrapping
+"Gift wrapping","Emballage-cadeau",module,Magento_GiftWrapping
+"Printed card","Carte imprimée",module,Magento_GiftWrapping
+"Gift receipt","Reçu pour cadeau",module,Magento_GiftWrapping
+"Pick a paper of your choice (optional)","Choisissez un papier de votre choix (facultatif)",module,Magento_GiftWrapping
 "No image","Pas d'image",module,Magento_GiftWrapping
 "Remove","Supprimer",module,Magento_GiftWrapping
-"Gift Receipt","Gift Receipt",module,Magento_GiftWrapping
-"Allow Gift Wrapping on Order Level","Allow Gift Wrapping on Order Level",module,Magento_GiftWrapping
-"Allow Gift Wrapping for Order Items","Allow Gift Wrapping for Order Items",module,Magento_GiftWrapping
-"Allow Gift Receipt","Allow Gift Receipt",module,Magento_GiftWrapping
-"Allow Printed Card","Allow Printed Card",module,Magento_GiftWrapping
-"Default Price for Printed Card","Default Price for Printed Card",module,Magento_GiftWrapping
-"Tax Class for Gift Options","Tax Class for Gift Options",module,Magento_GiftWrapping
-"Display Gift Wrapping Prices","Display Gift Wrapping Prices",module,Magento_GiftWrapping
-"Display Printed Card Prices","Display Printed Card Prices",module,Magento_GiftWrapping
+"Gift Receipt","Reçu pour cadeau",module,Magento_GiftWrapping
+"Allow Gift Wrapping on Order Level","Autoriser un emballage-cadeau au niveau d'une commande",module,Magento_GiftWrapping
+"Allow Gift Wrapping for Order Items","Autoriser un emballage-cadeau pour chaque ligne de commande",module,Magento_GiftWrapping
+"Allow Gift Receipt","Autoriser un reçu de cadeau",module,Magento_GiftWrapping
+"Allow Printed Card","Autoriser une carte imprimée",module,Magento_GiftWrapping
+"Default Price for Printed Card","Prix par défaut pour une cartes imprimée",module,Magento_GiftWrapping
+"Tax Class for Gift Options","Catégorie de taxe pour les options d'un cadeau",module,Magento_GiftWrapping
+"Display Gift Wrapping Prices","Afficher les prix d'un emballage-cadeau",module,Magento_GiftWrapping
+"Display Printed Card Prices","Afficher les prix d'une carte imprimée",module,Magento_GiftWrapping
 "Delete","Supprimer",module,Magento_GiftWrapping
-"Are you sure you want to delete the selected gift wrappings?","Are you sure you want to delete the selected gift wrappings?",module,Magento_GiftWrapping
+"Are you sure you want to delete the selected gift wrappings?","Etes-vous sûr de vouloir supprimer l'emballage-cadeau choisi ?",module,Magento_GiftWrapping
 "Change Status","Changer le statut",module,Magento_GiftWrapping
 "ID","ID",module,Magento_GiftWrapping
-"Gift Wrap Design","Gift Wrap Design",module,Magento_GiftWrapping
+"Gift Wrap Design","Conception d'un emballage-cadeau",module,Magento_GiftWrapping
 "Action","Action",module,Magento_GiftWrapping
 "Edit","Éditer",module,Magento_GiftWrapping
 "Dynamic","Dynamique",module,Magento_GoogleAdwords
@@ -6692,8 +6692,8 @@
 "Enter URL where Oauth credentials can be sent when using Oauth for token exchange. We strongly recommend using https://.","Entrez le URL où les informations d’authentification Oauth peuvent être envoyées quand utilisant Oauth token échange. Nous recommandons fortement d’utiliser https://.",module,Magento_Integration
 "Identity link URL","URL de lien d’identité",module,Magento_Integration
 "URL to redirect user to link their 3rd party account with this Magento integration credentials.","URL pour rediriger l’utilisateur afin de lier leur compte de 3ème partie avec cette références d’intégration Magento.",module,Magento_Integration
-"Current User Identity Verification","Current User Identity Verification",module,Magento_Integration
-"Your Password","Your Password",module,Magento_Integration
+"Current User Identity Verification","Vérification de l’identité utilisateur actuel",module,Magento_Integration
+"Your Password","Votre mot de passe",module,Magento_Integration
 "Integration Details","Détails de l’intégration",module,Magento_Integration
 "Basic Settings","Paramètres de base",module,Magento_Integration
 "Integration Tokens for Extensions","Intégration des jetons pour les Extensions",module,Magento_Integration
@@ -6707,7 +6707,7 @@
 "Edit","Éditer",module,Magento_Integration
 "Activate","Activez",module,Magento_Integration
 "Reauthorize","Réautoriser",module,Magento_Integration
-"Integration not secure","Integration not secure",module,Magento_Integration
+"Integration not secure","Intégration non sécurisée",module,Magento_Integration
 "Uninstall the extension to remove integration '%1'.","Désinstaller l’extension pour supprimer l’intégration '%1'.",module,Magento_Integration
 "This integration no longer exists.","Cette intégration n’existe plus.",module,Magento_Integration
 "The integration '%1' has been deleted.","L’intégration de '%1' a été supprimée.",module,Magento_Integration
@@ -6716,157 +6716,157 @@
 "View ""%1"" Integration","Voir l’intégration ""%1""",module,Magento_Integration
 "Edit ""%1"" Integration","Modifier l’intégration ""%1""",module,Magento_Integration
 "Warning! Integrations not using HTTPS are insecure and potentially expose private or personally identifiable information","Mise en garde ! Intégrations n'utilise pas HTTPS sont non-sécurisées et exposent les informations personnellement identifiables ou privées",module,Magento_Integration
-"The integrations created in the config file can't be edited.","The integrations created in the config file can't be edited.",module,Magento_Integration
+"The integrations created in the config file can't be edited.","Les intégrations créées dans le fichier de config ne peut pas être modifiées.",module,Magento_Integration
 "The integration '%1' has been saved.","The integration '%1' has been saved.",module,Magento_Integration
 "The integration was not saved.","L’intégration n'a pas été sauvegardée.",module,Magento_Integration
 "The integration '%1' has been re-authorized.","L’intégration '%1' a été ré-autorisée.",module,Magento_Integration
 "The integration '%1' has been activated.","L’intégration '%1' a été activée.",module,Magento_Integration
 "Integration '%1' has been sent for re-authorization.","L'intégration '%1' a été envoyée pour la ré-autorisation.",module,Magento_Integration
 "Integration '%1' has been sent for activation.","L'intégration '%1' a été envoyée pour activation.",module,Magento_Integration
-"A consumer with ""%1"" ID doesn't exist. Verify the ID and try again.","A consumer with ""%1"" ID doesn't exist. Verify the ID and try again.",module,Magento_Integration
-"title","title",module,Magento_Integration
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Integration
+"A consumer with ""%1"" ID doesn't exist. Verify the ID and try again.","Un utilisateur avec l’ID «%1» n’existe pas. Vérifiez l’ID et réessayez.",module,Magento_Integration
+"title","titre",module,Magento_Integration
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","La connexion au compte est incorrecte ou votre compte est temporairement désactivé. S’il vous plaît attendez et réessayez plus tard.",module,Magento_Integration
 "This user has no tokens.","Cet utilisateur n’a pas de jetons.",module,Magento_Integration
-"The tokens couldn't be revoked.","The tokens couldn't be revoked.",module,Magento_Integration
-"An error occurred during the attempt to grant permissions. For details, see the exceptions log.","An error occurred during the attempt to grant permissions. For details, see the exceptions log.",module,Magento_Integration
+"The tokens couldn't be revoked.","Les jetons ne peuvent être révoqués.",module,Magento_Integration
+"An error occurred during the attempt to grant permissions. For details, see the exceptions log.","Une erreur s'est produite pendant la tentative de modification des permissions. Pour les détails, consultez les logs.",module,Magento_Integration
 "Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Quelque chose s’est mal passé lors de la suppression de rôles et les autorisations. Vous en saurez plus dans le journal des exceptions.",module,Magento_Integration
-"""%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Integration
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" est requis. Entrez une valeur et réessayez.",module,Magento_Integration
 "This customer has no tokens.","Cet utilisateur n’a pas de jetons.",module,Magento_Integration
 "Inactive","Inactif",module,Magento_Integration
 "Active","Actif",module,Magento_Integration
 "Reset","Réinitialiser",module,Magento_Integration
-"The integration with name ""%1"" exists.","The integration with name ""%1"" exists.",module,Magento_Integration
-"The integration with ID ""%1"" doesn't exist.","The integration with ID ""%1"" doesn't exist.",module,Magento_Integration
+"The integration with name ""%1"" exists.","L'intégration avec le nom ""%1"" existe.",module,Magento_Integration
+"The integration with ID ""%1"" doesn't exist.","L'intégration avec l'ID ""%1"" n'existe pas.",module,Magento_Integration
 "One or more <a href=""%1"">integrations</a> have been reset because of a change to their xml configs.","Un ou plusieurs <a href=""%1"">intégrations</a> ont été réinitialisées à cause d’un changement de leurs configs de xml.",module,Magento_Integration
 "Invalid Callback URL","URL de rappel invalide",module,Magento_Integration
 "Invalid Rejected Callback URL","URL de rappel rejeté invalide",module,Magento_Integration
 "Incorrect timestamp value in the oauth_timestamp parameter","Valeur temporelle incorrecte dans le paramètre oauth_timestamp",module,Magento_Integration
 "The nonce is already being used by the consumer with ID %1","Le nonce est déjà utilisé par l'utilisateur avec l'ID %1",module,Magento_Integration
 "An error occurred validating the nonce","Une erreur est survenue à la validation du nonce",module,Magento_Integration
-"Cannot convert to access token due to token is not request type","Cannot convert to access token due to token is not request type",module,Magento_Integration
-"Consumer key has expired","Consumer key has expired",module,Magento_Integration
-"Cannot create request token because consumer token is not a verifier token","Cannot create request token because consumer token is not a verifier token",module,Magento_Integration
-"Request token is not associated with the specified consumer","Request token is not associated with the specified consumer",module,Magento_Integration
-"Token is already being used","Token is already being used",module,Magento_Integration
-"Cannot get access token because consumer token is not a request token","Cannot get access token because consumer token is not a request token",module,Magento_Integration
-"Token is not associated with the specified consumer","Token is not associated with the specified consumer",module,Magento_Integration
-"Token is not an access token","Token is not an access token",module,Magento_Integration
-"Access token has been revoked","Access token has been revoked",module,Magento_Integration
-"Consumer key is not the correct length","Consumer key is not the correct length",module,Magento_Integration
-"A consumer having the specified key does not exist","A consumer having the specified key does not exist",module,Magento_Integration
-"Verifier is invalid","Verifier is invalid",module,Magento_Integration
-"Verifier is not the correct length","Verifier is not the correct length",module,Magento_Integration
-"Token verifier and verifier token do not match","Token verifier and verifier token do not match",module,Magento_Integration
-"A consumer with the ID %1 does not exist","A consumer with the ID %1 does not exist",module,Magento_Integration
-"The token length is invalid. Check the length and try again.","The token length is invalid. Check the length and try again.",module,Magento_Integration
-"Specified token does not exist","Specified token does not exist",module,Magento_Integration
-"A token with consumer ID %1 does not exist","A token with consumer ID %1 does not exist",module,Magento_Integration
-"The oAuth consumer account couldn't be created due to an unexpected error. Please try again later.","The oAuth consumer account couldn't be created due to an unexpected error. Please try again later.",module,Magento_Integration
-"The oAuth consumer account couldn't be loaded due to an unexpected error. Please try again later.","The oAuth consumer account couldn't be loaded due to an unexpected error. Please try again later.",module,Magento_Integration
-"The attempt to post data to consumer failed due to an unexpected error. Please try again later.","The attempt to post data to consumer failed due to an unexpected error. Please try again later.",module,Magento_Integration
-"A consumer with ID ""%1"" doesn't exist. Verify the ID and try again.","A consumer with ID ""%1"" doesn't exist. Verify the ID and try again.",module,Magento_Integration
-"Invalid token to except","Invalid token to except",module,Magento_Integration
-"Your account is temporarily disabled. Please try again later.","Your account is temporarily disabled. Please try again later.",module,Magento_Integration
-"The password entered for the current user is invalid. Verify the password and try again.","The password entered for the current user is invalid. Verify the password and try again.",module,Magento_Integration
-"A token with consumer ID 0 does not exist","A token with consumer ID 0 does not exist",module,Magento_Integration
-"The integration you selected asks you to approve access to the following:","The integration you selected asks you to approve access to the following:",module,Magento_Integration
-"No permissions requested","No permissions requested",module,Magento_Integration
-"Are you sure?","Are you sure?",module,Magento_Integration
-"Are you sure you want to delete this integration? You can't undo this action.","Are you sure you want to delete this integration? You can't undo this action.",module,Magento_Integration
-"Please setup or sign in into your 3rd party account to complete setup of this integration.","Please setup or sign in into your 3rd party account to complete setup of this integration.",module,Magento_Integration
-"Available APIs","Available APIs",module,Magento_Integration
+"Cannot convert to access token due to token is not request type","Impossible de convertir en accès jeton en raison du jeton qui n’est pas du type ""demande""",module,Magento_Integration
+"Consumer key has expired","Clé d'utilisateur expirée",module,Magento_Integration
+"Cannot create request token because consumer token is not a verifier token","Impossible de créer le jeton de demande car le jeton utilisateur n’est pas un jeton vérifié",module,Magento_Integration
+"Request token is not associated with the specified consumer","Jeton de demande n’est pas associé avec l'utilisateur spécifié",module,Magento_Integration
+"Token is already being used","Jeton est déjà utilisé",module,Magento_Integration
+"Cannot get access token because consumer token is not a request token","Impossible d'obtenir le jeton d’accès parce que le jetons utilisateur n'est pas un jetons de demande",module,Magento_Integration
+"Token is not associated with the specified consumer","Jeton n’est pas associé à l’utilisateur spécifié",module,Magento_Integration
+"Token is not an access token","Jeton n’est pas un jeton d’accès",module,Magento_Integration
+"Access token has been revoked","Jeton d’accès a été révoqué",module,Magento_Integration
+"Consumer key is not the correct length","Clé d'utilisateur n’est pas de la bonne longueur",module,Magento_Integration
+"A consumer having the specified key does not exist","Aucun utilisateur ayant la clé spécifiée n’existe",module,Magento_Integration
+"Verifier is invalid","Vérificateur n’est pas valide",module,Magento_Integration
+"Verifier is not the correct length","Vérificateur n’est pas de la bonne longueur",module,Magento_Integration
+"Token verifier and verifier token do not match","Vérificateur de jeton et jeton de vérificateur ne correspondent pas",module,Magento_Integration
+"A consumer with the ID %1 does not exist","Aucun utilisateur ayant l' ID %1 n’existe",module,Magento_Integration
+"The token length is invalid. Check the length and try again.","La longueur du jeton est invalide. Vérifiez la longueur et ré-essayez.",module,Magento_Integration
+"Specified token does not exist","Jeton spécifié n’existe pas",module,Magento_Integration
+"A token with consumer ID %1 does not exist","Le jeton avec utilisateur ID %1 n’existe pas",module,Magento_Integration
+"The oAuth consumer account couldn't be created due to an unexpected error. Please try again later.","Le compte utilisateur Oauth n'a pas pu être créé à cause d'une erreur inattendue. Ré-essayez plus tard.",module,Magento_Integration
+"The oAuth consumer account couldn't be loaded due to an unexpected error. Please try again later.","Le compte utilisateur Oauth n'a pas pu être chargé à cause d'une erreur inattendue. Ré-essayez plus tard.",module,Magento_Integration
+"The attempt to post data to consumer failed due to an unexpected error. Please try again later.","La tentative pour poster des données utilisateur a échoué à cause d'une erreur inattendue. Ré-essayez plus tard.",module,Magento_Integration
+"A consumer with ID ""%1"" doesn't exist. Verify the ID and try again.","Un utilisateur avec l’ID ""%1"" n’existe pas. Vérifiez l’ID et réessayez.",module,Magento_Integration
+"Invalid token to except","Jeton non valide à exclure",module,Magento_Integration
+"Your account is temporarily disabled. Please try again later.","Votre compte est temporairement désactivé. Ré-essayez plus tard.",module,Magento_Integration
+"The password entered for the current user is invalid. Verify the password and try again.","Le mot de passe entré pour l'utilisateur est invalide. Vérifiez le mot de passe et ré-essayez.",module,Magento_Integration
+"A token with consumer ID 0 does not exist","Un jeton avec ID d'utilisateur 0 n’existe pas",module,Magento_Integration
+"The integration you selected asks you to approve access to the following:","L’intégration que vous avez sélectionné vous demande d’approuver l’accès à ce qui suit :",module,Magento_Integration
+"No permissions requested","Aucune autorisation demandée",module,Magento_Integration
+"Are you sure?","Êtes-vous sûr(e) ?",module,Magento_Integration
+"Are you sure you want to delete this integration? You can't undo this action.","Êtes-vous sûr de que vouloir supprimer cette intégration ? Vous ne pourrez pas annuler cette action.",module,Magento_Integration
+"Please setup or sign in into your 3rd party account to complete setup of this integration.","Veuillez paramétrer ou connectez-vous sur votre compte tiers pour terminer la configuration de cette intégration.",module,Magento_Integration
+"Available APIs","API disponibles",module,Magento_Integration
 "Resource Access","Accès aux ressources",module,Magento_Integration
 "Custom","Personnalisé",module,Magento_Integration
 "All","Tous",module,Magento_Integration
 "Resources","Ressources",module,Magento_Integration
-"Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later.",module,Magento_Integration
-"Popup Blocker is enabled! Please add this site to your exception list.","Popup Blocker is enabled! Please add this site to your exception list.",module,Magento_Integration
+"Sorry, something went wrong. Please try again later.","Un problème est survenu. Réessayez plus tard.",module,Magento_Integration
+"Popup Blocker is enabled! Please add this site to your exception list.","Bloqueur de popup est activé ! Veuillez ajouter ce site à votre liste d’exceptions.",module,Magento_Integration
 "Allow","Autoriser",module,Magento_Integration
 "Done","Terminé",module,Magento_Integration
-"System Extensions","System Extensions",module,Magento_Integration
-"System Integrations","System Integrations",module,Magento_Integration
+"System Extensions","Extensions système",module,Magento_Integration
+"System Integrations","Intégrations système",module,Magento_Integration
 "Extensions","Extensions",module,Magento_Integration
 "OAuth","OAuth",module,Magento_Integration
-"Access Token Expiration","Access Token Expiration",module,Magento_Integration
-"Customer Token Lifetime (hours)","Customer Token Lifetime (hours)",module,Magento_Integration
-"Admin Token Lifetime (hours)","Admin Token Lifetime (hours)",module,Magento_Integration
+"Access Token Expiration","Expiration jeton d'accès",module,Magento_Integration
+"Customer Token Lifetime (hours)","Durée de vie jeton utilisateur (heures)",module,Magento_Integration
+"Admin Token Lifetime (hours)","Durée de vie jeton administrateur (heures)",module,Magento_Integration
 "Cleanup Settings","Paramètres de nettoyage",module,Magento_Integration
 "Cleanup Probability","Probabilité de nettoyage",module,Magento_Integration
 "Expiration Period","Période d'expiration",module,Magento_Integration
-"Consumer Settings","Consumer Settings",module,Magento_Integration
-"OAuth consumer credentials HTTP Post maxredirects","OAuth consumer credentials HTTP Post maxredirects",module,Magento_Integration
-"OAuth consumer credentials HTTP Post timeout","OAuth consumer credentials HTTP Post timeout",module,Magento_Integration
-"Authentication Locks","Authentication Locks",module,Magento_Integration
-"Maximum Login Failures to Lock Out Account","Maximum Login Failures to Lock Out Account",module,Magento_Integration
-"Lockout Time (seconds)","Lockout Time (seconds)",module,Magento_Integration
-"Integrations Configuration","Integrations Configuration",module,Magento_Integration
-"Integration configuration file","Integration configuration file",module,Magento_Integration
-"Integrations API Configuration","Integrations API Configuration",module,Magento_Integration
-"Integrations API configuration file","Integrations API configuration file",module,Magento_Integration
+"Consumer Settings","Paramètres d'utilisateur",module,Magento_Integration
+"OAuth consumer credentials HTTP Post maxredirects","maxredirects des informations d’identification HTTP Post d'utilisateur OAuth",module,Magento_Integration
+"OAuth consumer credentials HTTP Post timeout","timeout des informations d’identification HTTP Post d'utilisateur OAuth",module,Magento_Integration
+"Authentication Locks","Sécurité d’authentification",module,Magento_Integration
+"Maximum Login Failures to Lock Out Account","Nombre maximum de tentatives de connexion avant verrouillage du compte",module,Magento_Integration
+"Lockout Time (seconds)","Temps de verrouillage (secondes)",module,Magento_Integration
+"Integrations Configuration","Configuration d’intégrations",module,Magento_Integration
+"Integration configuration file","Fichier de configuration de l’intégration",module,Magento_Integration
+"Integrations API Configuration","Configuration d’intégrations API",module,Magento_Integration
+"Integrations API configuration file","Fichier de configuration d’intégrations API",module,Magento_Integration
 "We couldn't find any records.","Nous n'avons trouvé aucun enregistrement.",module,Magento_Integration
 "Status","Statut",module,Magento_Integration
-"Invitations","ID de client",module,Magento_Invitation
+"Invitations","Invitations",module,Magento_Invitation
 "Add Invitations","Ajouter des Invitations",module,Magento_Invitation
 "New Invitations","Nouvelles Invitations",module,Magento_Invitation
 "Invitations Information","Information sur les Invitations",module,Magento_Invitation
-"Enter Each Email on New Line","Enter Each Email on New Line",module,Magento_Invitation
+"Enter Each Email on New Line","Entrez chaque email sur une ligne",module,Magento_Invitation
 "Message","Message",module,Magento_Invitation
 "Send From","Envoyé de",module,Magento_Invitation
-"Invitee Group","Invitee Group",module,Magento_Invitation
+"Invitee Group","Groupe d'invités",module,Magento_Invitation
 "Reset","Reset",module,Magento_Invitation
 "Save","Save",module,Magento_Invitation
-"View Invitation for %1 (ID: %2)","View Invitation for %1 (ID: %2)",module,Magento_Invitation
+"View Invitation for %1 (ID: %2)","Voir les invitations pour %1 (ID: %2)",module,Magento_Invitation
 "Back","Retour",module,Magento_Invitation
-"Discard Invitation","Discard Invitation",module,Magento_Invitation
-"Are you sure you want to discard this invitation?","Are you sure you want to discard this invitation?",module,Magento_Invitation
-"Save Invitation","Save Invitation",module,Magento_Invitation
-"Send Invitation","Send Invitation",module,Magento_Invitation
+"Discard Invitation","Annuler l'invitation",module,Magento_Invitation
+"Are you sure you want to discard this invitation?","Voulez-vous vraiment annuler cette invitation ?",module,Magento_Invitation
+"Save Invitation","Sauvegarder l'invitation",module,Magento_Invitation
+"Send Invitation","Envoyer l'invitation",module,Magento_Invitation
 "General","Général",module,Magento_Invitation
-"Default from System Configuration","Default from System Configuration",module,Magento_Invitation
+"Default from System Configuration","Configuration par défaut",module,Magento_Invitation
 "N/A","N/A",module,Magento_Invitation
-"Status History","Status History",module,Magento_Invitation
+"Status History","Historique des statuts",module,Magento_Invitation
 "Customers","Clients",module,Magento_Invitation
-"Order Conversion Rate","Order Conversion Rate",module,Magento_Invitation
+"Order Conversion Rate","Taux de conversion de commande",module,Magento_Invitation
 "We can't find this invitation.","Nous ne pouvons pas trouver cette invitation.",module,Magento_Invitation
-"Please select invitations.","Please select invitations.",module,Magento_Invitation
-"We discarded %1 of %2 invitations.","We discarded %1 of %2 invitations.",module,Magento_Invitation
-"We skipped %1 of the selected invitations.","We skipped %1 of the selected invitations.",module,Magento_Invitation
-"Something went wrong while sending invitations.","Something went wrong while sending invitations.",module,Magento_Invitation
-"No invitations have been resent.","No invitations have been resent.",module,Magento_Invitation
-"You sent %1 of %2 invitation(s).","You sent %1 of %2 invitation(s).",module,Magento_Invitation
-"Something went wrong while sending %1 invitations.","Something went wrong while sending %1 invitations.",module,Magento_Invitation
-"We discarded %1 invitation(s) addressed to current customers.","We discarded %1 invitation(s) addressed to current customers.",module,Magento_Invitation
-"Please specify at least one email address.","Please specify at least one email address.",module,Magento_Invitation
-"We sent %1 invitation(s).","We sent %1 invitation(s).",module,Magento_Invitation
-"Something went wrong while sending %1 of %2 invitations.","Something went wrong while sending %1 of %2 invitations.",module,Magento_Invitation
-"%1 invitation(s) were not sent, because customer accounts already exist for these email addresses.","%1 invitation(s) were not sent, because customer accounts already exist for these email addresses.",module,Magento_Invitation
-"The invitation has been saved.","The invitation has been saved.",module,Magento_Invitation
+"Please select invitations.","Veuillez sélectionner des invitations.",module,Magento_Invitation
+"We discarded %1 of %2 invitations.","Nous annulons %1 sur %2 invitations.",module,Magento_Invitation
+"We skipped %1 of the selected invitations.","On a passé %1 des invitations sélectionnées.",module,Magento_Invitation
+"Something went wrong while sending invitations.","Quelque chose s'est mal passé lors de l'envoi des invitations.",module,Magento_Invitation
+"No invitations have been resent.","Aucune invitation envoyée.",module,Magento_Invitation
+"You sent %1 of %2 invitation(s).","Vous avez envoyé %1 sur %2 invitation(s).",module,Magento_Invitation
+"Something went wrong while sending %1 invitations.","Quelque chose s'est mal passé lors de l'envoi des %1 invitations.",module,Magento_Invitation
+"We discarded %1 invitation(s) addressed to current customers.","Nous avons annulé %1 invitation(s) adressées au clients actuels.",module,Magento_Invitation
+"Please specify at least one email address.","Veuillez spécifier au moins une adresse email.",module,Magento_Invitation
+"We sent %1 invitation(s).","Nous avons envoyé %1 invitation(s).",module,Magento_Invitation
+"Something went wrong while sending %1 of %2 invitations.","Quelque chose s'est mal passé lors de l'envoi de %1 sur %2 invitations.",module,Magento_Invitation
+"%1 invitation(s) were not sent, because customer accounts already exist for these email addresses.","%1 invitation(s) n'ont pas été envoyées, parce que les comptes clients existent déjà pour ces adresses email.",module,Magento_Invitation
+"The invitation has been saved.","L'invitation a été envoyée.",module,Magento_Invitation
 "Reports","Rapports",module,Magento_Invitation
-"Invitation Report by Customers","Invitation Report by Customers",module,Magento_Invitation
-"Invited Customers Report","Invited Customers Report",module,Magento_Invitation
-"General Report","General Report",module,Magento_Invitation
-"Invitations Report","Invitations Report",module,Magento_Invitation
-"Invitation Report by Order Conversion Rate","Invitation Report by Order Conversion Rate",module,Magento_Invitation
-"Conversion Rate Report","Conversion Rate Report",module,Magento_Invitation
-"The wrong customer account is specified.","The wrong customer account is specified.",module,Magento_Invitation
-"Please enter a correct confirmation key.","Please enter a correct confirmation key.",module,Magento_Invitation
+"Invitation Report by Customers","Rapport d'invitations par clients",module,Magento_Invitation
+"Invited Customers Report","Rapport de clients invités",module,Magento_Invitation
+"General Report","Rapport général",module,Magento_Invitation
+"Invitations Report","Rapport d'invitations",module,Magento_Invitation
+"Invitation Report by Order Conversion Rate","Rapport d'invitations par taux de conversion",module,Magento_Invitation
+"Conversion Rate Report","Rapport de taux de conversion",module,Magento_Invitation
+"The wrong customer account is specified.","Le mauvais compte client est spécifié.",module,Magento_Invitation
+"Please enter a correct confirmation key.","Merci d'entrer une clé de confirmation correcte.",module,Magento_Invitation
 "Bad request.","Non trouvé.",module,Magento_Invitation
 "Your invitation is not valid. Please create an account.","Votre invitation est invalide. Merci de créer un compte",module,Magento_Invitation
 "Your invitation is not valid. Please contact us at %1.","Votre invitation n'est pas valide. Veuillez nous contacter à %1.",module,Magento_Invitation
 "We can't save this customer.","Impossible de sauvegarder ce client.",module,Magento_Invitation
 "Page not found.","Page introuvable.",module,Magento_Invitation
-"My Invitations","My Invitations",module,Magento_Invitation
+"My Invitations","Mes invitations",module,Magento_Invitation
 "Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page.",module,Magento_Invitation
-"You sent the invitation for %1.","You sent the invitation for %1.",module,Magento_Invitation
-"Something went wrong while sending an email to %1.","Something went wrong while sending an email to %1.",module,Magento_Invitation
-"We did not send %1 invitation(s) addressed to current customers.","We did not send %1 invitation(s) addressed to current customers.",module,Magento_Invitation
-"Send Invitations","Send Invitations",module,Magento_Invitation
-"Max Invitations Allowed to be Sent at One Time","Max Invitations Allowed to be Sent at One Time",module,Magento_Invitation
+"You sent the invitation for %1.","Vous avez envoyé l'invitation pour %1.",module,Magento_Invitation
+"Something went wrong while sending an email to %1.","Quelque chose s'est mal passé lors de l'envoi de l'email à %1.",module,Magento_Invitation
+"We did not send %1 invitation(s) addressed to current customers.","Nous n'avons pas envoyé %1 invitation(s) adressées au clients actuels.",module,Magento_Invitation
+"Send Invitations","Envoyer les invitations",module,Magento_Invitation
+"Max Invitations Allowed to be Sent at One Time","Nombre maxi d'invitations envoyées en 1 fois",module,Magento_Invitation
 "Please correct the value for ""%1"" parameter, otherwise we'll use the saved value instead.","Please correct the value for ""%1"" parameter, otherwise we'll use the saved value instead.",module,Magento_Invitation
-"Same as Inviter","Same as Inviter",module,Magento_Invitation
-"Default Customer Group from System Configuration","Default Customer Group from System Configuration",module,Magento_Invitation
-"By Invitation Only","By Invitation Only",module,Magento_Invitation
-"Available to All","Available to All",module,Magento_Invitation
+"Same as Inviter","Identique à celui qui invite",module,Magento_Invitation
+"Default Customer Group from System Configuration","Groupe client par défaut de Configuration du système",module,Magento_Invitation
+"By Invitation Only","Sur Invitation seulement",module,Magento_Invitation
+"Available to All","Accessible à tous",module,Magento_Invitation
 "The invitation code is incorrect. Verify the code and try again.","The invitation code is incorrect. Verify the code and try again.",module,Magento_Invitation
 "A customer ID group is missing. Enter a group and try again.","A customer ID group is missing. Enter a group and try again.",module,Magento_Invitation
 "The incorrect store is specified. Verify the store and try again.","The incorrect store is specified. Verify the store and try again.",module,Magento_Invitation
@@ -6878,73 +6878,73 @@
 "The proper website couldn't be identified","The proper website couldn't be identified",module,Magento_Invitation
 "An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again.",module,Magento_Invitation
 "This invitation is addressed to current customer ""%1"".","This invitation is addressed to current customer ""%1"".",module,Magento_Invitation
-"This invitation is not valid.","This invitation is not valid.",module,Magento_Invitation
-"Please correct the invitation email.","Please correct the invitation email.",module,Magento_Invitation
-"Invitation for same email address","Invitation for same email address",module,Magento_Invitation
+"This invitation is not valid.","Cette invitation n’est pas valide.",module,Magento_Invitation
+"Please correct the invitation email.","S’il vous plaît corriger l’e-mail d’invitation.",module,Magento_Invitation
+"Invitation for same email address","Invitation à la même adresse email",module,Magento_Invitation
 "Not Sent","Pas envoyé",module,Magento_Invitation
 "Sent","Envoyé",module,Magento_Invitation
 "Accepted","Accepté",module,Magento_Invitation
-"Discarded","Discarded",module,Magento_Invitation
-"Invitation Information","Invitation Information",module,Magento_Invitation
-"Send At","Send At",module,Magento_Invitation
-"Invitation Message","Invitation Message",module,Magento_Invitation
+"Discarded","Annulé",module,Magento_Invitation
+"Invitation Information","Informations de l’invitation",module,Magento_Invitation
+"Send At","Envoyer à",module,Magento_Invitation
+"Invitation Message","Message d'invitation",module,Magento_Invitation
 "Email","Email",module,Magento_Invitation
 "Status","Statut",module,Magento_Invitation
-"Website","Site web""%s and greater",module,Magento_Invitation
+"Website","Site web",module,Magento_Invitation
 "Store View","Vue magasin",module,Magento_Invitation
-"Signed Up At","Signed Up At",module,Magento_Invitation
-"Invitation URL","Invitation URL",module,Magento_Invitation
+"Signed Up At","Inscrit sur",module,Magento_Invitation
+"Invitation URL","URL d’invitation",module,Magento_Invitation
 "Link","Lien",module,Magento_Invitation
-"Invitee Information","Invitee Information",module,Magento_Invitation
+"Invitee Information","Informations d’invité",module,Magento_Invitation
 "Customer ID","ID de client",module,Magento_Invitation
 "Customer Group","Groupe de clients",module,Magento_Invitation
 "First Name","Prénom",module,Magento_Invitation
 "Last Name","Nom",module,Magento_Invitation
-"Sign Up At","Sign Up At",module,Magento_Invitation
-"Inviter Information","Inviter Information",module,Magento_Invitation
+"Sign Up At","S'inscrire à",module,Magento_Invitation
+"Inviter Information","Informations sur celui qui invite",module,Magento_Invitation
 "Admin","Administration",module,Magento_Invitation
 "* Required Fields","* Champs obligatoires",module,Magento_Invitation
-"Invite your friends by entering their email addresses","Invite your friends by entering their email addresses",module,Magento_Invitation
+"Invite your friends by entering their email addresses","Invitez vos amis en entrant leur adresse e-mail",module,Magento_Invitation
 "Maximum %1 email addresses allowed.","%1 adresses mail maxi autorisées",module,Magento_Invitation
 "Add","Ajouter",module,Magento_Invitation
-"Back to Invitations","Back to Invitations",module,Magento_Invitation
+"Back to Invitations","Retour aux Invitations",module,Magento_Invitation
 "Remove","Supprimer",module,Magento_Invitation
-"Enter Email","Enter Email",module,Magento_Invitation
-"You cannot send more invitations","You cannot send more invitations",module,Magento_Invitation
-"There are no sent invitations.","There are no sent invitations.",module,Magento_Invitation
-"%inviter_name invites you to join Private Sales Site","%inviter_name invites you to join Private Sales Site",module,Magento_Invitation
+"Enter Email","Entrez l'email",module,Magento_Invitation
+"You cannot send more invitations","Vous ne pouvez pas envoyer plus d’invitations",module,Magento_Invitation
+"There are no sent invitations.","Il n’y a pas d’invitations envoyées.",module,Magento_Invitation
+"%inviter_name invites you to join Private Sales Site","%inviter_name vous invite à rejoindre le site de ventes privées",module,Magento_Invitation
 "Invite to join Private Sales Site","Invite to join Private Sales Site",module,Magento_Invitation
-"Please accept this invitation to join %store_name.","Please accept this invitation to join %store_name.",module,Magento_Invitation
-"%store_name offers limited time sales of products only to members.","%store_name offers limited time sales of products only to members.",module,Magento_Invitation
+"Please accept this invitation to join %store_name.","Voulez-vous accepter l'invitation à rejoindre %store_name ?",module,Magento_Invitation
+"%store_name offers limited time sales of products only to members.","%store_name propose des ventes privées uniquement à ses membres.",module,Magento_Invitation
 "Please use the following link to create an account and view the deals:","Veuillez utiliser le lien suivant pour créer un compte et afficher les offres :",module,Magento_Invitation
-"Private Sales","Private Sales",module,Magento_Invitation
-"Invited Customers","Invited Customers",module,Magento_Invitation
+"Private Sales","Ventes privées",module,Magento_Invitation
+"Invited Customers","Clients invités",module,Magento_Invitation
 "Conversion","Conversion",module,Magento_Invitation
-"Invitation Section","Invitation Section",module,Magento_Invitation
+"Invitation Section","Section Invitations",module,Magento_Invitation
 "Conversions","Conversions",module,Magento_Invitation
-"Customer Invitation Email Sender","Customer Invitation Email Sender",module,Magento_Invitation
-"Customer Invitation Email Template","Customer Invitation Email Template",module,Magento_Invitation
-"Enable Invitations Functionality","Enable Invitations Functionality",module,Magento_Invitation
-"Enable Invitations on Storefront","Enable Invitations on Storefront",module,Magento_Invitation
-"Referred Customer Group","Referred Customer Group",module,Magento_Invitation
-"New Accounts Registration","New Accounts Registration",module,Magento_Invitation
-"Allow Customers to Add Custom Message to Invitation Email","Allow Customers to Add Custom Message to Invitation Email",module,Magento_Invitation
-"Customer Invitations","Customer Invitations",module,Magento_Invitation
-"Discard Selected","Discard Selected",module,Magento_Invitation
+"Customer Invitation Email Sender","Expéditeur de l'email d'invitation client",module,Magento_Invitation
+"Customer Invitation Email Template","Gabarit de l'email d'invitation client",module,Magento_Invitation
+"Enable Invitations Functionality","Activer la fonctionnalité d’Invitations",module,Magento_Invitation
+"Enable Invitations on Storefront","Activer les Invitations sur la boutique",module,Magento_Invitation
+"Referred Customer Group","Groupe de clients visés",module,Magento_Invitation
+"New Accounts Registration","Nouvelle inscription de comptes",module,Magento_Invitation
+"Allow Customers to Add Custom Message to Invitation Email","Permette aux clients d’ajouter un message personnalisé à l’email d’invitation",module,Magento_Invitation
+"Customer Invitations","Invitations clients",module,Magento_Invitation
+"Discard Selected","Jeter la sélection",module,Magento_Invitation
 "Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir effectuer cette opération ?",module,Magento_Invitation
-"Send Selected","Send Selected",module,Magento_Invitation
+"Send Selected","Envoyer la sélection",module,Magento_Invitation
 "ID","ID",module,Magento_Invitation
 "Invitee","Invité(e)",module,Magento_Invitation
-"Registered","Registered",module,Magento_Invitation
-"Valid Website","Valid Website",module,Magento_Invitation
+"Registered","Enregistré",module,Magento_Invitation
+"Valid Website","Site Web valide",module,Magento_Invitation
 "Name","Nom",module,Magento_Invitation
 "Group","Groupe",module,Magento_Invitation
-"Invitations Sent","Invitations Sent",module,Magento_Invitation
-"Invitations Accepted","Invitations Accepted",module,Magento_Invitation
-"Accept Rate","Accept Rate",module,Magento_Invitation
-"Discard Rate","Discard Rate",module,Magento_Invitation
-"Accepted and Purchased","Accepted and Purchased",module,Magento_Invitation
-"Conversion Rate","Conversion Rate",module,Magento_Invitation
+"Invitations Sent","Invitations envoyées",module,Magento_Invitation
+"Invitations Accepted","Invitations acceptées",module,Magento_Invitation
+"Accept Rate","Taux d'acceptation",module,Magento_Invitation
+"Discard Rate","Taux de rejet",module,Magento_Invitation
+"Accepted and Purchased","Acceptation et achat",module,Magento_Invitation
+"Conversion Rate","Taux De Conversion",module,Magento_Invitation
 "Invitation","Invitation",module,Magento_Invitation
 "No","Non",module,Magento_LayeredNavigation
 "Filterable (with results)","Filtrable (avec résultats)",module,Magento_LayeredNavigation
