@@ -6458,9 +6458,9 @@
 "List property for the related products block","Lister une propriété pour le bloc produits relatifs",module,Magento_GoogleTagManager
 "List property for the search results page","Liste de propriétés pour la page de résultat de recherche",module,Magento_GoogleTagManager
 "’Internal Promotions’ for promotions field “Label”.","'Promotions internes' pour un champ de promotions ""Label"".",module,Magento_GoogleTagManager
-"Request content type must be application/json","Request content type must be application/json",module,Magento_GraphQl
-"Store code %1 does not exist","Store code %1 does not exist",module,Magento_GraphQl
-"Entity code %1 does not exist.","Entity code %1 does not exist.",module,Magento_GraphQl
+"Request content type must be application/json","Le type de contenu de la requête doit être application/json",module,Magento_GraphQl
+"Store code %1 does not exist","Le code du magasin %1 n'existe pas",module,Magento_GraphQl
+"Entity code %1 does not exist.","Le code de l'entité %1 n'existe pas.",module,Magento_GraphQl
 "Grouped Products","Produits groupés",module,Magento_GroupedProduct
 "Please specify the quantity of product(s).","Spécifiez la quantité de produit(s).",module,Magento_GroupedProduct
 "Cannot process the item.","Impossible de traiter l'élément.",module,Magento_GroupedProduct
@@ -6813,8 +6813,8 @@
 "Message","Message",module,Magento_Invitation
 "Send From","Envoyé de",module,Magento_Invitation
 "Invitee Group","Groupe d'invités",module,Magento_Invitation
-"Reset","Reset",module,Magento_Invitation
-"Save","Save",module,Magento_Invitation
+"Reset","Réinitialiser ",module,Magento_Invitation
+"Save","Enregistrer",module,Magento_Invitation
 "View Invitation for %1 (ID: %2)","Voir les invitations pour %1 (ID: %2)",module,Magento_Invitation
 "Back","Retour",module,Magento_Invitation
 "Discard Invitation","Annuler l'invitation",module,Magento_Invitation
@@ -6856,7 +6856,7 @@
 "We can't save this customer.","Impossible de sauvegarder ce client.",module,Magento_Invitation
 "Page not found.","Page introuvable.",module,Magento_Invitation
 "My Invitations","Mes invitations",module,Magento_Invitation
-"Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page.",module,Magento_Invitation
+"Invalid Form Key. Please refresh the page.","Clé de formulaire invalide. Veuillez actualiser la page.",module,Magento_Invitation
 "You sent the invitation for %1.","Vous avez envoyé l'invitation pour %1.",module,Magento_Invitation
 "Something went wrong while sending an email to %1.","Quelque chose s'est mal passé lors de l'envoi de l'email à %1.",module,Magento_Invitation
 "We did not send %1 invitation(s) addressed to current customers.","Nous n'avons pas envoyé %1 invitation(s) adressées au clients actuels.",module,Magento_Invitation
@@ -6867,17 +6867,17 @@
 "Default Customer Group from System Configuration","Groupe client par défaut de Configuration du système",module,Magento_Invitation
 "By Invitation Only","Sur Invitation seulement",module,Magento_Invitation
 "Available to All","Accessible à tous",module,Magento_Invitation
-"The invitation code is incorrect. Verify the code and try again.","The invitation code is incorrect. Verify the code and try again.",module,Magento_Invitation
-"A customer ID group is missing. Enter a group and try again.","A customer ID group is missing. Enter a group and try again.",module,Magento_Invitation
-"The incorrect store is specified. Verify the store and try again.","The incorrect store is specified. Verify the store and try again.",module,Magento_Invitation
-"The store credit entered was invalid. Store credit must be less than the order amount. Verify and try again.","The store credit entered was invalid. Store credit must be less than the order amount. Verify and try again.",module,Magento_Invitation
-"The encrypted code couldn't be generated.","The encrypted code couldn't be generated.",module,Magento_Invitation
-"An ID wasn't found for this invitation. Verify the invitation and try again.","An ID wasn't found for this invitation. Verify the invitation and try again.",module,Magento_Invitation
-"The invitation with the ""%1"" status can't be sent.","The invitation with the ""%1"" status can't be sent.",module,Magento_Invitation
-"A valid invitation email is missing. Enter and try again.","A valid invitation email is missing. Enter and try again.",module,Magento_Invitation
-"The proper website couldn't be identified","The proper website couldn't be identified",module,Magento_Invitation
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again.",module,Magento_Invitation
-"This invitation is addressed to current customer ""%1"".","This invitation is addressed to current customer ""%1"".",module,Magento_Invitation
+"The invitation code is incorrect. Verify the code and try again.","Le code d'invitation n'est pas valide. Vérifiez-le et réessayez.",module,Magento_Invitation
+"A customer ID group is missing. Enter a group and try again.","Un groupe d'identifiant de client est manquant. Entrez le groupe et réessayez.",module,Magento_Invitation
+"The incorrect store is specified. Verify the store and try again.","Le mauvais magasin est spécifié. Vérifiez-le et réessayez.",module,Magento_Invitation
+"The store credit entered was invalid. Store credit must be less than the order amount. Verify and try again.","Le crédit magasin entré n'est pas valide. Un crédit magasin doit être inférieur au montant de la commande. Vérifiez et réessayez.",module,Magento_Invitation
+"The encrypted code couldn't be generated.","Le code chiffré n'a pas pu être généré.",module,Magento_Invitation
+"An ID wasn't found for this invitation. Verify the invitation and try again.","Un identifiant n'a pas été trouvé pour cette invitation. Vérifiez l'invitation et réessayez.",module,Magento_Invitation
+"The invitation with the ""%1"" status can't be sent.","L'invitation avec le statut ""%1"" ne peut pas être envoyée.",module,Magento_Invitation
+"A valid invitation email is missing. Enter and try again.","Un courriel d'invitation correct manque. Entrez et réessayez.",module,Magento_Invitation
+"The proper website couldn't be identified","Le site Web approprié n’a pas pu être identifié",module,Magento_Invitation
+"An email wasn't specified. Enter the email and try again.","Aucune adresse email spécifiée. Entrez une adresse email et réessayez.",module,Magento_Invitation
+"This invitation is addressed to current customer ""%1"".","Cette invitation est adressée au client actuel «%1 ».",module,Magento_Invitation
 "This invitation is not valid.","Cette invitation n’est pas valide.",module,Magento_Invitation
 "Please correct the invitation email.","S’il vous plaît corriger l’e-mail d’invitation.",module,Magento_Invitation
 "Invitation for same email address","Invitation à la même adresse email",module,Magento_Invitation
@@ -6913,7 +6913,7 @@
 "You cannot send more invitations","Vous ne pouvez pas envoyer plus d’invitations",module,Magento_Invitation
 "There are no sent invitations.","Il n’y a pas d’invitations envoyées.",module,Magento_Invitation
 "%inviter_name invites you to join Private Sales Site","%inviter_name vous invite à rejoindre le site de ventes privées",module,Magento_Invitation
-"Invite to join Private Sales Site","Invite to join Private Sales Site",module,Magento_Invitation
+"Invite to join Private Sales Site","Inviter à rejoindre un site de ventes privées",module,Magento_Invitation
 "Please accept this invitation to join %store_name.","Voulez-vous accepter l'invitation à rejoindre %store_name ?",module,Magento_Invitation
 "%store_name offers limited time sales of products only to members.","%store_name propose des ventes privées uniquement à ses membres.",module,Magento_Invitation
 "Please use the following link to create an account and view the deals:","Veuillez utiliser le lien suivant pour créer un compte et afficher les offres :",module,Magento_Invitation
@@ -6977,61 +6977,61 @@
 "Please specify the number of products, that will not be divided into subintervals.","Spécifiez le nombre de produits qui ne seront pas divisés en sous-intervalles.",module,Magento_LayeredNavigation
 "Admin Actions Log Archive","Classes de taxe client",module,Magento_Logging
 "Back","Retour",module,Magento_Logging
-"Log Entry #%1","Log Entry #%1",module,Magento_Logging
-"Log Entry Details","Log Entry Details",module,Magento_Logging
-"Source Data","Source Data",module,Magento_Logging
-"Value Before Change","Value Before Change",module,Magento_Logging
-"Value After Change","Value After Change",module,Magento_Logging
-"No changes","No changes",module,Magento_Logging
-"The item was deleted","The item was deleted",module,Magento_Logging
+"Log Entry #%1","Entrée de journal n° %1",module,Magento_Logging
+"Log Entry Details","Détails de l'entrée de journal",module,Magento_Logging
+"Source Data","Données source",module,Magento_Logging
+"Value Before Change","Valeur avant changement",module,Magento_Logging
+"Value After Change","Valeur après changement",module,Magento_Logging
+"No changes","Aucun changement",module,Magento_Logging
+"The item was deleted","L'élément a été supprimé",module,Magento_Logging
 "N/A","N/A",module,Magento_Logging
-"All Users","All Users",module,Magento_Logging
-"Admin Actions Log","Admin Actions Log",module,Magento_Logging
-"Admin Actions Archive","Admin Actions Archive",module,Magento_Logging
+"All Users","Tous les utilisateurs",module,Magento_Logging
+"Admin Actions Log","Journal des actions de l'administrateur",module,Magento_Logging
+"Admin Actions Archive","Archive des actions de l'administrateur",module,Magento_Logging
 "Report","Rapport",module,Magento_Logging
 "label","Libellé",module,Magento_Logging
-"actions' 'label","actions' 'label",module,Magento_Logging
-"%1 & applied","%1 & applied",module,Magento_Logging
-"Tax Rates Import","Tax Rates Import",module,Magento_Logging
-"Attributes Updated","Attributes Updated",module,Magento_Logging
-"Currency Rates Saved","Currency Rates Saved",module,Magento_Logging
-"Cache types: %1","Cache types: %1",module,Magento_Logging
-"Tax Rates Export","Tax Rates Export",module,Magento_Logging
-"Unknown callback function: %1::%2","Unknown callback function: %1::%2",module,Magento_Logging
-"More permissions are needed to access this.","More permissions are needed to access this.",module,Magento_Logging
-"Success","Success",module,Magento_Logging
-"Failure","Failure",module,Magento_Logging
+"actions' 'label","actions' 'étiquette",module,Magento_Logging
+"%1 & applied","%1 et appliqué",module,Magento_Logging
+"Tax Rates Import","Import de taux de taxe",module,Magento_Logging
+"Attributes Updated","Attributs mis à jour",module,Magento_Logging
+"Currency Rates Saved","Taux de change enregistrés",module,Magento_Logging
+"Cache types: %1","Types de cache : %1",module,Magento_Logging
+"Tax Rates Export","Export de taux de taxe",module,Magento_Logging
+"Unknown callback function: %1::%2","Fonction callback inconnue : %1::%2",module,Magento_Logging
+"More permissions are needed to access this.","Plus de permissions sont requises pour avoir accès à ceci.",module,Magento_Logging
+"Success","Succès",module,Magento_Logging
+"Failure","Echec",module,Magento_Logging
 "Daily","Quotidien",module,Magento_Logging
 "Weekly","Hebdomadaire""Custom currency symbols were applied successfully.",module,Magento_Logging
 "Monthly","Mensuel",module,Magento_Logging
-"This user is locked","This user is locked",module,Magento_Logging
-"Admin User Data","Admin User Data",module,Magento_Logging
-"Aggregated Information","Aggregated Information",module,Magento_Logging
-"Admin User ID","Admin User ID",module,Magento_Logging
-"Admin User Name","Admin User Name",module,Magento_Logging
-"IP-Address","IP-Address",module,Magento_Logging
-"X-Forwarded For","X-Forwarded For",module,Magento_Logging
-"Error Message","Error Message",module,Magento_Logging
-"Related Changes","Related Changes",module,Magento_Logging
-"Logging","Logging",module,Magento_Logging
-"Action Log","Action Log",module,Magento_Logging
+"This user is locked","Cet utilisateur est bloqué",module,Magento_Logging
+"Admin User Data","Données de l'utilisateur administrateur",module,Magento_Logging
+"Aggregated Information","Informations aggrégées",module,Magento_Logging
+"Admin User ID","Identifiant de l'administrateur",module,Magento_Logging
+"Admin User Name","Nom de l'administrateur",module,Magento_Logging
+"IP-Address","Adresse IP",module,Magento_Logging
+"X-Forwarded For","X-Forwarded pour",module,Magento_Logging
+"Error Message","Message d'erreur",module,Magento_Logging
+"Related Changes","Changements connexes",module,Magento_Logging
+"Logging","Journalisation",module,Magento_Logging
+"Action Log","Registre d'actions",module,Magento_Logging
 "Archive","Archive",module,Magento_Logging
-"Action Logs","Action Logs",module,Magento_Logging
-"Bulk Actions","Bulk Actions",module,Magento_Logging
-"Admin Actions Log Archiving","Admin Actions Log Archiving",module,Magento_Logging
-"Log Entry Lifetime, Days","Log Entry Lifetime, Days",module,Magento_Logging
-"Log Archiving Frequency","Log Archiving Frequency",module,Magento_Logging
-"Admin Actions Logging","Admin Actions Logging",module,Magento_Logging
-"Enabled Actions","Enabled Actions",module,Magento_Logging
+"Action Logs","Logs d'actions",module,Magento_Logging
+"Bulk Actions","Actions en masse",module,Magento_Logging
+"Admin Actions Log Archiving","Archivage du log des actions de l'administrateur",module,Magento_Logging
+"Log Entry Lifetime, Days","Durée de vie des entrées du journal, en jours",module,Magento_Logging
+"Log Archiving Frequency","Fréquence d'archivage du journal",module,Magento_Logging
+"Admin Actions Logging","Journalisation des actions de l'administrateur",module,Magento_Logging
+"Enabled Actions","Actions activées",module,Magento_Logging
 "1","1",module,Magento_Logging
 "View","Voir",module,Magento_Logging
 "Save","Sauvegarder",module,Magento_Logging
 "Delete","Supprimer",module,Magento_Logging
-"Mass Delete","Mass Delete",module,Magento_Logging
+"Mass Delete","Suppression en masse",module,Magento_Logging
 "Export","Exporter",module,Magento_Logging
 "Import","Importer",module,Magento_Logging
 "Edit","Éditer",module,Magento_Logging
-"Mass Update","Mass Update",module,Magento_Logging
+"Mass Update","Mise à jour en masse",module,Magento_Logging
 "Move","Déplacer",module,Magento_Logging
 "New","Nouveau",module,Magento_Logging
 "Forgot Password","Mot de passe oublié",module,Magento_Logging
@@ -7042,86 +7042,86 @@
 "Email","Email",module,Magento_Logging
 "Run","Exécuter",module,Magento_Logging
 "Rollback","Retour arrière (rollback)",module,Magento_Logging
-"Reindex Process","Reindex Process",module,Magento_Logging
-"Clean","Clean",module,Magento_Logging
-"Flush","Flush",module,Magento_Logging
+"Reindex Process","Processus de réindexation",module,Magento_Logging
+"Clean","Nettoyer",module,Magento_Logging
+"Flush","Purger",module,Magento_Logging
 "Fetch","Rapporter",module,Magento_Logging
-"Update Payment","Update Payment",module,Magento_Logging
-"Update State","Update State",module,Magento_Logging
+"Update Payment","Mettre à jour le paiement",module,Magento_Logging
+"Update State","Mettre à jour le statut",module,Magento_Logging
 "Login","Connexion",module,Magento_Logging
-"Send","Send",module,Magento_Logging
+"Send","Envoyer",module,Magento_Logging
 "Create","Créer",module,Magento_Logging
-"Catalog Products","Catalog Products",module,Magento_Logging
-"Catalog Categories","Catalog Categories",module,Magento_Logging
+"Catalog Products","Produits du catalogue",module,Magento_Logging
+"Catalog Categories","Catégories du catalogue",module,Magento_Logging
 "URL Rewrites","Gestion de la réécriture d'URL",module,Magento_Logging
 "Catalog Search","Recherche catalogue",module,Magento_Logging
-"Catalog Ratings","Catalog Ratings",module,Magento_Logging
-"Catalog Reviews","Catalog Reviews",module,Magento_Logging
-"Catalog Attributes","Catalog Attributes",module,Magento_Logging
-"Catalog Product Templates","Catalog Product Templates",module,Magento_Logging
-"Admin Sign In","Admin Sign In",module,Magento_Logging
+"Catalog Ratings","Évaluations des catalogues",module,Magento_Logging
+"Catalog Reviews","Revues des catalogues",module,Magento_Logging
+"Catalog Attributes","Attributs des catalogues",module,Magento_Logging
+"Catalog Product Templates","Modèles de catalogue produit",module,Magento_Logging
+"Admin Sign In","Connexion administrateur",module,Magento_Logging
 "CMS Pages","Gabarit du bloc lien en ligne CMS",module,Magento_Logging
-"CMS Blocks","CMS Blocks",module,Magento_Logging
+"CMS Blocks","Blocs CMS",module,Magento_Logging
 "Customers","Clients",module,Magento_Logging
 "Customer Groups","Groupes clients",module,Magento_Logging
 "Reports","Rapports",module,Magento_Logging
-"System Configuration","System Configuration",module,Magento_Logging
+"System Configuration","Configuration du système",module,Magento_Logging
 "Catalog Price Rules","Règles de prix catalogue",module,Magento_Logging
-"Cart Price Rules","Cart Price Rules",module,Magento_Logging
-"Admin My Account","Admin My Account",module,Magento_Logging
+"Cart Price Rules","Règles de prix du panier",module,Magento_Logging
+"Admin My Account","Gérer mon compte",module,Magento_Logging
 "Newsletter Queue","File d'attente newsletter",module,Magento_Logging
 "Newsletter Templates","Gabarits newsletter",module,Magento_Logging
 "Newsletter Subscribers","Abonnés à la newsletter",module,Magento_Logging
-"Sales Orders","Sales Orders",module,Magento_Logging
-"Sales Order Status","Sales Order Status",module,Magento_Logging
-"Sales Invoices","Sales Invoices",module,Magento_Logging
-"Sales Shipments","Sales Shipments",module,Magento_Logging
-"Sales Credit Memos","Sales Credit Memos",module,Magento_Logging
+"Sales Orders","Commandes",module,Magento_Logging
+"Sales Order Status","Statut d'une commande",module,Magento_Logging
+"Sales Invoices","Factures de commandes",module,Magento_Logging
+"Sales Shipments","Livraison de commandes",module,Magento_Logging
+"Sales Credit Memos","Avoirs de la commande",module,Magento_Logging
 "Checkout Terms and Conditions","Conditions générales de ventes",module,Magento_Logging
-"Admin Permission Roles","Admin Permission Roles",module,Magento_Logging
-"Admin Permission Users","Admin Permission Users",module,Magento_Logging
-"Manage Websites","Manage Websites",module,Magento_Logging
+"Admin Permission Roles","Droits administrateurs",module,Magento_Logging
+"Admin Permission Users","Utilisateurs de droit d'administration",module,Magento_Logging
+"Manage Websites","Gérer les sites web",module,Magento_Logging
 "Manage Stores","Gestion des magasins",module,Magento_Logging
 "Manage Store Views","Gérer les vues magasin",module,Magento_Logging
-"Manage Design","Manage Design",module,Magento_Logging
+"Manage Design","Gérer la conception",module,Magento_Logging
 "Manage Currency Rates","Gestion des taux des devises",module,Magento_Logging
 "Transactional Emails","Emails transactionnels",module,Magento_Logging
 "Custom Variables","Variables personnalisées",module,Magento_Logging
-"System Backups","System Backups",module,Magento_Logging
+"System Backups","Sauvegardes système",module,Magento_Logging
 "Customer Tax Classes","Classes de taxe client",module,Magento_Logging
-"Catalog Product Tax Classes","Catalog Product Tax Classes",module,Magento_Logging
+"Catalog Product Tax Classes","Classes de taxe du catalogue de produit",module,Magento_Logging
 "Tax Rules","Règles de taxe",module,Magento_Logging
-"Tax Rates","Tax Rates",module,Magento_Logging
+"Tax Rates","Taux de taxe",module,Magento_Logging
 "XML Sitemap","L'objet XML n'est pas une instance de ""Varien_Simplexml_Element"".",module,Magento_Logging
 "Widget","Widget",module,Magento_Logging
 "Cache Management","Gestion du cache",module,Magento_Logging
 "PayPal Settlement Reports","Rapports de règlements PayPal",module,Magento_Logging
-"Archive File","Archive File",module,Magento_Logging
+"Archive File","Fichier d’archive",module,Magento_Logging
 "Date","Date",module,Magento_Logging
 "CSV","CSV",module,Magento_Logging
 "Excel XML","XML d'Excel",module,Magento_Logging
 "Time","Heure",module,Magento_Logging
-"Action Group","Action Group",module,Magento_Logging
+"Action Group","Groupe d’action",module,Magento_Logging
 "Action","Action",module,Magento_Logging
 "IP Address","Adresse IP",module,Magento_Logging
 "Username","Nom d'utilisateur",module,Magento_Logging
-"Result","Result",module,Magento_Logging
-"Full Action Name","Full Action Name",module,Magento_Logging
+"Result","Résultat",module,Magento_Logging
+"Full Action Name","Nom complet de l'activité",module,Magento_Logging
 "Details","Détails",module,Magento_Logging
-"Full Details","Full Details",module,Magento_Logging
-"Partners","Partners",module,Magento_Marketplace
-"Magento Marketplace","Magento Marketplace",module,Magento_Marketplace
-"Platinum Partners","Platinum Partners",module,Magento_Marketplace
+"Full Details","Tous les détails",module,Magento_Logging
+"Partners","Partenaires",module,Magento_Marketplace
+"Magento Marketplace","Place de marché Magento",module,Magento_Marketplace
+"Platinum Partners","Partenaires platines",module,Magento_Marketplace
 "Representing Magento's highest level of partner engagement, Magento Platinum Partners have established themselves as leaders and innovators of key products and services designed to help merchants and brands grow their business. Magento reserves the Platinum level for select trusted partners that are committed to offering integrations of commerce features, functions, and tools, as well as back-end systems and operations, to extend and enhance the power of the Magento commerce platform.","Representing Magento's highest level of partner engagement, Magento Platinum Partners have established themselves as leaders and innovators of key products and services designed to help merchants and brands grow their business. Magento reserves the Platinum level for select trusted partners that are committed to offering integrations of commerce features, functions, and tools, as well as back-end systems and operations, to extend and enhance the power of the Magento commerce platform.",module,Magento_Marketplace
-"Featured Platinum Partners","Featured Platinum Partners",module,Magento_Marketplace
-"Partner search","Partner search",module,Magento_Marketplace
-"Magento has a thriving ecosystem of technology partners to help merchants and brands deliver the best possible customer experiences. They are recognized as experts in eCommerce, search, email marketing, payments, tax, fraud, optimization and analytics, fulfillment, and more. Visit the Magento Partner Directory to see all of our trusted partners.","Magento has a thriving ecosystem of technology partners to help merchants and brands deliver the best possible customer experiences. They are recognized as experts in eCommerce, search, email marketing, payments, tax, fraud, optimization and analytics, fulfillment, and more. Visit the Magento Partner Directory to see all of our trusted partners.",module,Magento_Marketplace
-"More Partners","More Partners",module,Magento_Marketplace
-"Extensions and Themes are an essential component of the Magento Ecosystem. Please visit the Magento Marketplace to see the latest innovations that developers have created to enhance your Magento Store.","Extensions and Themes are an essential component of the Magento Ecosystem. Please visit the Magento Marketplace to see the latest innovations that developers have created to enhance your Magento Store.",module,Magento_Marketplace
-"Visit Magento Marketplaces","Visit Magento Marketplaces",module,Magento_Marketplace
-"Read More","Read More",module,Magento_Marketplace
-"Partner Page","Partner Page",module,Magento_Marketplace
-"No partners were found","No partners were found",module,Magento_Marketplace
+"Featured Platinum Partners","Partenaires platines recommandés",module,Magento_Marketplace
+"Partner search","Recherche de partenaires",module,Magento_Marketplace
+"Magento has a thriving ecosystem of technology partners to help merchants and brands deliver the best possible customer experiences. They are recognized as experts in eCommerce, search, email marketing, payments, tax, fraud, optimization and analytics, fulfillment, and more. Visit the Magento Partner Directory to see all of our trusted partners.","Magento dispose d'un écosystème florissant de partenaires technologiques pour aider les marchands et les marques à offrir la meilleure expérience client possible. Ils sont reconnus en tant qu'experts en commerce électronique, recherche, marketing par courriel, paiements, fiscalité, fraude, optimisation et analyse, exécution, etc. Visitez le répertoire des partenaires Magento pour voir tous nos partenaires de confiance.",module,Magento_Marketplace
+"More Partners","Plus de partenaires",module,Magento_Marketplace
+"Extensions and Themes are an essential component of the Magento Ecosystem. Please visit the Magento Marketplace to see the latest innovations that developers have created to enhance your Magento Store.","Les extensions et les thèmes sont une composante essentielle de l'écosystème de Magento. Rendez-vous sur la place de marché Magento pour découvrir les dernières innovations créées par les développeurs pour améliorer votre boutique Magento.",module,Magento_Marketplace
+"Visit Magento Marketplaces","Visiter les places de marché Magento",module,Magento_Marketplace
+"Read More","Lire La Suite",module,Magento_Marketplace
+"Partner Page","Page du partenaire",module,Magento_Marketplace
+"No partners were found","Aucun partenaire n'a été trouvé",module,Magento_Marketplace
 "Synchronize","Synchroniser",module,Magento_MediaStorage
 "Synchronizing %1 to %2","Synchronisation en cours de %1 vers %2",module,Magento_MediaStorage
 "Synchronizing...","Synchronisation en cours...",module,Magento_MediaStorage
@@ -7487,56 +7487,56 @@
 "- deleted from catalog","- supprimé du catalogue",module,Magento_NegotiableQuote
 "(Removed)","(Supprimé)",module,Magento_NegotiableQuote
 "deleted","supprimé",module,Magento_NegotiableQuote
-"Renderer list for block ""%1"" is not defined","Renderer list for block ""%1"" is not defined",module,Magento_NegotiableQuote
-"This quote is currently locked for editing. It will become available once released by the Merchant.","This quote is currently locked for editing. It will become available once released by the Merchant.",module,Magento_NegotiableQuote
-"Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.","Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.",module,Magento_NegotiableQuote
-"You are not an owner of this quote. You cannot edit it or take any actions on it.","You are not an owner of this quote. You cannot edit it or take any actions on it.",module,Magento_NegotiableQuote
-"Discount","Discount",module,Magento_NegotiableQuote
-"Estimated Tax","Estimated Tax",module,Magento_NegotiableQuote
-"Quote Subtotal (Excl. Tax)","Quote Subtotal (Excl. Tax)",module,Magento_NegotiableQuote
-"Quote Grand Total (Incl. Tax)","Quote Grand Total (Incl. Tax)",module,Magento_NegotiableQuote
-"Grand Total to Be Charged","Grand Total to Be Charged",module,Magento_NegotiableQuote
-"Requested quote was not found","Requested quote was not found",module,Magento_NegotiableQuote
-"Sales","Sales",module,Magento_NegotiableQuote
-"Quotes","Quotes",module,Magento_NegotiableQuote
-"Something went wrong. Please try again later.","Something went wrong. Please try again later.",module,Magento_NegotiableQuote
-"Something went wrong","Something went wrong",module,Magento_NegotiableQuote
-"Something went wrong during quote declining","Something went wrong during quote declining",module,Magento_NegotiableQuote
-"Attachment not found.","Attachment not found.",module,Magento_NegotiableQuote
-"Quote #%1","Quote #%1",module,Magento_NegotiableQuote
-"Exception occurred during quote print: %1","Exception occurred during quote print: %1",module,Magento_NegotiableQuote
-"Exception occurred during update quote","Exception occurred during update quote",module,Magento_NegotiableQuote
-"Exception occurred during quote saving","Exception occurred during quote saving",module,Magento_NegotiableQuote
-"The changes have been saved.","The changes have been saved.",module,Magento_NegotiableQuote
-"The quote has been sent to the buyer.","The quote has been sent to the buyer.",module,Magento_NegotiableQuote
-"Exception occurred during quote sending","Exception occurred during quote sending",module,Magento_NegotiableQuote
-"Exception occurred during quote view %1","Exception occurred during quote view %1",module,Magento_NegotiableQuote
-"Requested quote was not found.","Requested quote was not found.",module,Magento_NegotiableQuote
-"An error occurred on the server. %1","An error occurred on the server. %1",module,Magento_NegotiableQuote
-"This quote is currently locked for editing. It will become available once released by the buyer.","This quote is currently locked for editing. It will become available once released by the buyer.",module,Magento_NegotiableQuote
-"Page not found.","Page not found.",module,Magento_NegotiableQuote
-"An error occurred while quote creation.","An error occurred while quote creation.",module,Magento_NegotiableQuote
-"%1 products require your attention. Please contact the Seller if you have any questions.","%1 products require your attention. Please contact the Seller if you have any questions.",module,Magento_NegotiableQuote
-"You closed the quote.","You closed the quote.",module,Magento_NegotiableQuote
-"We can't close the quote right now because of an error: %1.","We can't close the quote right now because of an error: %1.",module,Magento_NegotiableQuote
-"We can't close the quote right now.","We can't close the quote right now.",module,Magento_NegotiableQuote
-"An error occurred while creating quote.","An error occurred while creating quote.",module,Magento_NegotiableQuote
-"Quote with ID %1 was successfully created.","Quote with ID %1 was successfully created.",module,Magento_NegotiableQuote
-"The quote could not be created. Please try again later.","The quote could not be created. Please try again later.",module,Magento_NegotiableQuote
-"You have deleted the quote.","You have deleted the quote.",module,Magento_NegotiableQuote
-"We can't delete the quote right now.","We can't delete the quote right now.",module,Magento_NegotiableQuote
-"You've removed the item from quote.","You've removed the item from quote.",module,Magento_NegotiableQuote
-"We can't delete the quote item right now.","We can't delete the quote item right now.",module,Magento_NegotiableQuote
-"You have updated the items in the quote.","You have updated the items in the quote.",module,Magento_NegotiableQuote
-"We can't update the items right now.","We can't update the items right now.",module,Magento_NegotiableQuote
-"We can't order the quote right now because of an error: %1.","We can't order the quote right now because of an error: %1.",module,Magento_NegotiableQuote
-"We can't order the quote right now.","We can't order the quote right now.",module,Magento_NegotiableQuote
-"Quote","Quote",module,Magento_NegotiableQuote
-"This quote will be charged in %1. The prices are given in %2 as reference only.","This quote will be charged in %1. The prices are given in %2 as reference only.",module,Magento_NegotiableQuote
-"We can't send the quote right now because of an error: %1.","We can't send the quote right now because of an error: %1.",module,Magento_NegotiableQuote
-"We can't send the quote right now.","We can't send the quote right now.",module,Magento_NegotiableQuote
-"Cannot obtain the requested data. You must fix the errors listed below first.","Cannot obtain the requested data. You must fix the errors listed below first.",module,Magento_NegotiableQuote
-"Requested attachment is not found. Row ID: %fieldName = %fieldValue","Requested attachment is not found. Row ID: %fieldName = %fieldValue",module,Magento_NegotiableQuote
+"Renderer list for block ""%1"" is not defined","La liste de rendu pour le bloc ""%1"" n'est pas définie",module,Magento_NegotiableQuote
+"This quote is currently locked for editing. It will become available once released by the Merchant.","Ce devis est actuellement verrouillé pour modification. Il sera disponible une fois refermé par le marchand.",module,Magento_NegotiableQuote
+"Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.","Votre devis a expiré et les prix des produits ont été mis à jour conformément aux derniers prix de votre catalogue. Vous pouvez soumettre à nouveau le devis au vendeur pour poursuivre les négociations ou aller à la caisse.",module,Magento_NegotiableQuote
+"You are not an owner of this quote. You cannot edit it or take any actions on it.","Vous n'êtes pas propriétaire de cet devis. Vous ne pouvez ni l'éditer n'y effectuer des actions dessus.",module,Magento_NegotiableQuote
+"Discount","Remise",module,Magento_NegotiableQuote
+"Estimated Tax","Taxe estimée",module,Magento_NegotiableQuote
+"Quote Subtotal (Excl. Tax)","Sous-total du devis HT",module,Magento_NegotiableQuote
+"Quote Grand Total (Incl. Tax)","Total du devis TTC",module,Magento_NegotiableQuote
+"Grand Total to Be Charged","Total à facturer",module,Magento_NegotiableQuote
+"Requested quote was not found","Devis demandé non trouvé",module,Magento_NegotiableQuote
+"Sales","Ventes",module,Magento_NegotiableQuote
+"Quotes","Devis",module,Magento_NegotiableQuote
+"Something went wrong. Please try again later.","Une erreur s'est produite. Merci d'essayer ultérieurement.",module,Magento_NegotiableQuote
+"Something went wrong","Un problème est survenu",module,Magento_NegotiableQuote
+"Something went wrong during quote declining","Une anomalie s'est produite pendant le rejet du devis",module,Magento_NegotiableQuote
+"Attachment not found.","Pièce jointe introuvable.",module,Magento_NegotiableQuote
+"Quote #%1","Devis n° %1",module,Magento_NegotiableQuote
+"Exception occurred during quote print: %1","Une erreur s'est produite pendant l'impression du devis : %1",module,Magento_NegotiableQuote
+"Exception occurred during update quote","Une erreur s'est produite durant la mise à jour du devis",module,Magento_NegotiableQuote
+"Exception occurred during quote saving","Une erreur s'est produite durant l'enregistrement du devis",module,Magento_NegotiableQuote
+"The changes have been saved.","Les changements ont été enregistrés.",module,Magento_NegotiableQuote
+"The quote has been sent to the buyer.","Le devis a été envoyé à l'acheteur.",module,Magento_NegotiableQuote
+"Exception occurred during quote sending","Une erreur s'est produite pendant l'envoi du devis",module,Magento_NegotiableQuote
+"Exception occurred during quote view %1","Une erreur s'est produite pendant la visualisation du devis %1",module,Magento_NegotiableQuote
+"Requested quote was not found.","Devis demandé non trouvé.",module,Magento_NegotiableQuote
+"An error occurred on the server. %1","Une erreur s’est produite sur le serveur. %1",module,Magento_NegotiableQuote
+"This quote is currently locked for editing. It will become available once released by the buyer.","Ce devis est actuellement verrouillé pour modification. Il sera disponible une fois refermé par l'acheteur.",module,Magento_NegotiableQuote
+"Page not found.","Page introuvable.",module,Magento_NegotiableQuote
+"An error occurred while quote creation.","Une erreur s'est produite pendant la création du devis.",module,Magento_NegotiableQuote
+"%1 products require your attention. Please contact the Seller if you have any questions.","%1 produits réclament votre attention. Veuillez contacter le vendeur en cas de questions.",module,Magento_NegotiableQuote
+"You closed the quote.","Vous avez fermé le devis.",module,Magento_NegotiableQuote
+"We can't close the quote right now because of an error: %1.","Nous ne pouvons pas fermer le devis maintenant à cause d'une erreur : %1.",module,Magento_NegotiableQuote
+"We can't close the quote right now.","Nous ne pouvons pas fermer le devis maintenant.",module,Magento_NegotiableQuote
+"An error occurred while creating quote.","Une erreur s'est produite pendant la création du devis.",module,Magento_NegotiableQuote
+"Quote with ID %1 was successfully created.","Le devis avec l'identifiant %1 a été correctement créé.",module,Magento_NegotiableQuote
+"The quote could not be created. Please try again later.","Le devis n'a pas pu être créé. Veuillez réessayer plus tard.",module,Magento_NegotiableQuote
+"You have deleted the quote.","Vous avez supprimé le devis.",module,Magento_NegotiableQuote
+"We can't delete the quote right now.","Nous ne pouvons pas supprimer le devis maintenant.",module,Magento_NegotiableQuote
+"You've removed the item from quote.","Vous avez enlevé l'article du devis.",module,Magento_NegotiableQuote
+"We can't delete the quote item right now.","Nous ne pouvons pas supprimer l'article du devis maintenant.",module,Magento_NegotiableQuote
+"You have updated the items in the quote.","Vous avez mis à jour les articles dans le devis.",module,Magento_NegotiableQuote
+"We can't update the items right now.","Nous ne pouvons pas mettre à jour les articles maintenant.",module,Magento_NegotiableQuote
+"We can't order the quote right now because of an error: %1.","Nous ne pouvons pas commander le devis maintenant en raison d'une erreur : %1.",module,Magento_NegotiableQuote
+"We can't order the quote right now.","Nous ne pouvons pas commander le devis maintenant.",module,Magento_NegotiableQuote
+"Quote","Devis",module,Magento_NegotiableQuote
+"This quote will be charged in %1. The prices are given in %2 as reference only.","Ce devis sera facturé en %1. Les prix sont donnés en %2 seulement pour référence.",module,Magento_NegotiableQuote
+"We can't send the quote right now because of an error: %1.","Nous ne pouvons pas envoyer le devis maintenant à cause d'une erreur : %1.",module,Magento_NegotiableQuote
+"We can't send the quote right now.","Nous ne pouvons pas envoyer le devis maintenant.",module,Magento_NegotiableQuote
+"Cannot obtain the requested data. You must fix the errors listed below first.","Impossible d'obtenir les données demandées. Vous devez d'abord corriger les erreurs ci-dessous.",module,Magento_NegotiableQuote
+"Requested attachment is not found. Row ID: %fieldName = %fieldValue","La pièce jointe demandée est introuvable. Identifiant de la ligne : %fieldName = %fieldValue",module,Magento_NegotiableQuote
 "Requested quote is not found. Row ID: %fieldName = %fieldValue","Requested quote is not found. Row ID: %fieldName = %fieldValue",module,Magento_NegotiableQuote
 "There was an error saving comment.","There was an error saving comment.",module,Magento_NegotiableQuote
 "Cannot delete comment with id %1","Cannot delete comment with id %1",module,Magento_NegotiableQuote
@@ -7587,33 +7587,33 @@
 "Catalog prices have changed, and you may want to review the offer. Details about the changes are available in the History Log.","Catalog prices have changed, and you may want to review the offer. Details about the changes are available in the History Log.",module,Magento_NegotiableQuote
 "The discount has changed for this quote. Check the History Log for details.","The discount has changed for this quote. Check the History Log for details.",module,Magento_NegotiableQuote
 "The discount for this quote has been removed because the buyer has reached the maximum number of attempts to request a discount. You may want to review the offer amount.","The discount for this quote has been removed because the buyer has reached the maximum number of attempts to request a discount. You may want to review the offer amount.",module,Magento_NegotiableQuote
-"The discount for this quote has been removed because the cart rule has been deleted. You may want to review the offer amount.","The discount for this quote has been removed because the cart rule has been deleted. You may want to review the offer amount.",module,Magento_NegotiableQuote
-"Quote taxes have been recalculated because the buyer added or changed the shipping address. You may want to review the offer amount.","Quote taxes have been recalculated because the buyer added or changed the shipping address. You may want to review the offer amount.",module,Magento_NegotiableQuote
-"Buyer added or changed the shipping address. You may want to offer the shipping price or / and review the offer amount.","Buyer added or changed the shipping address. You may want to offer the shipping price or / and review the offer amount.",module,Magento_NegotiableQuote
-"has been deleted from the catalog, so the items quoted list has been updated.","has been deleted from the catalog, so the items quoted list has been updated.",module,Magento_NegotiableQuote
-"have been deleted from the catalog, so the items quoted list has been updated.","have been deleted from the catalog, so the items quoted list has been updated.",module,Magento_NegotiableQuote
-"has been deleted from the quote. You may want to review the offer amount.","has been deleted from the quote. You may want to review the offer amount.",module,Magento_NegotiableQuote
-"has been deleted from the catalog. The items quoted list has been updated.","has been deleted from the catalog. The items quoted list has been updated.",module,Magento_NegotiableQuote
-"have been deleted from the quote. You may want to review the offer amount.","have been deleted from the quote. You may want to review the offer amount.",module,Magento_NegotiableQuote
-"have been deleted from the catalog. The items quoted list has been updated.","have been deleted from the catalog. The items quoted list has been updated.",module,Magento_NegotiableQuote
-"Pending","Pending",module,Magento_NegotiableQuote
-"Catalog prices have changed. You may want to re-submit this quote. Details about the changes are available in the History Log.","Catalog prices have changed. You may want to re-submit this quote. Details about the changes are available in the History Log.",module,Magento_NegotiableQuote
-"The discount for this quote has been removed because you have already used your discount on previous orders. Please re-submit the quote to the Seller for further negotiation.","The discount for this quote has been removed because you have already used your discount on previous orders. Please re-submit the quote to the Seller for further negotiation.",module,Magento_NegotiableQuote
-"The discount is no longer valid for this quote, and the prices have been updated. Please re-submit the quote to the Seller for further negotiation.","The discount is no longer valid for this quote, and the prices have been updated. Please re-submit the quote to the Seller for further negotiation.",module,Magento_NegotiableQuote
-"Quote taxes have been recalculated because you have added or changed the shipping address. The negotiated price is no longer valid. Please re-submit the quote to Seller.","Quote taxes have been recalculated because you have added or changed the shipping address. The negotiated price is no longer valid. Please re-submit the quote to Seller.",module,Magento_NegotiableQuote
-"You have added or changed the shipping address on this quote. Please re-submit the quote to Seller.","You have added or changed the shipping address on this quote. Please re-submit the quote to Seller.",module,Magento_NegotiableQuote
-"is no longer available in catalog. It was removed from your quote.","is no longer available in catalog. It was removed from your quote.",module,Magento_NegotiableQuote
-"are no longer available in catalog. They were removed from your quote.","are no longer available in catalog. They were removed from your quote.",module,Magento_NegotiableQuote
-"is no longer available. It was removed from your quote.","is no longer available. It was removed from your quote.",module,Magento_NegotiableQuote
-"are no longer available. They were removed from your quote.","are no longer available. They were removed from your quote.",module,Magento_NegotiableQuote
-"The quote %quoteId is currently locked, and you cannot place an order from it at the moment.","The quote %quoteId is currently locked, and you cannot place an order from it at the moment.",module,Magento_NegotiableQuote
-"The quote %quoteId is currently locked and cannot be closed.","The quote %quoteId is currently locked and cannot be closed.",module,Magento_NegotiableQuote
-"You cannot update the requested attribute. Row ID: %fieldName = %fieldValue.","You cannot update the requested attribute. Row ID: %fieldName = %fieldValue.",module,Magento_NegotiableQuote
-"Invalid attribute %fieldName: Cannot create a B2B Quote for an individual user. The user must be a company member. Row ID: %fieldName = %fieldValue","Invalid attribute %fieldName: Cannot create a B2B Quote for an individual user. The user must be a company member. Row ID: %fieldName = %fieldValue",module,Magento_NegotiableQuote
-"Invalid attribute %fieldName: Quoting is not allowed for this company. Row ID: %fieldName = %fieldValue","Invalid attribute %fieldName: Quoting is not allowed for this company. Row ID: %fieldName = %fieldValue",module,Magento_NegotiableQuote
-"The quote %quoteId is currently locked and cannot be declined.","The quote %quoteId is currently locked and cannot be declined.",module,Magento_NegotiableQuote
-"The quote %quoteId is currently locked and cannot be updated. Please check the quote status.","The quote %quoteId is currently locked and cannot be updated. Please check the quote status.",module,Magento_NegotiableQuote
-"The expiration date is in the wrong format. The correct format is %dateformat.","The expiration date is in the wrong format. The correct format is %dateformat.",module,Magento_NegotiableQuote
+"The discount for this quote has been removed because the cart rule has been deleted. You may want to review the offer amount.","La remise pour ce devis a été supprimée car la règle du panier a été supprimée. Vous voudrez peut-être revoir le montant de l'offre.",module,Magento_NegotiableQuote
+"Quote taxes have been recalculated because the buyer added or changed the shipping address. You may want to review the offer amount.","Les taxes sur le devis ont été recalculées car l'acheteur a ajouté ou modifié l'adresse de livraison. Vous voudrez peut-être revoir le montant de l'offre.",module,Magento_NegotiableQuote
+"Buyer added or changed the shipping address. You may want to offer the shipping price or / and review the offer amount.","L'acheteur a ajouté ou modifié l'adresse de livraison. Vous voudrez peut-être proposer le prix de l'expédition et / ou revoir le montant de l'offre.",module,Magento_NegotiableQuote
+"has been deleted from the catalog, so the items quoted list has been updated.","a été supprimé du catalogue, ainsi la liste des articles du devis a été mise à jour.",module,Magento_NegotiableQuote
+"have been deleted from the catalog, so the items quoted list has been updated.","ont été supprimés du catalogue, ainsi la liste des articles du devis a été mise à jour.",module,Magento_NegotiableQuote
+"has been deleted from the quote. You may want to review the offer amount.","a été supprimé du devis. Vous aimerez peut-être revoir le montant de l'offre.",module,Magento_NegotiableQuote
+"has been deleted from the catalog. The items quoted list has been updated.","a été supprimé du catalogue. La liste des articles du devis a été mise à jour.",module,Magento_NegotiableQuote
+"have been deleted from the quote. You may want to review the offer amount.","ont été supprimés du devis. Vous aimerez peut-être revoir le montant de l'offre.",module,Magento_NegotiableQuote
+"have been deleted from the catalog. The items quoted list has been updated.","ont été supprimés du catalogue. La liste des articles du devis a été mise à jour.",module,Magento_NegotiableQuote
+"Pending","En attente",module,Magento_NegotiableQuote
+"Catalog prices have changed. You may want to re-submit this quote. Details about the changes are available in the History Log.","Les prix du catalogue ont changé. Vous voudrez peut-être soumettre à nouveau cet devis. Les détails sur les modifications sont disponibles dans le journal de l'historique.",module,Magento_NegotiableQuote
+"The discount for this quote has been removed because you have already used your discount on previous orders. Please re-submit the quote to the Seller for further negotiation.","La remise pour ce devis a été supprimée car vous avez déjà utilisé votre remise sur des commandes précédentes. Veuillez soumettre à nouveau le devis au vendeur pour poursuivre les négociations.",module,Magento_NegotiableQuote
+"The discount is no longer valid for this quote, and the prices have been updated. Please re-submit the quote to the Seller for further negotiation.","La remise n'est plus valable pour ce devis et les prix ont été mis à jour. Veuillez soumettre à nouveau le devis au vendeur pour poursuivre les négociations.",module,Magento_NegotiableQuote
+"Quote taxes have been recalculated because you have added or changed the shipping address. The negotiated price is no longer valid. Please re-submit the quote to Seller.","Les taxes du devis ont été recalculées car vous avez ajouté ou modifié l'adresse de livraison. Le prix négocié n'est plus valide. Veuillez soumettre à nouveau le devis au vendeur.",module,Magento_NegotiableQuote
+"You have added or changed the shipping address on this quote. Please re-submit the quote to Seller.","Vous avez ajouté ou modifié l'adresse de livraison sur ce devis. Veuillez soumettre à nouveau le devis au vendeur.",module,Magento_NegotiableQuote
+"is no longer available in catalog. It was removed from your quote.","n'est plus disponible dans le catalogue. Il a été supprimé de votre devis.",module,Magento_NegotiableQuote
+"are no longer available in catalog. They were removed from your quote.","ne sont plus disponibles dans le catalogue. Ils ont été supprimés de votre devis.",module,Magento_NegotiableQuote
+"is no longer available. It was removed from your quote.","n'est plus disponible. Il a été supprimé de votre devis.",module,Magento_NegotiableQuote
+"are no longer available. They were removed from your quote.","ne sont plus disponibles. Ils ont été supprimés de votre devis.",module,Magento_NegotiableQuote
+"The quote %quoteId is currently locked, and you cannot place an order from it at the moment.","Le devis n° %quoteId est actuellement verrouillé et vous ne pouvez pas passer une commande à partir de lui maintenant.",module,Magento_NegotiableQuote
+"The quote %quoteId is currently locked and cannot be closed.","Le devis n° %quoteId est actuellement verrouillé et ne peut pas être clos.",module,Magento_NegotiableQuote
+"You cannot update the requested attribute. Row ID: %fieldName = %fieldValue.","Vous ne pouvez pas mettre à jour l’attribut requis. ID de la ligne : %fieldName = %fieldValue.",module,Magento_NegotiableQuote
+"Invalid attribute %fieldName: Cannot create a B2B Quote for an individual user. The user must be a company member. Row ID: %fieldName = %fieldValue","Attribut incorrect %fieldName : impossible de créer un devis B2B pour un utilisateur individuel. L'utilisateur doit appartenir à une société. Ligne : %fieldName = %fieldValue",module,Magento_NegotiableQuote
+"Invalid attribute %fieldName: Quoting is not allowed for this company. Row ID: %fieldName = %fieldValue","Attribut incorrect %fieldName : impossible de faire des devis pour cette société. Ligne : %fieldName = %fieldValue",module,Magento_NegotiableQuote
+"The quote %quoteId is currently locked and cannot be declined.","Le devis %quoteId est actuellement verrouillé et ne peut pas être refusé.",module,Magento_NegotiableQuote
+"The quote %quoteId is currently locked and cannot be updated. Please check the quote status.","Le devis %quoteId est actuellement verrouillé et ne peut être mis à jour. Veuillez vérifier le statut du devis.",module,Magento_NegotiableQuote
+"The expiration date is in the wrong format. The correct format is %dateformat.","La date d'expiration a un format incorrect. Le format correct est %dateformat.",module,Magento_NegotiableQuote
 "Cannot update the expiration date. You must specify today's date or a future date.","Cannot update the expiration date. You must specify today's date or a future date.",module,Magento_NegotiableQuote
 "Cannot create the B2B quote. You cannot attach more than ten files per one request.","Cannot create the B2B quote. You cannot attach more than ten files per one request.",module,Magento_NegotiableQuote
 "%fileType is not an allowed file type. Please select a different file.","%fileType is not an allowed file type. Please select a different file.",module,Magento_NegotiableQuote
@@ -10191,7 +10191,7 @@
 "RMA Comment Email Recipient","RMA Comment Email Recipient",module,Magento_Rma
 "Enabled for RMA","Enabled for RMA",module,Magento_Rma
 "Page not found.","Page introuvable.",module,Magento_Rss
-"Any message","Any message",module,Magento_Rss
+"Any message","N'importe quel message",module,Magento_Rss
 "Feed","Configuration RSS",module,Magento_Rss
 "Miscellaneous Feeds","Flux divers",module,Magento_Rss
 "Get Feed","Récupérer le flux",module,Magento_Rss
