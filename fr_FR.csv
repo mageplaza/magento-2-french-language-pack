@@ -9461,95 +9461,95 @@ Action,Action,module,Magento_Reports
 Report,Rapport,module,Magento_Reports
 Description,Description,module,Magento_Reports
 undefined,indéfini,module,Magento_Reports
-"My Requisition Lists","My Requisition Lists",module,Magento_RequisitionList
+"My Requisition Lists","Ma liste de demandes",module,Magento_RequisitionList
 "The SKU was not found in the catalog.","La REF n’a pas été trouvée dans le catalogue.",module,Magento_RequisitionList
-"We can't update your requisition list right now.","We can't update your requisition list right now.",module,Magento_RequisitionList
-"We can't add the item to the Requisition List right now: %1.","We can't add the item to the Requisition List right now: %1.",module,Magento_RequisitionList
-"We can't specify a requisition list.","We can't specify a requisition list.",module,Magento_RequisitionList
-"You must choose options for your item.","You must choose options for your item.",module,Magento_RequisitionList
-"We can't specify a product.","We can't specify a product.",module,Magento_RequisitionList
-"You added %1 item(s) to your shopping cart.","You added %1 item(s) to your shopping cart.",module,Magento_RequisitionList
-"Something went wrong.","Something went wrong.",module,Magento_RequisitionList
-"We can't configure the product right now.","We can't configure the product right now.",module,Magento_RequisitionList
-"%1 item(s) were copied to %2","%1 item(s) were copied to %2",module,Magento_RequisitionList
-"%1 item(s) were added to the ""%2""","%1 item(s) were added to the ""%2""",module,Magento_RequisitionList
-"%1 item(s) were moved to %2","%1 item(s) were moved to %2",module,Magento_RequisitionList
-"Requisition Lists","Requisition Lists",module,Magento_RequisitionList
-"Requisition List","Requisition List",module,Magento_RequisitionList
+"We can't update your requisition list right now.","Nous ne pouvons pas mettre à jour votre liste de demandes maintenant.",module,Magento_RequisitionList
+"We can't add the item to the Requisition List right now: %1.","Nous ne pouvons pas ajouter l’élément à la liste de demandes maintenant : %1.",module,Magento_RequisitionList
+"We can't specify a requisition list.","Nous ne pouvons pas spécifier une liste de demandes.",module,Magento_RequisitionList
+"You must choose options for your item.","Vous devez choisir des options pour votre article.",module,Magento_RequisitionList
+"We can't specify a product.","Nous ne pouvons pas spécifier un article.",module,Magento_RequisitionList
+"You added %1 item(s) to your shopping cart.","Vous avez ajouté %1 article (s) à votre panier.",module,Magento_RequisitionList
+"Something went wrong.","Un problème est survenu.",module,Magento_RequisitionList
+"We can't configure the product right now.","Nous ne pouvons pas configurer l'article maintenant.",module,Magento_RequisitionList
+"%1 item(s) were copied to %2","%1 article (s) ont été copiés dans %2",module,Magento_RequisitionList
+"%1 item(s) were added to the ""%2""","%1 article (s) ont été ajoutés à la ""%2""",module,Magento_RequisitionList
+"%1 item(s) were moved to %2","%1 article (s) ont été déplacés vers %2",module,Magento_RequisitionList
+"Requisition Lists","Listes de demandes",module,Magento_RequisitionList
+"Requisition List","Liste de demandes",module,Magento_RequisitionList
 "Invalid item option format.","Le format d'option d'article est incorrect.",module,Magento_RequisitionList
-"An item option with code %1 already exists.","An item option with code %1 already exists.",module,Magento_RequisitionList
-"Could not save Requisition List","Could not save Requisition List",module,Magento_RequisitionList
-"Cannot delete Requisition List with id %1","Cannot delete Requisition List with id %1",module,Magento_RequisitionList
-"Cannot specify product.","Cannot specify product.",module,Magento_RequisitionList
-"%1 has been updated in your requisition list.","%1 has been updated in your requisition list.",module,Magento_RequisitionList
-"Product %1 has been added to the requisition list %2.","Product %1 has been added to the requisition list %2.",module,Magento_RequisitionList
-"Options were updated. Please review available configurations.","Options were updated. Please review available configurations.",module,Magento_RequisitionList
+"An item option with code %1 already exists.","Une option article avec le code %1 existe déjà.",module,Magento_RequisitionList
+"Could not save Requisition List","Impossible d'enregistrer la liste de demandes",module,Magento_RequisitionList
+"Cannot delete Requisition List with id %1","Impossible de supprimer liste de demandes avec id %1",module,Magento_RequisitionList
+"Cannot specify product.","Impossible de spécifier le produit.",module,Magento_RequisitionList
+"%1 has been updated in your requisition list.","%1 a été mis à jour dans votre liste de demandes.",module,Magento_RequisitionList
+"Product %1 has been added to the requisition list %2.","Produit %1 a été ajouté à la liste de demandes %2.",module,Magento_RequisitionList
+"Options were updated. Please review available configurations.","Options ont été mises à jour. Veuillez consulter les configurations disponibles.",module,Magento_RequisitionList
 "The SKU is out of stock.","La REF n'est pas en stock.",module,Magento_RequisitionList
 "We don't have as many ""%1"" as you requested.","We don't have as many ""%1"" as you requested.",module,Magento_RequisitionList
-"Could not save Requisition List. Maximum number of requisition lists was exceeded.","Could not save Requisition List. Maximum number of requisition lists was exceeded.",module,Magento_RequisitionList
+"Could not save Requisition List. Maximum number of requisition lists was exceeded.","Impossible d'enregistrer la liste de demandes. Nombre maximum de listes de demandes est atteinte.",module,Magento_RequisitionList
 Exception,Exception,module,Magento_RequisitionList
 exception,exception,module,Magento_RequisitionList
-"No such entity","No such entity",module,Magento_RequisitionList
-"Could not save","Could not save",module,Magento_RequisitionList
-"Exception Message","Exception Message",module,Magento_RequisitionList
-View,View,module,Magento_RequisitionList
-"Add to Requisition List","Add to Requisition List",module,Magento_RequisitionList
-"Update Requisition List","Update Requisition List",module,Magento_RequisitionList
-"Create Requisition List","Create Requisition List",module,Magento_RequisitionList
-"Create New Requisition List","Create New Requisition List",module,Magento_RequisitionList
-Print,Print,module,Magento_RequisitionList
-Rename,Rename,module,Magento_RequisitionList
-"Rename Requisition List","Rename Requisition List",module,Magento_RequisitionList
-items,items,module,Magento_RequisitionList
-item,item,module,Magento_RequisitionList
-"in requisition list","in requisition list",module,Magento_RequisitionList
-"Contact Us","Contact Us",module,Magento_RequisitionList
-"Add to Cart","Add to Cart",module,Magento_RequisitionList
-"Update List","Update List",module,Magento_RequisitionList
-"Delete Requisition List","Delete Requisition List",module,Magento_RequisitionList
-"You have no items in this requisition list.","You have no items in this requisition list.",module,Magento_RequisitionList
-"Product Name","Product Name",module,Magento_RequisitionList
-Item,Item,module,Magento_RequisitionList
-Price,Price,module,Magento_RequisitionList
-Qty,Qty,module,Magento_RequisitionList
-Subtotal,Subtotal,module,Magento_RequisitionList
-Product,Product,module,Magento_RequisitionList
+"No such entity","Aucune entité de ce type",module,Magento_RequisitionList
+"Could not save","Enregistrement impossible",module,Magento_RequisitionList
+"Exception Message","Message d’exception",module,Magento_RequisitionList
+View,Voir,module,Magento_RequisitionList
+"Add to Requisition List","Ajouter à la liste de demandes",module,Magento_RequisitionList
+"Update Requisition List","Mettre à jour la liste de demandes",module,Magento_RequisitionList
+"Create Requisition List","Créer un liste de demandes",module,Magento_RequisitionList
+"Create New Requisition List","Créer une nouvelle liste de demandes",module,Magento_RequisitionList
+Print,Imprimer,module,Magento_RequisitionList
+Rename,Renommer,module,Magento_RequisitionList
+"Rename Requisition List","Renommer une liste de demandes",module,Magento_RequisitionList
+items,éléments,module,Magento_RequisitionList
+item,élément,module,Magento_RequisitionList
+"in requisition list","dans la liste de demandes",module,Magento_RequisitionList
+"Contact Us",Contactez-nous,module,Magento_RequisitionList
+"Add to Cart","Ajouter au panier",module,Magento_RequisitionList
+"Update List","Mettre à jour la liste",module,Magento_RequisitionList
+"Delete Requisition List","Supprimer la liste de demandes",module,Magento_RequisitionList
+"You have no items in this requisition list.","Vous n’avez aucun élément dans cette liste de demandes.",module,Magento_RequisitionList
+"Product Name","Nom de produit",module,Magento_RequisitionList
+Item,Élément,module,Magento_RequisitionList
+Price,Prix,module,Magento_RequisitionList
+Qty,Qté,module,Magento_RequisitionList
+Subtotal,Sous-total,module,Magento_RequisitionList
+Product,Produit,module,Magento_RequisitionList
 SKU,REF,module,Magento_RequisitionList
-"Excl. Tax","Excl. Tax",module,Magento_RequisitionList
-"Edit item","Edit item",module,Magento_RequisitionList
-"Remove item","Remove item",module,Magento_RequisitionList
-"Select all","Select all",module,Magento_RequisitionList
-"With Selected","With Selected",module,Magento_RequisitionList
-"Copy Selected","Copy Selected",module,Magento_RequisitionList
-Copy,Copy,module,Magento_RequisitionList
-"Move Selected","Move Selected",module,Magento_RequisitionList
-Move,Move,module,Magento_RequisitionList
-"Remove Selected","Remove Selected",module,Magento_RequisitionList
-Remove,Remove,module,Magento_RequisitionList
-Delete,Delete,module,Magento_RequisitionList
-"product(s) require your attention","product(s) require your attention",module,Magento_RequisitionList
-"Requisition List Name","Requisition List Name",module,Magento_RequisitionList
+"Excl. Tax",HT,module,Magento_RequisitionList
+"Edit item","Éditer l'article",module,Magento_RequisitionList
+"Remove item","Supprimer l'article",module,Magento_RequisitionList
+"Select all","Tout sélectionner",module,Magento_RequisitionList
+"With Selected","Avec la sélection",module,Magento_RequisitionList
+"Copy Selected","Copier la sélection",module,Magento_RequisitionList
+Copy,Copier,module,Magento_RequisitionList
+"Move Selected","Déplacer la sélection",module,Magento_RequisitionList
+Move,Déplacer,module,Magento_RequisitionList
+"Remove Selected","Supprimer la sélection",module,Magento_RequisitionList
+Remove,Supprimer,module,Magento_RequisitionList
+Delete,Supprimer,module,Magento_RequisitionList
+"product(s) require your attention","produit(s) requiert(èrent) votre attention",module,Magento_RequisitionList
+"Requisition List Name","Nom de la liste de demande",module,Magento_RequisitionList
 Description,Description,module,Magento_RequisitionList
-"The shopping cart isn't empty","The shopping cart isn't empty",module,Magento_RequisitionList
-"You have items in your shopping cart. Would you like to merge items in this order with items of this shopping cart or replace them?","You have items in your shopping cart. Would you like to merge items in this order with items of this shopping cart or replace them?",module,Magento_RequisitionList
-"Select Cancel to stay on the current page.","Select Cancel to stay on the current page.",module,Magento_RequisitionList
-Merge,Merge,module,Magento_RequisitionList
-Replace,Replace,module,Magento_RequisitionList
+"The shopping cart isn't empty","Le panier n'est pas vide",module,Magento_RequisitionList
+"You have items in your shopping cart. Would you like to merge items in this order with items of this shopping cart or replace them?","Vous avez des articles dans votre panier. Souhaitez-vous fusionner les articles de cette commande avec ceux de ce panier ou les remplacer?",module,Magento_RequisitionList
+"Select Cancel to stay on the current page.","Sélectionnez Annuler pour rester sur la page actuelle.",module,Magento_RequisitionList
+Merge,Fusionner,module,Magento_RequisitionList
+Replace,Remplacer,module,Magento_RequisitionList
 Cancel,Annuler,module,Magento_RequisitionList
-Ok,Ok,module,Magento_RequisitionList
-"Cannot Perform the Requested Action","Cannot Perform the Requested Action",module,Magento_RequisitionList
-"This action cannot be performed because the selected product(s) require attention. You must resolve these issues before you can continue.","This action cannot be performed because the selected product(s) require attention. You must resolve these issues before you can continue.",module,Magento_RequisitionList
-"Please Select Product","Please Select Product",module,Magento_RequisitionList
-"Please select at least one product to proceed.","Please select at least one product to proceed.",module,Magento_RequisitionList
-Save,Save,module,Magento_RequisitionList
-"B2B Requisition List","B2B Requisition List",module,Magento_RequisitionList
-"Enable Requisition List","Enable Requisition List",module,Magento_RequisitionList
-General,General,module,Magento_RequisitionList
-"Number of Requisition Lists","Number of Requisition Lists",module,Magento_RequisitionList
-"The number of requisition lists should be equal or more than 2.","The number of requisition lists should be equal or more than 2.",module,Magento_RequisitionList
-"Name & Description","Name & Description",module,Magento_RequisitionList
-Items,Items,module,Magento_RequisitionList
-"Latest Activity","Latest Activity",module,Magento_RequisitionList
+Ok,OK,module,Magento_RequisitionList
+"Cannot Perform the Requested Action","Impossible d’effectuer l’action demandée",module,Magento_RequisitionList
+"This action cannot be performed because the selected product(s) require attention. You must resolve these issues before you can continue.","Impossible d’effectuer cette action parce que vous avez produits nécessitant votre attention. Vous devez résoudre cela avant de continuer.",module,Magento_RequisitionList
+"Please Select Product","Veuillez sélectionner des produits",module,Magento_RequisitionList
+"Please select at least one product to proceed.","Veuillez sélectionner au moins un produit pour continuer.",module,Magento_RequisitionList
+Save,Sauvegarder,module,Magento_RequisitionList
+"B2B Requisition List","Liste de demandes B2B",module,Magento_RequisitionList
+"Enable Requisition List","Activer la liste de demandes",module,Magento_RequisitionList
+General,Général,module,Magento_RequisitionList
+"Number of Requisition Lists","Nombre de listes de demandes",module,Magento_RequisitionList
+"The number of requisition lists should be equal or more than 2.","Le nombre de listes de demandes doit être égal ou supérieur à 2.",module,Magento_RequisitionList
+"Name & Description","Nom et description",module,Magento_RequisitionList
+Items,Articles,module,Magento_RequisitionList
+"Latest Activity","Dernière activité",module,Magento_RequisitionList
 "Save Review","Sauvegarder le commentaire",module,Magento_Review
 "New Review","Nouveau commentaire",module,Magento_Review
 "Review Details","Détail du commentaire",module,Magento_Review
@@ -9809,61 +9809,61 @@ None,Aucun,module,Magento_Reward
 "You have %points_balance points that may be used in our store:","Vous avez %points_balance points qui peuvent être utilisés dans notre magasin :",module,Magento_Reward
 "<a href=""%unsubscription_url"">Unsubscribe</a> from these notifications.","<a href=""%unsubscription_url"">Se désabonner</a> de ces notifications.",module,Magento_Reward
 "Reward Points Expiry Warning at %store_name","Avertissement d’expiration de Points fidélité de %store_name",module,Magento_Reward
-"There are %remaining_days day(s) remaining to use %points_expiring of your reward points.","There are %remaining_days day(s) remaining to use %points_expiring of your reward points.",module,Magento_Reward
-"After %remaining_days day(s) these points will expire.","After %remaining_days day(s) these points will expire.",module,Magento_Reward
-"You have a total of %points_balance points that may be used in our store:","You have a total of %points_balance points that may be used in our store:",module,Magento_Reward
+"There are %remaining_days day(s) remaining to use %points_expiring of your reward points.","Il reste %remaining_days jour(s) pour utiliser vos %points_expiring points fidélité.",module,Magento_Reward
+"After %remaining_days day(s) these points will expire.","Après %remaining_days jour(s) ces points expireront.",module,Magento_Reward
+"You have a total of %points_balance points that may be used in our store:","Vous avez un total de %points_balance points qui peuvent être utilisés dans le magasin :",module,Magento_Reward
 "Reward points","Points de fidélité",module,Magento_Reward
 "Use reward points","Utiliser les points de fidélité",module,Magento_Reward
 "Your reward point was successfully applied","Votre point de fidélité a été appliqué avec succès",module,Magento_Reward
 "Manage Reward Points Balances","Gérer le solde des points de fidélité",module,Magento_Reward
-"Can Spend Reward Points","Can Spend Reward Points",module,Magento_Reward
-"Enable Reward Points Functionality","Enable Reward Points Functionality",module,Magento_Reward
-"Enable Reward Points Functionality on Storefront","Enable Reward Points Functionality on Storefront",module,Magento_Reward
-"Customers May See Reward Points History","Customers May See Reward Points History",module,Magento_Reward
-"Rewards Points Balance Redemption Threshold","Rewards Points Balance Redemption Threshold",module,Magento_Reward
-"An empty value disables this limitation.","An empty value disables this limitation.",module,Magento_Reward
-"Cap Reward Points Balance At","Cap Reward Points Balance At",module,Magento_Reward
-"Reward Points Expire in (days)","Reward Points Expire in (days)",module,Magento_Reward
-"Reward Points Expiry Calculation","Reward Points Expiry Calculation",module,Magento_Reward
-"""Static"" defines the expiration date as precisely when the balance increases. ""Dynamic"" does not have an expiration date, but calculates one when the balance is checked for expiry.","""Static"" defines the expiration date as precisely when the balance increases. ""Dynamic"" does not have an expiration date, but calculates one when the balance is checked for expiry.",module,Magento_Reward
-"Refund Reward Points Automatically","Refund Reward Points Automatically",module,Magento_Reward
-"Deduct Reward Points from Refund Amount Automatically","Deduct Reward Points from Refund Amount Automatically",module,Magento_Reward
+"Can Spend Reward Points","Peut dépenser des points fidélité",module,Magento_Reward
+"Enable Reward Points Functionality","Activer les fonctions de points fidélité",module,Magento_Reward
+"Enable Reward Points Functionality on Storefront","Activer les fonctions de points fidélité dans la boutique",module,Magento_Reward
+"Customers May See Reward Points History","Les clients peuvent voir l'historique des points fidélité",module,Magento_Reward
+"Rewards Points Balance Redemption Threshold","Seuil de rachat de solde de points fidélité",module,Magento_Reward
+"An empty value disables this limitation.","Une valeur vide désactive cette limitation.",module,Magento_Reward
+"Cap Reward Points Balance At","Plafond de solde de points fidélité",module,Magento_Reward
+"Reward Points Expire in (days)","Points fidélité expirent après (jours)",module,Magento_Reward
+"Reward Points Expiry Calculation","Calcul d'expiration des points fidélité",module,Magento_Reward
+"""Static"" defines the expiration date as precisely when the balance increases. ""Dynamic"" does not have an expiration date, but calculates one when the balance is checked for expiry.","« Statique » définit la date d’expiration plus précisément lorsque le solde augmente. « Dynamique » n’a pas de date d’expiration, mais on calcule lorsque le solde est vérifié pour l’expiration.",module,Magento_Reward
+"Refund Reward Points Automatically","Rembourser automatiquement les points fidélité",module,Magento_Reward
+"Deduct Reward Points from Refund Amount Automatically","Déduire automatiquement les points de fidélité du montant remboursé",module,Magento_Reward
 "Landing Page","Page de destination",module,Magento_Reward
-"Actions for Acquiring Reward Points by Customers","Actions for Acquiring Reward Points by Customers",module,Magento_Reward
+"Actions for Acquiring Reward Points by Customers","Actions pour acquérir des Points de fidélité par clients",module,Magento_Reward
 Purchase,Achat,module,Magento_Reward
-"Added for spent money according to reward exchange rates.","Added for spent money according to reward exchange rates.",module,Magento_Reward
+"Added for spent money according to reward exchange rates.","Ajouté pour l’argent dépensé selon les taux de change des points fidélité.",module,Magento_Reward
 Registration,Enregistrement,module,Magento_Reward
 "Newsletter Signup","Inscription newsletter",module,Magento_Reward
 "Only for customers who subscribe for the first time.","Uniquement pour les clients qui s’abonnent pour la première fois.",module,Magento_Reward
 "Converting Invitation to Customer","Conversion d’un Invité en client",module,Magento_Reward
-"Invitation to Customer Conversions Quantity Limit","Invitation to Customer Conversions Quantity Limit",module,Magento_Reward
-"Converting Invitation to Order","Converting Invitation to Order",module,Magento_Reward
-"Invitation to Order Conversions Quantity Limit","Invitation to Order Conversions Quantity Limit",module,Magento_Reward
-"Invitation Conversion to Order Reward","Invitation Conversion to Order Reward",module,Magento_Reward
+"Invitation to Customer Conversions Quantity Limit","Quantité limite d'invitation à la conversion en clients",module,Magento_Reward
+"Converting Invitation to Order","Conversion d'invitation en commande",module,Magento_Reward
+"Invitation to Order Conversions Quantity Limit","Quantité limite d'invitation à la conversion en commandes",module,Magento_Reward
+"Invitation Conversion to Order Reward","Récompense de conversion d'invitation en commande",module,Magento_Reward
 "Review Submission","Révision de la demande",module,Magento_Reward
 "After approval by administrator.","Après approbation par l’administrateur.",module,Magento_Reward
-"Rewarded Reviews Submission Quantity Limit","Rewarded Reviews Submission Quantity Limit",module,Magento_Reward
+"Rewarded Reviews Submission Quantity Limit","Quantité limite de récompense de soumission de commentaires",module,Magento_Reward
 "Email Sender","Expéditeur du mail",module,Magento_Reward
 "Subscribe Customers by Default","Abonner les clients par défaut",module,Magento_Reward
 "Balance Update Email","Email de mise à jour de solde",module,Magento_Reward
-"Reward Points Expiry Warning Email","Reward Points Expiry Warning Email",module,Magento_Reward
-"Expiry Warning Before (days)","Expiry Warning Before (days)",module,Magento_Reward
-"Entering no value or a value greater than the expiration lifetime disables the warning notification.","Entering no value or a value greater than the expiration lifetime disables the warning notification.",module,Magento_Reward
-"Reward Points Rates","Reward Points Rates",module,Magento_Reward
-"Amount Balance","Amount Balance",module,Magento_Reward
+"Reward Points Expiry Warning Email","Email d'alerte d'expiration de points de fidélité",module,Magento_Reward
+"Expiry Warning Before (days)","Avertissement d’expiration avant (jours)",module,Magento_Reward
+"Entering no value or a value greater than the expiration lifetime disables the warning notification.","Entrer aucune valeur ou une valeur supérieure à la durée de vie d’expiration désactive la notification de l’avertissement.",module,Magento_Reward
+"Reward Points Rates","Taux de Points de fidélité",module,Magento_Reward
+"Amount Balance","Montant du solde",module,Magento_Reward
 Created,Créé,module,Magento_Reward
 Expires,Expire,module,Magento_Reward
 ID,ID,module,Magento_Reward
 "Add Reward Points","Ajouter des points fidélité",module,Magento_Reward
-"Check out now and earn %1 for this order.","Check out now and earn %1 for this order.",module,Magento_Reward
+"Check out now and earn %1 for this order.","Commandez maintenant et gagnez %1 pour cette commande.",module,Magento_Reward
 "Create an account on our site now and earn %1.","Créez un compte sur notre site maintenant et gagnez des %1.",module,Magento_Reward
-"Subscribe to our newsletter now and earn %1.","Subscribe to our newsletter now and earn %1.",module,Magento_Reward
+"Subscribe to our newsletter now and earn %1.","Abonnez-vous à notre newsletter dès maintenant et gagnez %1.",module,Magento_Reward
 "Send this invitation now and earn %s when your invitee signs up on our site.","Send this invitation now and earn %s when your invitee signs up on our site.",module,Magento_Reward
 "You can reward up to %s invitee registration(s).","You can reward up to %s invitee registration(s).",module,Magento_Reward
 "Earn %s for purchases your invitees make.","Earn %s for purchases your invitees make.",module,Magento_Reward
 "You can reward up to %s invitee purchase(s).","You can reward up to %s invitee purchase(s).",module,Magento_Reward
-"Submit a review now and earn %1 after the review is approved.","Submit a review now and earn %1 after the review is approved.",module,Magento_Reward
-"You can reward up to %1 new reviews(s).","You can reward up to %1 new reviews(s).",module,Magento_Reward
+"Submit a review now and earn %1 after the review is approved.","Ecrivez votre commentaire maintenant et gagnez %1 après parution.",module,Magento_Reward
+"You can reward up to %1 new reviews(s).","Vous pouvez gagner des points fidélité pour un maximum de %1 nouveau(x) commentaire(s).",module,Magento_Reward
 Return,Retour,module,Magento_Rma
 Returns,Retours,module,Magento_Rma
 "Create Returns","Créer des retours",module,Magento_Rma
@@ -9874,12 +9874,12 @@ Returns,Retours,module,Magento_Rma
 "Create New RMA","Créer une nouvelle autorisation de retour de marchandise",module,Magento_Rma
 "Please Select Order","Veuillez sélectionner une commande",module,Magento_Rma
 Order,Commande,module,Magento_Rma
-"Purchase Point","Purchase Point",module,Magento_Rma
-Purchased,Purchased,module,Magento_Rma
+"Purchase Point","Point de vente",module,Magento_Rma
+Purchased,Acheté,module,Magento_Rma
 "Customer First Name","Prénom du client",module,Magento_Rma
 "Customer Last Name","Nom de famille du client",module,Magento_Rma
 "Grand Total (Base)","Nom du client",module,Magento_Rma
-"Grand Total (Purchased)","Grand Total (Purchased)",module,Magento_Rma
+"Grand Total (Purchased)","Total général (acheté)",module,Magento_Rma
 Status,Statut,module,Magento_Rma
 "Save and Continue Edit","Sauvegarder et continuer à éditer",module,Magento_Rma
 Close,Fermer,module,Magento_Rma
@@ -9918,17 +9918,17 @@ Ordered,Commandé,module,Magento_Rma
 Customer,Client,module,Magento_Rma
 View,Voir,module,Magento_Rma
 "You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?","Vous avez choisi de changer le(s) statut(s) des demandes d'autorisation de retour de marchandise sélectionnées pour être fermées. Êtes-vous certain(e) de vouloir continuer ?",module,Magento_Rma
-"Return Item Attribute","Return Item Attribute",module,Magento_Rma
+"Return Item Attribute","Attribut retour produits",module,Magento_Rma
 "Add New Attribute","Ajouter un attribut",module,Magento_Rma
 "Save Attribute","Sauvegarder l'attribut",module,Magento_Rma
 "Delete Attribute","Supprimer l'attribut",module,Magento_Rma
-"Edit Return Item Attribute ""%1""","Edit Return Item Attribute ""%1""",module,Magento_Rma
-"New Return Item Attribute","New Return Item Attribute",module,Magento_Rma
+"Edit Return Item Attribute ""%1""","Modifier l’attribut de retour produits ""%1""",module,Magento_Rma
+"New Return Item Attribute","Nouvel attribut de retour produits",module,Magento_Rma
 "Input Type","Type de saisie",module,Magento_Rma
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.","Nom qui apparaîtra sous votre application lorsque les utilisateurs l'installeront sur leur terminal. Nous vous recommandons d'utiliser un nom de 10 à 12 caractères reconnaissable par vos clients.",module,Magento_Rma
 "Lines Count","Nombre de lignes",module,Magento_Rma
-"Valid range 2-20","Valid range 2-20",module,Magento_Rma
-"Input Validation","Input Validation",module,Magento_Rma
+"Valid range 2-20","Plage valide : 2-20",module,Magento_Rma
+"Input Validation","Validation des entrées",module,Magento_Rma
 None,Aucun,module,Magento_Rma
 "Minimum Text Length","Longueur minimale du texte",module,Magento_Rma
 "Maximum Text Length","Longueur maximale du texte",module,Magento_Rma
@@ -9941,7 +9941,7 @@ None,Aucun,module,Magento_Rma
 "Storefront Properties","Propritétés du front office",module,Magento_Rma
 "Show on Storefront","Afficher sur la devanture du site",module,Magento_Rma
 "Sort Order","Ordre de tri""Abandoned Carts",module,Magento_Rma
-"Forms to Use In","Forms to Use In",module,Magento_Rma
+"Forms to Use In","Formulaires à utiliser dans",module,Magento_Rma
 Properties,Propriétés,module,Magento_Rma
 "Manage Label / Options","Gérer les labels/les options",module,Magento_Rma
 "Attribute Information","Informations attributs",module,Magento_Rma
@@ -9974,63 +9974,63 @@ Price,Prix,module,Magento_Rma
 "%1 RMA(s) cannot be closed","%1 autorisation(s) de retour de marchandise ne peut / peuvent être fermée(s)",module,Magento_Rma
 "We cannot close the RMA request(s).","Impossible de fermer la ou les demande(s) d'autorisation de retour de marchandise.",module,Magento_Rma
 "%1 RMA (s) have been closed.","%1 autorisation(s) de retour de marchandise a / ont été fermée(s).",module,Magento_Rma
-"You created a shipping label.","You created a shipping label.",module,Magento_Rma
+"You created a shipping label.","Vous avez créé l'étiquette de transport.",module,Magento_Rma
 "We can't create a shipping label right now.","We can't create a shipping label right now.",module,Magento_Rma
 "Manage RMA Item Attributes","Gérer les attributs de l'article pour l'autorisation de retour de marchandise",module,Magento_Rma
-"You cannot delete this attribute.","You cannot delete this attribute.",module,Magento_Rma
+"You cannot delete this attribute.","Impossible de supprimer cet attribut.",module,Magento_Rma
 "You deleted the RMA attribute.","Vous avez bien supprimé l'attribut de l'autorisation de retour de marchandise.",module,Magento_Rma
 "We can't delete the RMA item attribute right now.","We can't delete the RMA item attribute right now.",module,Magento_Rma
 "This attribute no longer exists.","Cet attribut n'existe plus.",module,Magento_Rma
-"You cannot edit this attribute.","You cannot edit this attribute.",module,Magento_Rma
-"Edit Return Item Attribute","Edit Return Item Attribute",module,Magento_Rma
-"Returns Attributes","Returns Attributes",module,Magento_Rma
-"New Return Attribute","New Return Attribute",module,Magento_Rma
+"You cannot edit this attribute.","Impossible de modifier cet attribut.",module,Magento_Rma
+"Edit Return Item Attribute","Modifier l’attribut de retour produits",module,Magento_Rma
+"Returns Attributes","Attributs de retour produits",module,Magento_Rma
+"New Return Attribute","Nouvel attribut de retour produits",module,Magento_Rma
 "You saved the RMA item attribute.","Vous avez bien enregistré l'attribut de l'article pour l'autorisation de retour de marchandise.",module,Magento_Rma
 "Something went wrong while saving the RMA item attribute.","Une erreur s'est produite lors de l'enregistrement de l'attribut de l'article pour l'autorisation de retour de marchandise.",module,Magento_Rma
-"An attribute with the same code already exists.","An attribute with the same code already exists.",module,Magento_Rma
+"An attribute with the same code already exists.","Un attribut avec le même code existe déjà.",module,Magento_Rma
 "The wrong RMA item was requested.","Le mauvais article a été demandé pour l'autorisation de retour de marchandise.",module,Magento_Rma
-"We cannot display the item attributes.","We cannot display the item attributes.",module,Magento_Rma
-"There are no applicable items for return in this order.","There are no applicable items for return in this order.",module,Magento_Rma
-"We don't recognize or support the file extension in shipment %1.","We don't recognize or support the file extension in shipment %1.",module,Magento_Rma
-"Something went wrong creating a shipping label.","Something went wrong creating a shipping label.",module,Magento_Rma
+"We cannot display the item attributes.","Impossible d'afficher les attributs produits.",module,Magento_Rma
+"There are no applicable items for return in this order.","Il n'y a pas de produits qui puissent être retournés dans cette commande.",module,Magento_Rma
+"We don't recognize or support the file extension in shipment %1.","L'extension du format de fichier n'est pas reconnu pour cette expédition %1.",module,Magento_Rma
+"Something went wrong creating a shipping label.","Quelque chose s'est mal passé lors de la création de cette étiquette de transport.",module,Magento_Rma
 "A quantity you're trying to add exceeds the number of products we shipped.","A quantity you're trying to add exceeds the number of products we shipped.",module,Magento_Rma
 "Products should be added to package(s)","Les produits devraient être ajoutés à un ou plusieurs colis",module,Magento_Rma
-"Please enter a valid value.","Please enter a valid value.",module,Magento_Rma
+"Please enter a valid value.","Merci d'entrer une valeur valide.",module,Magento_Rma
 "This is the wrong RMA ID.","L'identifiant d'autorisation de retour de marchandise est erroné.",module,Magento_Rma
-"We cannot display the available shipping methods.","We cannot display the available shipping methods.",module,Magento_Rma
+"We cannot display the available shipping methods.","Impossible d'afficher les méthodes de transport disponibles.",module,Magento_Rma
 "We cannot initialize an RMA to delete a tracking number.","Impossible d'initialiser une autorisation de retour de marchandise afin de supprimer un numéro de suivi.",module,Magento_Rma
 "We can't delete the tracking number right now.","We can't delete the tracking number right now.",module,Magento_Rma
 "We can't save this RMA.","We can't save this RMA.",module,Magento_Rma
 "You saved the RMA request.","Vous avez bien enregistré la demande d'autorisation de retour de marchandise.",module,Magento_Rma
-"You did not email your customer. Please check your email settings.","You did not email your customer. Please check your email settings.",module,Magento_Rma
+"You did not email your customer. Please check your email settings.","Vous n'avez pas envoyé d'email au client. Veuillez vérifier les paramètres des emails.",module,Magento_Rma
 "You submitted the RMA request.","Vous avez bien soumis le demande d'autorisation de retour de marchandise.",module,Magento_Rma
-"No items for bundle product","No items for bundle product",module,Magento_Rma
-"The wrong order ID or item ID was requested.","The wrong order ID or item ID was requested.",module,Magento_Rma
+"No items for bundle product","Pas d'articles pour le produit groupé",module,Magento_Rma
+"The wrong order ID or item ID was requested.","Un mauvais n° de commande ou d'article a été demandé.",module,Magento_Rma
 "Page not found.","Page introuvable.",module,Magento_Rma
-"Shipping Labels are not allowed.","Shipping Labels are not allowed.",module,Magento_Rma
-"Please select a valid carrier.","Please select a valid carrier.",module,Magento_Rma
-"Please enter a valid tracking number.","Please enter a valid tracking number.",module,Magento_Rma
+"Shipping Labels are not allowed.","Les étiquettes de transport ne sont pas autorisées.",module,Magento_Rma
+"Please select a valid carrier.","Veuillez choisir un transporteur valide.",module,Magento_Rma
+"Please enter a valid tracking number.","Veuillez saisir un numéro de suivi valide.",module,Magento_Rma
 "We can't add a label right now.","We can't add a label right now.",module,Magento_Rma
 "You selected the wrong RMA.","Vous avez sélectionné la mauvaise autorisation de retour de marchandise.",module,Magento_Rma
 "We can't create a return transaction for order #%1.","We can't create a return transaction for order #%1.",module,Magento_Rma
 "You submitted Return #%1.","Votre retour soumis n°%1.",module,Magento_Rma
 "We can't create a return right now. Please try again later.","We can't create a return right now. Please try again later.",module,Magento_Rma
-"Create New Return","Create New Return",module,Magento_Rma
+"Create New Return","Créer un nouveau retour produit",module,Magento_Rma
 "We can't delete the label right now.","We can't delete the label right now.",module,Magento_Rma
 "Return #%1","Retour n°%1",module,Magento_Rma
-"Cannot add message.","Cannot add message.",module,Magento_Rma
-"My Returns","My Returns",module,Magento_Rma
+"Cannot add message.","Impossible d'ajouter un message.",module,Magento_Rma
+"My Returns","Mes retours",module,Magento_Rma
 "Tracking Information","Informations de suivi",module,Magento_Rma
-"Page not found","Page not found",module,Magento_Rma
-"Please check this order for errors.","Please check this order for errors.",module,Magento_Rma
-"Contact Email Address","Contact Email Address",module,Magento_Rma
+"Page not found","Page non trouvée",module,Magento_Rma
+"Please check this order for errors.","Veuillez vérifier les erreurs de cette commande.",module,Magento_Rma
+"Contact Email Address","Adresse email de contact",module,Magento_Rma
 "Text Field","Champ texte",module,Magento_Rma
 "Text Area","Zone de texte",module,Magento_Rma
 Dropdown,"Liste déroulante",module,Magento_Rma
 "Image File","L'image n'existe pas.",module,Magento_Rma
 "Only one RMA is available for printing","Une seule autorisation de retour de marchandise est disponible pour l'impression",module,Magento_Rma
 "Return #","Retour n°",module,Magento_Rma
-"Return Date:","Return Date:",module,Magento_Rma
+"Return Date:","Date de retour :",module,Magento_Rma
 "Order #","Commande n°",module,Magento_Rma
 Ordered:,"Commandé :",module,Magento_Rma
 "Shipping Address:","Adresse de livraison",module,Magento_Rma
@@ -10057,7 +10057,7 @@ Pending,"En attente",module,Magento_Rma
 "Partially Approved","En partie approuvé",module,Magento_Rma
 Rejected,Rejeté,module,Magento_Rma
 "Partially Rejected","En partie rejeté",module,Magento_Rma
-Denied,Denied,module,Magento_Rma
+Denied,Refusé,module,Magento_Rma
 Closed,Fermée,module,Magento_Rma
 "Processed and Closed","Traité et fermé",module,Magento_Rma
 "This is the wrong RMA item status.","Le statut de l'article pour l'autorisation de retour de marchandise est erroné.",module,Magento_Rma
@@ -10072,18 +10072,18 @@ Closed,Fermée,module,Magento_Rma
 "ID cannot be an empty","L'identifiant ne peut être vide",module,Magento_Rma
 "Requested entity doesn't exist","Requested entity doesn't exist",module,Magento_Rma
 "Please enter a valid comment.","Veuillez saisir un commentaire valide.",module,Magento_Rma
-"No such entity with %1 = %2, %3 = %4","No such entity with %1 = %2, %3 = %4",module,Magento_Rma
+"No such entity with %1 = %2, %3 = %4","Pas d'entité avec %1 = %2, %3 = %4",module,Magento_Rma
 "Invalid carrier: %1","Invalid carrier: %1",module,Magento_Rma
-"We need more information to create your shipping label(s). Please verify your store information and shipping settings.","We need more information to create your shipping label(s). Please verify your store information and shipping settings.",module,Magento_Rma
+"We need more information to create your shipping label(s). Please verify your store information and shipping settings.","Nous avons besoin de plus d'informations pour créer le(s) étiquette(s) de transport. Veuillez vérifier vos informations de magasin et les paramètres de transport.",module,Magento_Rma
 "No detail for number ""%1""","Aucun détail pour le numéro ""%1""",module,Magento_Rma
-"Shipment does not exists.","Shipment does not exists.",module,Magento_Rma
+"Shipment does not exists.","L'expédition n'existe pas.",module,Magento_Rma
 "We can't load track with retrieving identifier right now.","We can't load track with retrieving identifier right now.",module,Magento_Rma
 Message,Message,module,Magento_Rma
 "No detail for number ""' . . '""","Aucun détail pour le numéro ""' . . '""",module,Magento_Rma
 "Use Config Settings","Utilisez les paramètres de configuration",module,Magento_Rma
 "All Items","Tous les articles",module,Magento_Rma
 "Individual Items","Articles individuels",module,Magento_Rma
-"Account &amp; Shipping Information","Account &amp; Shipping Information",module,Magento_Rma
+"Account &amp; Shipping Information","Compte &amp; Informations transport",module,Magento_Rma
 "Address Information","Informations d'adresse",module,Magento_Rma
 "RMA Totals","Totaux des autorisations de retour de marchandise",module,Magento_Rma
 "Request Details","Détails de la demande",module,Magento_Rma
@@ -10095,12 +10095,12 @@ ID,ID,module,Magento_Rma
 "RMA History","Historique des autorisations de retour de marchandise",module,Magento_Rma
 "Comment Text","Texte du commentaire",module,Magento_Rma
 "Notify Customer by Email","Avertir le client par email",module,Magento_Rma
-"Visible on Storefront","Visible on Storefront",module,Magento_Rma
+"Visible on Storefront","Visible dans le magasin",module,Magento_Rma
 "Customer Service","Service Client",module,Magento_Rma
 Notified,Notifié,module,Magento_Rma
 "Not Notified","Non notifié",module,Magento_Rma
 "Return Address","Adresse de retour",module,Magento_Rma
-"Order Shipping Address","Order Shipping Address",module,Magento_Rma
+"Order Shipping Address","Adresse de livraison",module,Magento_Rma
 "Delete Line","Supprimer la ligne",module,Magento_Rma
 "Select All","Sélectionner tout",module,Magento_Rma
 Weight,Poids,module,Magento_Rma
@@ -10108,16 +10108,16 @@ Weight,Poids,module,Magento_Rma
 "Qty Ordered","Qté commandée",module,Magento_Rma
 "Shipping Information","Informations de livraison",module,Magento_Rma
 "Change shipping method.","Changer de méthode de livraison.",module,Magento_Rma
-"No authorized items or allowed shipping methods","No authorized items or allowed shipping methods",module,Magento_Rma
+"No authorized items or allowed shipping methods","Pas d'articles ou de méthode de livraison autorisés",module,Magento_Rma
 Carrier,Transporteur,module,Magento_Rma
 Title,Titre,module,Magento_Rma
 Number,Numéro,module,Magento_Rma
 "Are you sure?","Êtes-vous sûr(e) ?",module,Magento_Rma
 "Shipping Method","Mode de livraison",module,Magento_Rma
 "Create Shipping Label","Créer l'étiquette de livraison",module,Magento_Rma
-"Enabled when authorized items require a new shipment.","Enabled when authorized items require a new shipment.",module,Magento_Rma
-"Order &amp; Account Information","Order &amp; Account Information",module,Magento_Rma
-"Return Totals","Return Totals",module,Magento_Rma
+"Enabled when authorized items require a new shipment.","Activé quand les articles autorisés nécessitent un transport.",module,Magento_Rma
+"Order &amp; Account Information","Commande &amp; Informations de compte",module,Magento_Rma
+"Return Totals","Total des retours",module,Magento_Rma
 "Return Confirmation","Confirmation de retour",module,Magento_Rma
 "Email Returns Confirmation","Envoyer la confirmation des retours par courriel",module,Magento_Rma
 "RMA Items Requested for","Articles d'autorisation de retour de marchandise demandés pour",module,Magento_Rma
@@ -10125,24 +10125,24 @@ Number,Numéro,module,Magento_Rma
 Remove,Supprimer,module,Magento_Rma
 Item,Article,module,Magento_Rma
 "Return items","Retourner les articles",module,Magento_Rma
-Sub-items,Sub-items,module,Magento_Rma
+Sub-items,Sous-élements,module,Magento_Rma
 "Quantity To Return","Quantité à retourner",module,Magento_Rma
 "Remaining Quantity:","Quantité restante :",module,Magento_Rma
 "New Return for Order %1","Nouveau retour pour la commande %1",module,Magento_Rma
 Email,Email,module,Magento_Rma
 "Return Items Information","Informations sur les articles retournés",module,Magento_Rma
-"Add Item To Return","Add Item To Return",module,Magento_Rma
+"Add Item To Return","Ajouter un produit à retourner",module,Magento_Rma
 Comments,Commentaires,module,Magento_Rma
 Save,Sauvegarder,module,Magento_Rma
 Submit,Valider,module,Magento_Rma
 Back,Retour,module,Magento_Rma
 "Return #","Retour n°",module,Magento_Rma
 Date,Date,module,Magento_Rma
-"Ship From","Ship From",module,Magento_Rma
-"Return Status","Return Status",module,Magento_Rma
+"Ship From","Expédier depuis",module,Magento_Rma
+"Return Status","Statut du retour",module,Magento_Rma
 Actions,Actions,module,Magento_Rma
-"View Return","View Return",module,Magento_Rma
-"You have placed no returns.","You have placed no returns.",module,Magento_Rma
+"View Return","Voir le retour",module,Magento_Rma
+"You have placed no returns.","Vous n’avez placé aucun retour.",module,Magento_Rma
 Packages,Colis,module,Magento_Rma
 "Close Window","Fermer la fenêtre",module,Magento_Rma
 Package,Colis,module,Magento_Rma
@@ -10153,17 +10153,17 @@ Width,Largeur,module,Magento_Rma
 Height,Hauteur,module,Magento_Rma
 "Items in the Package","Articles dans le colis",module,Magento_Rma
 "Are you sure you want to delete this tracking information?","Êtes-vous certain(e) de vouloir supprimer cette information de suivi ?",module,Magento_Rma
-"Request Information","Request Information",module,Magento_Rma
-"Date Requested","Date Requested",module,Magento_Rma
+"Request Information","Demande d’Information",module,Magento_Rma
+"Date Requested","Date demandée",module,Magento_Rma
 "Shipping Address","Adresse de livraison",module,Magento_Rma
 "This won't take long . . .","Ce ne sera pas long. . .",module,Magento_Rma
 "Shipping and Tracking Information","Informations de livraison et de suivi",module,Magento_Rma
 "Track this shipment","Suivre cette livraison",module,Magento_Rma
-"Items Return Requested For","Items Return Requested For",module,Magento_Rma
-"Request Qty","Request Qty",module,Magento_Rma
-"Hide Details","Hide Details",module,Magento_Rma
+"Items Return Requested For","Retour produits demandé pour",module,Magento_Rma
+"Request Qty","Demander la quantité",module,Magento_Rma
+"Hide Details","Cacher les détails",module,Magento_Rma
 "Show Details","Afficher les détails",module,Magento_Rma
-"Questions and Answers","Questions and Answers",module,Magento_Rma
+"Questions and Answers","Questions et réponses",module,Magento_Rma
 Questions,Questions,module,Magento_Rma
 Answers,Réponses,module,Magento_Rma
 "Leave Comment","Laisser un commentaire",module,Magento_Rma
@@ -10189,7 +10189,7 @@ Ok,D'accord,module,Magento_Rma
 "Add Package","Ajouter un colis",module,Magento_Rma
 "RMA Settings","Paramètres de retour",module,Magento_Rma
 "Enable RMA on Storefront","Activer l'autorisation de retour de marchandise sur le site",module,Magento_Rma
-"Enable RMA on Product Level","Enable RMA on Product Level",module,Magento_Rma
+"Enable RMA on Product Level","Activez les retours produits au niveau du produit",module,Magento_Rma
 "Use Store Address","Utiliser l'adresse de la boutique",module,Magento_Rma
 "Contact Name","Nom du contact",module,Magento_Rma
 "Street Address",Adresse,module,Magento_Rma
@@ -10202,21 +10202,21 @@ Enabled,Activé,module,Magento_Rma
 "RMA Email Template","Gabarit de courriel d'autorisation de retour de marchandise",module,Magento_Rma
 "RMA Email Template for Guest","Gabarit de courriel d'autorisation de retour de marchandise pour un invité",module,Magento_Rma
 "Send RMA Email Copy To","Envoyer une copie du courriel d'autorisation de retour de marchandise à",module,Magento_Rma
-Comma-separated,Comma-separated,module,Magento_Rma
+Comma-separated,"Séparés par des virgules",module,Magento_Rma
 "Send RMA Email Copy Method","Méthode d'envoi de la copie du courriel d'autorisation de retour de marchandise",module,Magento_Rma
 "RMA Authorization","Autorisation de la procédure de retour de marchandise",module,Magento_Rma
 "RMA Authorization Email Sender","Courriel de l'expéditeur de l'autorisation de la procédure de retour de marchandise",module,Magento_Rma
 "RMA Authorization Email Template","Gabarit du courriel d'autorisation de la procédure de retour de marchandise",module,Magento_Rma
 "RMA Authorization Email Template for Guest","Gabarit du courriel d'autorisation de la procédure de retour de marchandise pour un invité",module,Magento_Rma
-"Send RMA Authorization Email Copy To","Send RMA Authorization Email Copy To",module,Magento_Rma
-"Send RMA Authorization Email Copy Method","Send RMA Authorization Email Copy Method",module,Magento_Rma
-"RMA Admin Comments","RMA Admin Comments",module,Magento_Rma
-"RMA Comment Email Sender","RMA Comment Email Sender",module,Magento_Rma
-"RMA Comment Email Template","RMA Comment Email Template",module,Magento_Rma
-"RMA Comment Email Template for Guest","RMA Comment Email Template for Guest",module,Magento_Rma
-"Send RMA Comment Email Copy To","Send RMA Comment Email Copy To",module,Magento_Rma
-"RMA Customer Comments","RMA Customer Comments",module,Magento_Rma
-"RMA Comment Email Recipient","RMA Comment Email Recipient",module,Magento_Rma
+"Send RMA Authorization Email Copy To","Envoyer l'email d'autorisation de retour produit en copie à",module,Magento_Rma
+"Send RMA Authorization Email Copy Method","Méthode d'envoi de l'email d'autorisation de retour produit",module,Magento_Rma
+"RMA Admin Comments","Commentaires d'Admin pour le retour produit",module,Magento_Rma
+"RMA Comment Email Sender","Expéditeur de courriel de commentaire du retour produit",module,Magento_Rma
+"RMA Comment Email Template","Modèle de courriel du commentaire retour produit",module,Magento_Rma
+"RMA Comment Email Template for Guest","Modèle de courriel du commentaire retour produit pour les invités",module,Magento_Rma
+"Send RMA Comment Email Copy To","Envoyer la copie du courriel de commentaire de retour produit à",module,Magento_Rma
+"RMA Customer Comments","Commentaires client du retour produit",module,Magento_Rma
+"RMA Comment Email Recipient","Destinataire de l'email de commentaire de retour produit",module,Magento_Rma
 "Enabled for RMA","Activé pour l'autorisation de retour de marchandise",module,Magento_Rma
 "Page not found.","Page introuvable.",module,Magento_Rss
 Feed,"Configuration RSS",module,Magento_Rss
@@ -10228,7 +10228,7 @@ Feed,"Configuration RSS",module,Magento_Rss
 "Enable RSS","Activer le RSS",module,Magento_Rss
 RSS,RSS,module,Magento_Rss
 Apply,Appliquer,module,Magento_Rule
-"Please choose a valid discount amount.","Il n'y a pas d'information sur le type d'entité associée ""%1"".",module,Magento_Rule
+"Please choose a valid discount amount.","Veuillez choisir un montant de remise valide.",module,Magento_Rule
 "End Date must follow Start Date.","La date de fin doit être supérieure à la date de début.",module,Magento_Rule
 "Please specify a website.","Merci de spécifier un site web.",module,Magento_Rule
 "Please specify Customer Groups.","Veuillez spécifier les groupes de client.",module,Magento_Rule
@@ -10269,7 +10269,7 @@ Invoices,Factures,module,Magento_Sales
 "Save Order Address","Enregistrer l'adresse de la commande",module,Magento_Sales
 Shipping,Livraison,module,Magento_Sales
 Billing,Facturation,module,Magento_Sales
-"Edit Order %1 %2 Address","Edit Order %1 %2 Address",module,Magento_Sales
+"Edit Order %1 %2 Address","Modifier l’adresse de commande %1 %2",module,Magento_Sales
 "Order Address Information","Informations d'adresse de commande",module,Magento_Sales
 "Please correct the parent block for this block.","Veuillez corriger le bloc parent de ce bloc.",module,Magento_Sales
 "Submit Comment","Envoyer un commentaire",module,Magento_Sales
@@ -10369,7 +10369,7 @@ Capture,Capturer,module,Magento_Sales
 "Order Status",Statut,module,Magento_Sales
 "Order State","État de commande",module,Magento_Sales
 "Use Order Status As Default","Utiliser ce statut comme valeur par défaut",module,Magento_Sales
-"Visible On Storefront","Visible On Storefront",module,Magento_Sales
+"Visible On Storefront","Visible dans le magasin",module,Magento_Sales
 "Edit Order Status","Éditer le statut de commande",module,Magento_Sales
 "Save Status","Enregistrer le statut",module,Magento_Sales
 "New Order Status","Statut d'une nouvelle commande",module,Magento_Sales
@@ -10470,25 +10470,25 @@ Sales,Ventes,module,Magento_Sales
 "Order saving error: %1","Erreur lors de la sauvegarde de la commande : %1",module,Magento_Sales
 "Cannot add new comment.","Impossible d'ajouter un commentaire.",module,Magento_Sales
 "The credit memo has been canceled.","L'avoir a été annulé.",module,Magento_Sales
-"Credit memo has not been canceled.","Credit memo has not been canceled.",module,Magento_Sales
+"Credit memo has not been canceled.","L'avoir n'a pas pu être annulé.",module,Magento_Sales
 "New Memo for #%1","Nouvel avoir pour #%1",module,Magento_Sales
 "New Memo","Nouvel avoir",module,Magento_Sales
 "The credit memo's total must be positive.","The credit memo's total must be positive.",module,Magento_Sales
 "Cannot create online refund for Refund to Store Credit.","Impossible de créer un remboursement en ligne pour un remboursement par crédit.",module,Magento_Sales
-"You created the credit memo.","You created the credit memo.",module,Magento_Sales
+"You created the credit memo.","Vous avez créé l'avoir.",module,Magento_Sales
 "We can't save the credit memo right now.","We can't save the credit memo right now.",module,Magento_Sales
 "We can't update the item's quantity right now.","We can't update the item's quantity right now.",module,Magento_Sales
-"View Memo for #%1","View Memo for #%1",module,Magento_Sales
+"View Memo for #%1","Voir l'avoir pour n°%1",module,Magento_Sales
 "View Memo","Voir l'avoir",module,Magento_Sales
-"You voided the credit memo.","You voided the credit memo.",module,Magento_Sales
+"You voided the credit memo.","Vous avez annulé l'avoir.",module,Magento_Sales
 "We can't void the credit memo.","We can't void the credit memo.",module,Magento_Sales
 "The order no longer exists.","La commande n'existe plus.",module,Magento_Sales
 "We can't create credit memo for the order.","We can't create credit memo for the order.",module,Magento_Sales
 "Edit Order","Éditer la commande",module,Magento_Sales
 "You sent the order email.","Vous avez envoyé le courriel de commande.",module,Magento_Sales
 "We can't send the email order right now.","We can't send the email order right now.",module,Magento_Sales
-"You have not put the order on hold.","You have not put the order on hold.",module,Magento_Sales
-"You put the order on hold.","You put the order on hold.",module,Magento_Sales
+"You have not put the order on hold.","Vous n’avez pas mis la commande en attente.",module,Magento_Sales
+"You put the order on hold.","Vous avez mis la commande en attente.",module,Magento_Sales
 "You canceled the invoice.","Vous avez annulé la facture.",module,Magento_Sales
 "Invoice canceling error","Erreur lors de l'annulation de la facture",module,Magento_Sales
 "The invoice has been captured.","La facture a été capturée.",module,Magento_Sales
@@ -10502,16 +10502,16 @@ Sales,Ventes,module,Magento_Sales
 "We can't send the shipment right now.","We can't send the shipment right now.",module,Magento_Sales
 "Cannot update item quantity.","Impossible de mettre à jour la quantité de l'article.",module,Magento_Sales
 "The invoice has been voided.","La facture a été invalidée.",module,Magento_Sales
-"Invoice voiding error","Invoice voiding error",module,Magento_Sales
+"Invoice voiding error","Erreur lors de l'invalidation de la facture",module,Magento_Sales
 "%1 order(s) cannot be canceled.","%1 commande(s) ne pouvant pas être annulée(s).",module,Magento_Sales
 "You cannot cancel the order(s).","Vous ne pouvez pas annuler la ou les commande(s).",module,Magento_Sales
 "We canceled %1 order(s).","Nous avons annulé %1 commande(s).",module,Magento_Sales
-"%1 order(s) were not put on hold.","%1 order(s) were not put on hold.",module,Magento_Sales
+"%1 order(s) were not put on hold.","%1 commande(s) n'ont pas être bloquée(s).",module,Magento_Sales
 "No order(s) were put on hold.","Aucune commande n'a été bloquée.",module,Magento_Sales
-"You have put %1 order(s) on hold.","You have put %1 order(s) on hold.",module,Magento_Sales
-"%1 order(s) were not released from on hold status.","%1 order(s) were not released from on hold status.",module,Magento_Sales
-"No order(s) were released from on hold status.","No order(s) were released from on hold status.",module,Magento_Sales
-"%1 order(s) have been released from on hold status.","%1 order(s) have been released from on hold status.",module,Magento_Sales
+"You have put %1 order(s) on hold.","Vous avez mis %1 commande(s) en attente.",module,Magento_Sales
+"%1 order(s) were not released from on hold status.","%1 commande(s) n'ont pas été débloquées.",module,Magento_Sales
+"No order(s) were released from on hold status.","Aucune commande n'a été débloquée.",module,Magento_Sales
+"%1 order(s) have been released from on hold status.","%1 commande(s) ont été débloquées.",module,Magento_Sales
 "There are no printable documents related to selected orders.","Il n'y a pas de documents imprimables en relation avec les commandes sélectionnées.",module,Magento_Sales
 "The payment has been accepted.","Le paiement a été accepté.",module,Magento_Sales
 "The payment has been denied.","Le paiement a été refusé.",module,Magento_Sales
@@ -10529,8 +10529,8 @@ Sales,Ventes,module,Magento_Sales
 "You have unassigned the order status.","Vous avez désatribué le statut de la commande.",module,Magento_Sales
 "Something went wrong while unassigning the order.","Une erreur s'est produite lors de désatribuation du statut de la commande.",module,Magento_Sales
 "Can't unhold order.","Can't unhold order.",module,Magento_Sales
-"You released the order from holding status.","You released the order from holding status.",module,Magento_Sales
-"The order was not on hold.","The order was not on hold.",module,Magento_Sales
+"You released the order from holding status.","Vous avez débloqué la commande.",module,Magento_Sales
+"The order was not on hold.","La commande n’était pas en attente.",module,Magento_Sales
 "Exception occurred during order load","Exception occurred during order load",module,Magento_Sales
 "Something went wrong while saving the gift message.","Something went wrong while saving the gift message.",module,Magento_Sales
 "You saved the gift card message.","You saved the gift card message.",module,Magento_Sales
@@ -11134,20 +11134,20 @@ Shipment,Expédition,module,Magento_SalesArchive
 "Ship Date","Ship Date",module,Magento_SalesArchive
 "Total Quantity","Total Quantity",module,Magento_SalesArchive
 "Go to Archive","Go to Archive",module,Magento_SalesArchive
-"The ""%1"" product is not part of the current creditmemo.","The ""%1"" product is not part of the current creditmemo.",module,Magento_SalesInventory
-"The return to stock argument contains product item that is not part of the original order.","The return to stock argument contains product item that is not part of the original order.",module,Magento_SalesInventory
-"Cart Price Rules","Cart Price Rules",module,Magento_SalesRule
+"The ""%1"" product is not part of the current creditmemo.","Le produit ""%1"" ne fait pas partie de l'avoir concerné.",module,Magento_SalesInventory
+"The return to stock argument contains product item that is not part of the original order.","Le retour en stock contient des produits qui ne font pas partie de la commande originale.",module,Magento_SalesInventory
+"Cart Price Rules","Règles de prix du panier",module,Magento_SalesRule
 "Add New Rule","Ajouter une nouvelle règle",module,Magento_SalesRule
 Delete,Supprimer,module,Magento_SalesRule
-"Are you sure you want to delete this?","Are you sure you want to delete this?",module,Magento_SalesRule
-Reset,Reset,module,Magento_SalesRule
+"Are you sure you want to delete this?","Êtes-vous sûr de vouloir supprimer cet élément ?",module,Magento_SalesRule
+Reset,Réinitialiser,module,Magento_SalesRule
 "Save and Continue Edit","Sauvegarder et continuer à éditer",module,Magento_SalesRule
-Save,Save,module,Magento_SalesRule
+Save,Sauvegarder,module,Magento_SalesRule
 Actions,Actions,module,Magento_SalesRule
-"Apply the rule only to cart items matching the following conditions (leave blank for all items).","Apply the rule only to cart items matching the following conditions (leave blank for all items).",module,Magento_SalesRule
+"Apply the rule only to cart items matching the following conditions (leave blank for all items).","Appliquer la règle seulement aux articles du panier qui remplissent les conditions suivantes (laisser vide pour appliquer à tous les produits du panier).",module,Magento_SalesRule
 "Apply To","S'applique à",module,Magento_SalesRule
 Conditions,Conditions,module,Magento_SalesRule
-"Apply the rule only if the following conditions are met (leave blank for all products).","Apply the rule only if the following conditions are met (leave blank for all products).",module,Magento_SalesRule
+"Apply the rule only if the following conditions are met (leave blank for all products).","Appliquer la règle seulement si les conditions suivantes sont remplies (laisser vide pour appliquer à tous les produits).",module,Magento_SalesRule
 "Manage Coupon Codes","Gérer les codes de bons de réduction",module,Magento_SalesRule
 "Coupon Qty","Qté de bons de réduction",module,Magento_SalesRule
 "Code Length","Longueur du code",module,Magento_SalesRule
@@ -11159,10 +11159,10 @@ Conditions,Conditions,module,Magento_SalesRule
 "If empty no separation.","Si vide, aucune séparation.",module,Magento_SalesRule
 Generate,Générer,module,Magento_SalesRule
 "Coupon Code","Code du bon de réduction",module,Magento_SalesRule
-Created,Créer...,module,Magento_SalesRule
-Uses,"Les utilisateurs verront cette image au chargement de l'application. Image de 320 x 460px.",module,Magento_SalesRule
+Created,Créé,module,Magento_SalesRule
+Uses,Utilise,module,Magento_SalesRule
 No,Non,module,Magento_SalesRule
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_SalesRule
+Yes,Oui,module,Magento_SalesRule
 "Times Used","Nombre d'utilisations",module,Magento_SalesRule
 CSV,CSV,module,Magento_SalesRule
 "Excel XML","XML d'Excel",module,Magento_SalesRule
@@ -11174,32 +11174,32 @@ Rule,Règle,module,Magento_SalesRule
 Start,Commencer,module,Magento_SalesRule
 End,"Clé de cryptage",module,Magento_SalesRule
 Status,Statut,module,Magento_SalesRule
-"%1 - Discounts and Coupons","%1 - Discounts and Coupons",module,Magento_SalesRule
+"%1 - Discounts and Coupons","%1 - Remises et coupons",module,Magento_SalesRule
 Coupons/Discounts,Coupons/Réductions,module,Magento_SalesRule
 Promotions,Promotions,module,Magento_SalesRule
-"You deleted the rule.","You deleted the rule.",module,Magento_SalesRule
+"You deleted the rule.","Vous avez supprimé la règle.",module,Magento_SalesRule
 "We can't delete the rule right now. Please review the log and try again.","We can't delete the rule right now. Please review the log and try again.",module,Magento_SalesRule
 "We can't find a rule to delete.","We can't find a rule to delete.",module,Magento_SalesRule
 "This rule no longer exists.","Cette règle n'existe plus.",module,Magento_SalesRule
 "Edit Rule","Éditer la règle",module,Magento_SalesRule
 "New Rule","Nouvelle règle",module,Magento_SalesRule
-"New Cart Price Rule","New Cart Price Rule",module,Magento_SalesRule
+"New Cart Price Rule","Nouvelle règle de prix panier",module,Magento_SalesRule
 "Rule is not defined","La règle n'est pas définie",module,Magento_SalesRule
-"%1 coupon(s) have been generated.","%1 coupon(s) have been generated.",module,Magento_SalesRule
-"Invalid data provided","Invalid data provided",module,Magento_SalesRule
-"Something went wrong while generating coupons. Please review the log and try again.","Something went wrong while generating coupons. Please review the log and try again.",module,Magento_SalesRule
+"%1 coupon(s) have been generated.","%1 bon(s) de réduction a(ont) été généré(s).",module,Magento_SalesRule
+"Invalid data provided","Données fournies non valides",module,Magento_SalesRule
+"Something went wrong while generating coupons. Please review the log and try again.","Quelque chose s'est mal passé lors de la génération des bons de réduction. S’il vous plaît vérifiez les logs, puis réessayez.",module,Magento_SalesRule
 Catalog,Catalogue,module,Magento_SalesRule
-"The wrong rule is specified.","The wrong rule is specified.",module,Magento_SalesRule
-"You saved the rule.","You saved the rule.",module,Magento_SalesRule
-"Something went wrong while saving the rule data. Please review the error log.","Something went wrong while saving the rule data. Please review the error log.",module,Magento_SalesRule
+"The wrong rule is specified.","La mauvaise règle est spécifiée.",module,Magento_SalesRule
+"You saved the rule.","Vous avez enregistré la règle.",module,Magento_SalesRule
+"Something went wrong while saving the rule data. Please review the error log.","Quelque chose s'est mal passé lors de la sauvegarde des données de la règle. Veuillez consulter le journal des erreurs.",module,Magento_SalesRule
 Alphanumeric,Alphanumérique,module,Magento_SalesRule
 Alphabetical,Alphabétique,module,Magento_SalesRule
 Numeric,Numérique,module,Magento_SalesRule
-"We cannot create the requested Coupon Qty. Please check your settings and try again.","We cannot create the requested Coupon Qty. Please check your settings and try again.",module,Magento_SalesRule
-"Specified rule does not allow coupons","Specified rule does not allow coupons",module,Magento_SalesRule
-"Specified rule only allows auto generated coupons","Specified rule only allows auto generated coupons",module,Magento_SalesRule
-"Specified rule does not allow auto generated coupons","Specified rule does not allow auto generated coupons",module,Magento_SalesRule
-"Error occurred when saving coupon: %1","Error occurred when saving coupon: %1",module,Magento_SalesRule
+"We cannot create the requested Coupon Qty. Please check your settings and try again.","Nous ne pouvons pas créer la quantité de coupon demandée. S’il vous plaît vérifiez vos paramètres et réessayez.",module,Magento_SalesRule
+"Specified rule does not allow coupons","Règle spécifiée ne permet pas de bons de réduction",module,Magento_SalesRule
+"Specified rule only allows auto generated coupons","Règle spécifiée permet seulement des coupons générés automatiquement",module,Magento_SalesRule
+"Specified rule does not allow auto generated coupons","Règle spécifiée ne permet pas de coupons générés automatiquement",module,Magento_SalesRule
+"Error occurred when saving coupon: %1","Erreur s’est produite lors de l’enregistrement de coupon : %1",module,Magento_SalesRule
 "Discount (%1)","Remise (%1)",module,Magento_SalesRule
 Discount,Remise,module,Magento_SalesRule
 "Coupon with the same code","Coupon de réduction avec le même code",module,Magento_SalesRule
@@ -11213,7 +11213,7 @@ Auto,Auto,module,Magento_SalesRule
 "To Percentage","nouveau prix en %%",module,Magento_SalesRule
 "By Fixed value","remise d'une valeur de",module,Magento_SalesRule
 "By Percentage","remise en %%",module,Magento_SalesRule
-"Update product's %1 %2: %3","Update product's %1 %2: %3",module,Magento_SalesRule
+"Update product's %1 %2: %3","Mettre à jour les produits : %1 %2 : %3",module,Magento_SalesRule
 Subtotal,Sous-total,module,Magento_SalesRule
 "Total Items Quantity","Quantité totale d'articles",module,Magento_SalesRule
 "Total Weight","Poids total",module,Magento_SalesRule
@@ -11234,7 +11234,7 @@ Subtotal,Sous-total,module,Magento_SalesRule
 "Product Attribute","Attribut du produit",module,Magento_SalesRule
 FOUND,"PRÉSENT DANS LE",module,Magento_SalesRule
 "NOT FOUND","ABSENT DU",module,Magento_SalesRule
-"If an item is %1 in the cart with %2 of these conditions true:","If an item is %1 in the cart with %2 of these conditions true:",module,Magento_SalesRule
+"If an item is %1 in the cart with %2 of these conditions true:","Si un article est %1 panier et qu'il répond à %2 de ces conditions :",module,Magento_SalesRule
 "total quantity","la quantité totale",module,Magento_SalesRule
 "total amount","le montant total",module,Magento_SalesRule
 is,"est égal(e) à",module,Magento_SalesRule
@@ -11252,11 +11252,11 @@ is,"est égal(e) à",module,Magento_SalesRule
 "Buy X get Y free (discount amount is Y)","X achetés, Y gratuits (la valeur de la remise est Y)",module,Magento_SalesRule
 Active,Actif,module,Magento_SalesRule
 Inactive,Inactif,module,Magento_SalesRule
-"Specified rule does not allow automatic coupon generation","Specified rule does not allow automatic coupon generation",module,Magento_SalesRule
-"Error occurred when generating coupons: %1","Error occurred when generating coupons: %1",module,Magento_SalesRule
-"Some coupons are invalid.","Some coupons are invalid.",module,Magento_SalesRule
-"Item totals are not set for the rule.","Item totals are not set for the rule.",module,Magento_SalesRule
-"%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Cart Price Rules based on ""%2"" attribute have been disabled.",module,Magento_SalesRule
+"Specified rule does not allow automatic coupon generation","Règle spécifiée ne permet pas de génération automatique de coupons",module,Magento_SalesRule
+"Error occurred when generating coupons: %1","Erreur s’est produite lors de la génération des coupons : %1",module,Magento_SalesRule
+"Some coupons are invalid.","Des bons ne sont pas valides.",module,Magento_SalesRule
+"Item totals are not set for the rule.","Les totaux d'articles ne sont pas définis pour la règle.",module,Magento_SalesRule
+"%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 règles de prix catalogue basées sur l'attribut ""%2"" ont été désactivées.",module,Magento_SalesRule
 "Apply Discount Code","Appliquer le code de réduction",module,Magento_SalesRule
 "Enter discount code","Saisir un code de réduction",module,Magento_SalesRule
 "Apply Discount","Appliquer la réduction",module,Magento_SalesRule
@@ -11279,7 +11279,7 @@ Coupon,"Bon de réduction",module,Magento_SalesRule
 "If you select and save the rule you will be able to generate multiple coupon codes.","Si vous sélectionnez et enregistrez la règle, vous serez en mesure de générer des codes de bons de réduction multiples.",module,Magento_SalesRule
 "Use Auto Generation","Utiliser la génération automatique",module,Magento_SalesRule
 "Uses per Coupon","Nombre d'utilisations par coupon",module,Magento_SalesRule
-"Usage limit enforced for logged in customers only.","Usage limit enforced for logged in customers only.",module,Magento_SalesRule
+"Usage limit enforced for logged in customers only.","Contrainte de limite d'utilisation pour les utilisateurs loggés uniquement.",module,Magento_SalesRule
 "Uses per Customer","Nombre d'utilisations par client",module,Magento_SalesRule
 From,Depuis,module,Magento_SalesRule
 To,À,module,Magento_SalesRule
@@ -11291,7 +11291,7 @@ Apply,Appliquer,module,Magento_SalesRule
 "Discount amount is applied to subtotal only","Le montant de la réduction est uniquement appliqué au sous-total",module,Magento_SalesRule
 "Discount amount is applied to subtotal and shipping amount separately","Le montant de la réduction est appliqué au sous-total. Le montant de la livraison est ajouté séparément.",module,Magento_SalesRule
 "Apply to Shipping Amount","Appliquer au montant de la livraison",module,Magento_SalesRule
-"Discard subsequent rules","Discard subsequent rules",module,Magento_SalesRule
+"Discard subsequent rules","Supprimer les règles suivantes",module,Magento_SalesRule
 "Default Rule Label for All Store Views","Libellé de règle par défaut pour toutes les vues magasin",module,Magento_SalesRule
 sales_rule,sales_rule,module,Magento_SalesRuleStaging
 "Magento\SalesRule\Api\Data\RuleInterface","Magento\SalesRule\Api\Data\RuleInterface",module,Magento_SalesRuleStaging
