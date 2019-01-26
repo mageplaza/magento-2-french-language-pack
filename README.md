@@ -19,7 +19,7 @@ Read more [Magento 2 French Language Pack](https://www.mageplaza.com/magento-2-f
 
 This is status of French Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/84?title=translated)
+![language pack](http://progressed.io/bar/85?title=translated)
 
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
@@ -89,8 +89,11 @@ Unzip the French language pack to Magento 2 root folder. In this guide, we extra
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/fr_fr
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-french-language-pack` to `fr_fr`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install French pack manually, you have to access to your server 
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `fr_FR.zip` into `app/i18n/mageplaza/fr_FR/fr_FR.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/fr_fr/fr_FR.csv`
+
+See this screenshot
+
+![French pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
