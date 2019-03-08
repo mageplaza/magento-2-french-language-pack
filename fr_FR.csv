@@ -1,20 +1,20 @@
 All,Tous,module,Magento_AdminGws
 None,Aucun,module,Magento_AdminGws
 "Allowed Scopes","Portées autorisées",module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item.",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","Plus de permissions sont requises pour supprimer l'article ""%1"".",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","Permissions insuffisantes pour appliquer certaines règles de mises à jour.",module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
-"This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
-"More permissions are needed to save this item.","More permissions are needed to save this item.",module,Magento_AdminGws
-"More permissions are needed to delete this item.","More permissions are needed to delete this item.",module,Magento_AdminGws
-"More permissions are needed to view this item.","More permissions are needed to view this item.",module,Magento_AdminGws
-"At least one website or store group needs to be selected. Select and try again.","At least one website or store group needs to be selected. Select and try again.",module,Magento_AdminGws
-"More permissions are needed to set All Scopes to a Role.","More permissions are needed to set All Scopes to a Role.",module,Magento_AdminGws
-"The ""%1"" website ID is incorrect. Verify the website ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again.",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Cette entité doit être assignée à une vue boutique. Veuillez vérifier l'assignation de l'entité et réessayer.",module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.","Les commandes peuvent uniquement être complétées dans une boutique active. Veuillez vérifier la boutique et réessayer.",module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.","Cet élément doit être assigné à une vue boutique. Veuillez assigner cet élément et réessayer.",module,Magento_AdminGws
+"More permissions are needed to save this item.","Plus d'autorisations sont nécessaires pour enregistrer cet élément.",module,Magento_AdminGws
+"More permissions are needed to delete this item.","Plus d'autorisations sont nécessaires pour supprimer cet élément.",module,Magento_AdminGws
+"More permissions are needed to view this item.","Plus d'autorisations sont nécessaires pour afficher cet élément.",module,Magento_AdminGws
+"At least one website or store group needs to be selected. Select and try again.","Au moins un site Web ou un groupe de magasins doit être sélectionné. Sélectionnez et réessayez.",module,Magento_AdminGws
+"More permissions are needed to set All Scopes to a Role.","Davantage d’autorisations sont nécessaires pour assigner toutes les vues à un rôle.",module,Magento_AdminGws
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","L’identifiant du site ""%1"" est incorrect. Veuillez vérifier l’identifiant du site et réessayer.",module,Magento_AdminGws
 "You need more permissions to access website ""%1"".","Vous n'avez pas les droits requis pour accéder au site web « %1 ».",module,Magento_AdminGws
-"The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" store ID is incorrect. Verify the store ID and try again.",module,Magento_AdminGws
-"More permissions are needed to save this setting.","More permissions are needed to save this setting.",module,Magento_AdminGws
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","L’identifiant de la boutique ""%1"" est incorrect. Veuillez vérifier l’identifiant de la boutique et réessayer.",module,Magento_AdminGws
+"More permissions are needed to save this setting.","Plus de permissions sont nécessaires pour enregistrer ce paramètre.",module,Magento_AdminGws
 "Role Scopes","Portées du rôle",module,Magento_AdminGws
 Custom,Personnalisé,module,Magento_AdminGws
 "Read Details","Lire les détails",module,Magento_AdminNotification
@@ -104,14 +104,14 @@ Configure,Configurer,module,Magento_AdvancedCheckout
 "You must buy at least %1 of these per purchase.","Vous devez acheter au moins %1 de ce produit par commande.",module,Magento_AdvancedCheckout
 "Specify the product's options.","Définir les options de ce produit.",module,Magento_AdvancedCheckout
 "Alert me when this item is available.","M'avertir lorsque cet élément est disponible.",module,Magento_AdvancedCheckout
-"This customer couldn't be found. Verify the customer and try again.","This customer couldn't be found. Verify the customer and try again.",module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.","Ce client n'a pas pu être trouvé. Vérifiez le client et réessayez.",module,Magento_AdvancedCheckout
 "Shopping cart management is disabled for this customer.","La gestion de panier est désactivé pour ce client.",module,Magento_AdvancedCheckout
-"This store couldn't be found. Verify the store and try again.","This store couldn't be found. Verify the store and try again.",module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.","Ce magasin n'a pas pu être trouvé. Vérifiez le magasin et réessayez.",module,Magento_AdvancedCheckout
 Customers,Clients,module,Magento_AdvancedCheckout
 "Shopping Cart",Panier,module,Magento_AdvancedCheckout
-"An error occurred. For details, see the error log.","An error occurred. For details, see the error log.",module,Magento_AdvancedCheckout
+"An error occurred. For details, see the error log.","Une erreur est survenue. Pour plus de détails, voir le journal des erreurs.",module,Magento_AdvancedCheckout
 "You do not have access to this.","Vous n'avez pas accès.",module,Magento_AdvancedCheckout
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Les commandes ne peuvent être effectuées que dans un magasin actif. Vérifiez le magasin et réessayez.",module,Magento_AdvancedCheckout
 "The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
 "The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
 "The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
