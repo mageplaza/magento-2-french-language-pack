@@ -3162,8 +3162,8 @@ Pages,Pages,module,Magento_Cms
 "We cannot create a new directory.","Impossible de créer un nouveau répertoire.",module,Magento_Cms
 "We cannot delete directory %1.","Impossible de supprimer le répertoire %1.",module,Magento_Cms
 "File validation failed.","Échec de la validation du fichier.",module,Magento_Cms
-"We can't upload the file right now.","We can't upload the file right now.",module,Magento_Cms
-"We can't delete root directory %1 right now.","We can't delete root directory %1 right now.",module,Magento_Cms
+"We can't upload the file right now.","Impossible de télécharger le fichier maintenant.",module,Magento_Cms
+"We can't delete root directory %1 right now.","Impossible de supprimer le répertoire racine %1 maintenant.",module,Magento_Cms
 "Privacy and Cookie Policy","Politique de confidentialité et cookies",module,Magento_Cms
 "Error message","Message d'erreur",module,Magento_Cms
 LocalizedException,Localisation,module,Magento_Cms
@@ -3843,14 +3843,14 @@ System,Système,module,Magento_Config
 "Specify a fully qualified URL.","Veuillez spécifier une URL complète.",module,Magento_Config
 "Selected allowed currency ""%1"" is not available in installed currencies.","La devise autorisée choisie ""%1"" n'est pas disponible dans les devises installées.",module,Magento_Config
 "Default display currency ""%1"" is not available in allowed currencies.","La devise d'affichage par défaut ""%1"" n'est pas disponible dans les devises autorisées.",module,Magento_Config
-"Sorry, we haven't installed the base currency you selected.","Sorry, we haven't installed the base currency you selected.",module,Magento_Config
+"Sorry, we haven't installed the base currency you selected.","Désolé, nous n'avons pas installé la devise de base que vous avez sélectionné.",module,Magento_Config
 "We can't save the Cron expression.","Impossible de sauvegarder l'expression de la tâche programmée",module,Magento_Config
-"Sorry, we haven't installed the default display currency you selected.","Sorry, we haven't installed the default display currency you selected.",module,Magento_Config
+"Sorry, we haven't installed the default display currency you selected.","Désolé, nous n'avons pas installé la devise par défaut que vous avez sélectionné.",module,Magento_Config
 "Sorry, the default display currency you selected is not available in allowed currencies.","Désolé, la devise par défaut sélectionnée n'est pas disponible dans les devises autorisées.",module,Magento_Config
 "The ""%1"" email address is incorrect. Verify the email address and try again.","L'adresse email ""%1"" est incorrecte. Vérifiez l'adresse email et réessayez.",module,Magento_Config
 "The sender name ""%1"" is not valid. Please use only visible characters and spaces.","Le nom de l'expéditeur ""%1"" n'est pas valide. Veuillez utiliser seulement des espaces et des caractères visibles.",module,Magento_Config
 "Maximum sender name length is 255. Please correct your settings.","La longueur maxi du nom d'expéditeur est 255. Merci de modifier vos paramètres.",module,Magento_Config
-"The file you're uploading exceeds the server size limit of %1 kilobytes.","The file you're uploading exceeds the server size limit of %1 kilobytes.",module,Magento_Config
+"The file you're uploading exceeds the server size limit of %1 kilobytes.","Le fichier que vous téléchargez dépasse la taille limite du serveur de %1 kilo-octets.",module,Magento_Config
 "The base directory to upload file is not specified.","Le répertoire de base pour uploader l'image n'est pas spécifié.",module,Magento_Config
 "The specified image adapter cannot be used because of: %1","L'adaptateur d'image spécifiée ne peut être utilisé en raison de : %1",module,Magento_Config
 "Default scope","Portée par défaut",module,Magento_Config
@@ -4230,7 +4230,7 @@ region,région,module,Magento_Customer
 "Save Customer","Sauvegarder le client",module,Magento_Customer
 "Delete Customer","Supprimer le client",module,Magento_Customer
 "Reset Password","Réinitialiser le mot de passe",module,Magento_Customer
-"Are you sure you want to revoke the customer's tokens?","Are you sure you want to revoke the customer's tokens?",module,Magento_Customer
+"Are you sure you want to revoke the customer's tokens?","Êtes-vous sûr de que vouloir supprimer le compte utilisateur ?",module,Magento_Customer
 "Force Sign-In","Forcer la création de compte",module,Magento_Customer
 "New Customer","Nouveau client",module,Magento_Customer
 "Save and Continue Edit","Sauvegarder et continuer à éditer",module,Magento_Customer
@@ -4334,7 +4334,7 @@ Download,Télécharger,module,Magento_Customer
 "Invalid Form Key. Please refresh the page.","Clé de formulaire invalide. Veuillez actualiser la page.",module,Magento_Customer
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Vous devez confirmer votre compte. Veuillez vérifier votre email pour le lien de confirmation ou <a href=""%1"">cliquez ici</a> pour un nouveau lien.",module,Magento_Customer
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Il existe déjà un compte avec cette adresse email. Si vous êtes sûr que c'est votre adresse email, <a href=""%1"">cliquez ici</a> pour obtenir votre mot de passe et accédez à votre compte.",module,Magento_Customer
-"We can't save the customer.","We can't save the customer.",module,Magento_Customer
+"We can't save the customer.","Impossible de sauvegarder ce client.",module,Magento_Customer
 "Please make sure your passwords match.","Vérifiez que vos mots de passe concordent.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","Si vous êtes un client avec TVA enregistrée, merci de <a href=""%1"">cliquez ici</a> pour entrer votre adresse de livraison pour le calcul de la TVA.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","Si vous êtes un client avec TVA enregistrée, merci de <a href=""%1"">cliquez ici</a> pour entrer votre adresse de facturation pour le calcul de la TVA.",module,Magento_Customer
@@ -4344,7 +4344,7 @@ Download,Télécharger,module,Magento_Customer
 "Password confirmation doesn't match entered password.","Confirmation de mot de passe ne correspond pas au mot de passe entré.",module,Magento_Customer
 "The password doesn't match this account. Verify the password and try again.","Le mot de passe ne correspond pas à ce compte. Vérifiez le mot de passe, puis réessayez.",module,Magento_Customer
 "The email address is incorrect. Verify the email address and try again.","L’adresse e-mail est incorrecte. Veuillez vérifier l’adresse de courriel et réessayez.",module,Magento_Customer
-"We're unable to send the password reset email.","We're unable to send the password reset email.",module,Magento_Customer
+"We're unable to send the password reset email.","Nous sommes incapables d’envoyer que le mot de passe réinitialisé par courriel.",module,Magento_Customer
 "Please enter your email.","Saisissez votre email.",module,Magento_Customer
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","S'il y a un compte associé à %1 vous recevrez un email avec un lien pour réinitialiser votre mot de passe.",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Ce compte n'est pas confirmé. <a href=""%1"">Cliquez ici</a> pour renvoyer l'email de confirmation.",module,Magento_Customer
@@ -4355,9 +4355,9 @@ Download,Télécharger,module,Magento_Customer
 "You updated your password.","Vous avez mis à jour votre mot de passe.",module,Magento_Customer
 "Something went wrong while saving the new password.","Une erreur s'est produite durant l'enregistrement du nouveau mot de passe.",module,Magento_Customer
 "You deleted the address.","Vous avez supprimé l'adresse.",module,Magento_Customer
-"We can't delete the address right now.","We can't delete the address right now.",module,Magento_Customer
+"We can't delete the address right now.","Nous ne pouvons pas supprimer le devis maintenant.",module,Magento_Customer
 "You saved the address.","Vous avez enregistré l'adresse.",module,Magento_Customer
-"We can't save the address.","We can't save the address.",module,Magento_Customer
+"We can't save the address.","Nous ne pouvons pas enregistrer l'adresse :",module,Magento_Customer
 "There is no address id in setting default billing address.","Il n'y a pas d'adresse dans le paramètre de l'adresse de facturation par défaut.",module,Magento_Customer
 "Default billing address has been changed.","L'adresse de facturation par défaut a été modifiée.",module,Magento_Customer
 "We can't change default billing address right now.","Nous ne pouvons pas modifier l'adresse de facturation par défaut dès maintenant.",module,Magento_Customer
@@ -4373,8 +4373,8 @@ Download,Télécharger,module,Magento_Customer
 "We can't change customer address right now.","Nous ne pouvons pas modifier l'adresse de facturation par défaut dès maintenant.",module,Magento_Customer
 "The customer ID isn't defined.","L’ID client n’est pas défini.",module,Magento_Customer
 "The quote items are incorrect. Verify the quote items and try again.","Les éléments de la commande sont incorrects. Vérifiez-les et réessayez.",module,Magento_Customer
-"You have revoked the customer's tokens.","You have revoked the customer's tokens.",module,Magento_Customer
-"We can't find a customer to revoke.","We can't find a customer to revoke.",module,Magento_Customer
+"You have revoked the customer's tokens.","Vous avez révoqué les jetons du client.",module,Magento_Customer
+"We can't find a customer to revoke.","Nous ne pouvons pas trouver l’adresse de ce client.",module,Magento_Customer
 "Something went wrong while saving file.","Une erreur s'est produite lors de l'enregistrement du fichier.",module,Magento_Customer
 "You deleted the customer group.","Vous avez supprimé un groupe de clients.",module,Magento_Customer
 "The customer group no longer exists.","Le groupe de clients n'existe plus.",module,Magento_Customer
@@ -4405,7 +4405,7 @@ Customers,Clients,module,Magento_Customer
 "Login successful.","Connexion réussie.",module,Magento_Customer
 "Invalid login or password.","Identifiant ou mot de passe invalide.",module,Magento_Customer
 "The ""%1"" section source isn't supported.","Source ""%1"" non prise en charge.",module,Magento_Customer
-"%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface",module,Magento_Customer
+"%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 n’étend pas \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Customer
 "Confirmation isn't needed.","La confirmation n’est pas nécessaire.",module,Magento_Customer
 "The account is already active.","Le compte est déjà actif.",module,Magento_Customer
 "The confirmation token is invalid. Verify the token and try again.","Le jeton de confirmation n’est pas valide. Vérifiez le jeton et réessayez.",module,Magento_Customer
@@ -4429,7 +4429,7 @@ Customers,Clients,module,Magento_Customer
 """%1"" is a required value.","""%1"" est une valeur obligatoire.",module,Magento_Customer
 Global,Global,module,Magento_Customer
 "Per Website","Par site web",module,Magento_Customer
-"We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","We can't share customer accounts globally when the accounts share identical email addresses on more than one website.",module,Magento_Customer
+"We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","Nous ne pouvons pas partager les comptes clients globalement lorsque les comptes partagent des adresses email identiques sur plus d'un site Web.",module,Magento_Customer
 "Billing Address","Adresse de facturation",module,Magento_Customer
 "Shipping Address","Adresse de livraison",module,Magento_Customer
 "-- Please Select --","-- Faites un choix --",module,Magento_Customer
@@ -4922,7 +4922,7 @@ Customer,Client,module,Magento_CustomerCustomAttributes
 "You saved the customer address attribute.","Vous avez enregistré l'adresse du client attribut.",module,Magento_CustomerCustomAttributes
 "We can't save the customer address attribute right now.","We can't save the customer address attribute right now.",module,Magento_CustomerCustomAttributes
 "An attribute with this code already exists.","Un attribut avec ce code existe déjà.",module,Magento_CustomerCustomAttributes
-"Please correct the value for file extensions.","Please correct the value for file extensions.",module,Magento_CustomerCustomAttributes
+"Please correct the value for file extensions.","Veuillez corriger la valeur pour les extensions de fichiers.",module,Magento_CustomerCustomAttributes
 "Manage Customer Attributes","Gérer les attributs du client",module,Magento_CustomerCustomAttributes
 "You deleted the customer attribute.","Vous avez supprimé l'attribut du client.",module,Magento_CustomerCustomAttributes
 "The attribute no longer exists.","L'attribut n'existe plus.",module,Magento_CustomerCustomAttributes
@@ -4939,7 +4939,7 @@ Customer,Client,module,Magento_CustomerCustomAttributes
 "Admin Checkout","Vérification de l'administration",module,Magento_CustomerCustomAttributes
 "Use helper with defined EAV entity.","Utiliser une connexion FTP",module,Magento_CustomerCustomAttributes
 "Length Only","Longueur seulement",module,Magento_CustomerCustomAttributes
-"The attribute code needs to be %1 characters or fewer. Re-enter the code and try again.","The attribute code needs to be %1 characters or fewer. Re-enter the code and try again.",module,Magento_CustomerCustomAttributes
+"The attribute code needs to be %1 characters or fewer. Re-enter the code and try again.","Le code de l'attribut doit être %1 caractères ou moins. Entrez le code et réessayez.",module,Magento_CustomerCustomAttributes
 "Use Default Value","Utiliser la valeur par défaut",module,Magento_CustomerCustomAttributes
 "Fieldset Properties","Propriétés de l'ensemble des champs",module,Magento_CustomerCustomAttributes
 "Fieldset Title","Titre de l'ensemble des champs",module,Magento_CustomerCustomAttributes
@@ -4983,7 +4983,7 @@ Password,"Mot de passe",module,Magento_CustomerCustomAttributes
 Back,Retour,module,Magento_CustomerCustomAttributes
 "Customer Address","Adresse du client",module,Magento_CustomerCustomAttributes
 "Default Values","Valeurs par défaut",module,Magento_CustomerCustomAttributes
-"Store Credit","Store Credit",module,Magento_CustomerCustomAttributes
+"Store Credit","Crédit magasin",module,Magento_CustomerCustomAttributes
 "Please specify a finance information website.","Veuillez spécifier un site Web d'information financière.",module,Magento_CustomerFinance
 "Please specify a valid finance information website.","Veuillez spécifier un valide de l'information financière site web.",module,Magento_CustomerFinance
 "A row with this email, website, and finance website combination already exists.","Une ligne avec cet e-mail, site web, et le site web du ministère combinaison existe déjà.",module,Magento_CustomerFinance
@@ -5009,7 +5009,7 @@ Back,Retour,module,Magento_CustomerCustomAttributes
 "Specify the ""email"" value.","Spécifiez la valeur de l'""e-mail"".",module,Magento_CustomerGraphQl
 "Specify the ""password"" value.","Spécifiez la valeur du ""password"".",module,Magento_CustomerGraphQl
 "Please specify a website.","Merci de spécifier un site web.",module,Magento_CustomerImportExport
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again.",module,Magento_CustomerImportExport
+"An email wasn't specified. Enter the email and try again.","Aucune adresse email spécifiée. Entrez une adresse email et réessayez.",module,Magento_CustomerImportExport
 "We found an invalid value in a website column.","Merci de renseigner un mot de passe avec une longueur valide.",module,Magento_CustomerImportExport
 "Please enter a valid email.","Veuillez saisir une adresse email valide.",module,Magento_CustomerImportExport
 "Please make sure attribute ""%s"" is not empty.","Merci de vérifier que l'attribut ""%s"" ne soit pas vide.",module,Magento_CustomerImportExport
@@ -5150,7 +5150,7 @@ Subtotal,Sous-total,module,Magento_CustomerSegment
 Tax,TVA,module,Magento_CustomerSegment
 "Gift Card","Carte cadeau",module,Magento_CustomerSegment
 "Shopping Cart %1 Amount %2 %3:","Panier de commande %1 montant de %2 %3 :",module,Magento_CustomerSegment
-"The quote total specified is unknown. Verify the total and try again.","The quote total specified is unknown. Verify the total and try again.",module,Magento_CustomerSegment
+"The quote total specified is unknown. Verify the total and try again.","Le devis total spécifié est inconnu. Vérifiez le total et réessayez.",module,Magento_CustomerSegment
 "Number of Cart Line Items","Nombre de lignes articles dans le panier",module,Magento_CustomerSegment
 "Number of Shopping Cart Line Items %1 %2:","Nombre de lignes articles dans le panier %1 %2 :",module,Magento_CustomerSegment
 "Products Quantity","Quantité de produit",module,Magento_CustomerSegment
@@ -5212,7 +5212,7 @@ Decision,Décision,module,Magento_Cybersource
 "Unknown factor. Please contact Cybersource customer service","Raison inconnue. Veuillez contacter le service client de Cybersource",module,Magento_Cybersource
 "Payment Token Build Error.","Erreur dans la construction du jeton de paiement.",module,Magento_Cybersource
 "Your payment has been declined. Please try again.","Le paiement a été refusé. Veuillez réessayer.",module,Magento_Cybersource
-"The credit card type field needs to be provided. Select the field and try again.","The credit card type field needs to be provided. Select the field and try again.",module,Magento_Cybersource
+"The credit card type field needs to be provided. Select the field and try again.","Le type de carte de crédit doit être fourni. Choisissez le champ et réessayez.",module,Magento_Cybersource
 "Gateway validation error","Erreur de validation de Gateway",module,Magento_Cybersource
 Authorize,Autoriser,module,Magento_Cybersource
 "Authorize and Capture","Autoriser et capturer",module,Magento_Cybersource
@@ -5238,17 +5238,17 @@ Debug,Déboguage,module,Magento_Cybersource
 "Maximum Order Total","Montant maxi de commande",module,Magento_Cybersource
 "Sort Order","Ordre de tri""Abandoned Carts",module,Magento_Cybersource
 "Import failed: %1","L'import a échoué : %1",module,Magento_Deploy
-"The class for ""%1"" type wasn't declared. Enter the class and try again.","The class for ""%1"" type wasn't declared. Enter the class and try again.",module,Magento_Deploy
+"The class for ""%1"" type wasn't declared. Enter the class and try again.","La classe pour le type ""%1"" n'a pas été déclarée. Entrez la classe et réessayez.",module,Magento_Deploy
 "%1 does not implement %2","%1 n'implémente pas %2",module,Magento_Deploy
 "File app/etc/%1 can't be read. Please check if it exists and has read permissions.","Le fichier app/etc/%1 ne peut pas être lu. Merci de vérifier s'il existe et a les permissions en lecture.",module,Magento_Deploy
 "There are no sensitive configurations to fill","Il n'y a aucune configuration sensible à remplir",module,Magento_Deploy
-"The value can't be empty. Enter the value and try again.","The value can't be empty. Enter the value and try again.",module,Magento_Deploy
+"The value can't be empty. Enter the value and try again.","Cette valeur ne peut être vide. Entrez une valeur et réessayez.",module,Magento_Deploy
 "A configuration with this path does not exist or is not sensitive","Une configuration ayant ce chemin n'existe pas ou n'est pas sensible",module,Magento_Deploy
-"The mode can't be switched to ""%1"".","The mode can't be switched to ""%1"".",module,Magento_Deploy
+"The mode can't be switched to ""%1"".","Le mode ne peut pas être changé en ""%1"".",module,Magento_Deploy
 "Wrong logger interface specified.","L'interface 'logger' spécifiée est incorrecte.",module,Magento_Deploy
-"The hash isn't saved.","The hash isn't saved.",module,Magento_Deploy
-"The parameter ""importer_class"" is missing. Set the ""importer_class"" and try again.","The parameter ""importer_class"" is missing. Set the ""importer_class"" and try again.",module,Magento_Deploy
-"The configuration file has changed. Run the ""app:config:import"" or the ""setup:upgrade"" command to synchronize the configuration.","The configuration file has changed. Run the ""app:config:import"" or the ""setup:upgrade"" command to synchronize the configuration.",module,Magento_Deploy
+"The hash isn't saved.","Le hachage n'a pas été sauvegardé.",module,Magento_Deploy
+"The parameter ""importer_class"" is missing. Set the ""importer_class"" and try again.","Le paramètre ""importer_class"" manque. Définissez-le et réessayez.",module,Magento_Deploy
+"The configuration file has changed. Run the ""app:config:import"" or the ""setup:upgrade"" command to synchronize the configuration.","Le fichier de configuration a changé. Exécutez la commande ""app:config:import"" ou ""setup:upgrade"" pour synchroniser la configuration.",module,Magento_Deploy
 "Wrong type specified: '%1'","Mauvais type spécifié : «%1»",module,Magento_Deploy
 "Wrong queue type specified.","Mauvais type de file d'attente spécifié.",module,Magento_Deploy
 "Compilation from source:","Compilation à partir de la source :",module,Magento_Deploy
@@ -5260,7 +5260,7 @@ Exception,Exception,module,Magento_Deploy
 "Client side compilation doesn't work in production mode","La compilation du côté client ne fonctionne pas en mode production",module,Magento_Developer
 "Client side less compilation","Laissez vide si vous souhaitez y accéder depuis n'importe où.",module,Magento_Developer
 "Server side less compilation","Compilation LESS coté serveur",module,Magento_Developer
-"Magento was installed with a table prefix. Please re-install without prefix.","Magento was installed with a table prefix. Please re-install without prefix.",module,Magento_Developer
+"Magento was installed with a table prefix. Please re-install without prefix.","Magento a été installé avec un préfixe de table. Veuillez réinstaller sans préfixe.",module,Magento_Developer
 "Frontend Development Workflow","Workflow de développement du frontend",module,Magento_Developer
 "Workflow type","Type d’automatisation de processus",module,Magento_Developer
 "Not available in production mode","Non disponible en mode production",module,Magento_Developer
@@ -5270,7 +5270,7 @@ Exception,Exception,module,Magento_Deploy
 "Log to File","Enregistrer dans un fichier",module,Magento_Developer
 "Not available in production mode.","Pas disponible en mode production.",module,Magento_Developer
 Syslog,Syslog,module,Magento_Developer
-"Log to Syslog","Log to Syslog",module,Magento_Developer
+"Log to Syslog","Log vers syslog :",module,Magento_Developer
 "Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Sélectionnez cette option pour permettre à DHL d'optimiser les frais d'expédition en divisant la commande si elle dépasse %1 %2.",module,Magento_Dhl
 "Wrong Content Type","Mauvais type de contenu",module,Magento_Dhl
 Pounds,Livres,module,Magento_Dhl
@@ -5326,7 +5326,7 @@ Documents,Documents,module,Magento_Dhl
 "Unable to retrieve shipping label","Impossible de retrouver l’étiquette d’expédition",module,Magento_Dhl
 "Non documents","Autres que documents",module,Magento_Dhl
 None,Aucun,module,Magento_Dhl
-"The security validation of the XML document has failed.","The security validation of the XML document has failed.",module,Magento_Dhl
+"The security validation of the XML document has failed.","La validation de la sécurité du document XML n’a pas réussi.",module,Magento_Dhl
 "The response is in the wrong format","La réponse n'est pas dans le bon format",module,Magento_Dhl
 Field,Champ,module,Magento_Dhl
 "is required.","est requis.",module,Magento_Dhl
@@ -5346,8 +5346,8 @@ Password,"Mot de passe",module,Magento_Dhl
 "Weight Unit","Unité de poids",module,Magento_Dhl
 Size,Taille,module,Magento_Dhl
 "Allowed Methods","Modes de livraison autorisés",module,Magento_Dhl
-"Ready time","Ready time",module,Magento_Dhl
-"Package ready time after order submission (in hours)","Package ready time after order submission (in hours)",module,Magento_Dhl
+"Ready time","Heure de disponibilité",module,Magento_Dhl
+"Package ready time after order submission (in hours)","Temps de préparation du colis après la soumission de la commande (en heures)",module,Magento_Dhl
 "Displayed Error Message","Message d'erreur affiché",module,Magento_Dhl
 "Free Method","Mode gratuit",module,Magento_Dhl
 "Enable Free Shipping Threshold","Autoriser un seuil de livraison gratuite",module,Magento_Dhl
@@ -5361,18 +5361,18 @@ State/Province,Région/Département,module,Magento_Directory
 "--Please Select--","--Votre choix--",module,Magento_Directory
 lbs,lbs,module,Magento_Directory
 kgs,kgs,module,Magento_Directory
-"The country isn't available.","The country isn't available.",module,Magento_Directory
+"The country isn't available.","Le pays n’est pas disponible.",module,Magento_Directory
 "Undefined rate from ""%1-%2"".","Taux indéfini depuis ""%1-%2"".",module,Magento_Directory
 "Please correct the target currency.","Veuillez corriger la devise cible.",module,Magento_Directory
 label,Libellé,module,Magento_Directory
 "We can't retrieve a rate from %1 for %2.","Impossible de trouver le taux %1 pour %2.",module,Magento_Directory
 "No API Key was specified or an invalid API Key was specified.","Pas de clé API a été spécifiée ou une clé API non valide a été spécifiée.",module,Magento_Directory
 "The account this API request is coming from is inactive.","Le compte dont provient cette demande d’API est inactif.",module,Magento_Directory
-"The ""%1"" is not allowed as base currency for your subscription plan.","The ""%1"" is not allowed as base currency for your subscription plan.",module,Magento_Directory
+"The ""%1"" is not allowed as base currency for your subscription plan.","Le ""%1"" n’est pas autorisé comme devise de base pour votre abonnement.",module,Magento_Directory
 "An invalid base currency has been entered.","Une monnaie de base invalide a été entrée.",module,Magento_Directory
 "Currency rates can't be retrieved.","Les taux de monnaies ne peuvent être récupérés.",module,Magento_Directory
 "FATAL ERROR:","ERREUR FATALE :",module,Magento_Directory
-"The import model can't be initialized. Verify the model and try again.","The import model can't be initialized. Verify the model and try again.",module,Magento_Directory
+"The import model can't be initialized. Verify the model and try again.","Le modèle d'importation ne peut pas être initialisé. Vérifiez-le et réessayez.",module,Magento_Directory
 "Please specify the correct Import Service.","Veuillez spécifier un service d’importation valide.",module,Magento_Directory
 WARNING:,"ATTENTION :",module,Magento_Directory
 "Please correct the country code: %1.","Veuillez corriger le code pays: %1.",module,Magento_Directory
@@ -5390,9 +5390,9 @@ Continue,Continuer,module,Magento_Directory
 "Default Display Currency","Devise à afficher par défaut",module,Magento_Directory
 "Allowed Currencies","Devises autorisées",module,Magento_Directory
 Fixer.io,Fixer.io,module,Magento_Directory
-"API Key","API Key",module,Magento_Directory
+"API Key","Clé d'API",module,Magento_Directory
 "Connection Timeout in Seconds","Timeout de connexion",module,Magento_Directory
-"Currency Converter API","Currency Converter API",module,Magento_Directory
+"Currency Converter API","API de conversion de monnaie",module,Magento_Directory
 "Scheduled Import Settings","Paramètres d'import programmé",module,Magento_Directory
 Enabled,Activé,module,Magento_Directory
 "Error Email Recipient","Destinataire du mail d'erreur",module,Magento_Directory
@@ -5439,21 +5439,21 @@ Unlimited,Illimité,module,Magento_Downloadable
 "Sample URL must have valid format.","L'URL exemple doit avoir un format valide.",module,Magento_Downloadable
 "Order id cannot be null","L'id de commande ne peut pas être null",module,Magento_Downloadable
 "Order item id cannot be null","L'id d'article de commande ne peut pas être null",module,Magento_Downloadable
-"The product needs to be the downloadable type. Verify the product and try again.","The product needs to be the downloadable type. Verify the product and try again.",module,Magento_Downloadable
-"The link information is invalid. Verify the link and try again.","The link information is invalid. Verify the link and try again.",module,Magento_Downloadable
-"The link type is invalid. Verify and try again.","The link type is invalid. Verify and try again.",module,Magento_Downloadable
-"The link title is empty. Enter the link title and try again.","The link title is empty. Enter the link title and try again.",module,Magento_Downloadable
-"No downloadable link with the provided ID was found. Verify the ID and try again.","No downloadable link with the provided ID was found. Verify the ID and try again.",module,Magento_Downloadable
-"The downloadable link isn't related to the product. Verify the link and try again.","The downloadable link isn't related to the product. Verify the link and try again.",module,Magento_Downloadable
-"The link with ""%1"" ID can't be deleted.","The link with ""%1"" ID can't be deleted.",module,Magento_Downloadable
+"The product needs to be the downloadable type. Verify the product and try again.","Le produit doit être de type téléchargeable. Vérifiez-le et réessayez.",module,Magento_Downloadable
+"The link information is invalid. Verify the link and try again.","Le lien d'information est non valide. Vérifiez-le et réessayez.",module,Magento_Downloadable
+"The link type is invalid. Verify and try again.","Le type de lien est non valide. Vérifiez-le et réessayez.",module,Magento_Downloadable
+"The link title is empty. Enter the link title and try again.","Le titre de lien est vide. Entrez-le et réessayez.",module,Magento_Downloadable
+"No downloadable link with the provided ID was found. Verify the ID and try again.","Aucun lien de téléchargement n'a été trouvé à partir de l'identifiant fourni. Vérifiez l'identifiant et réessayez.",module,Magento_Downloadable
+"The downloadable link isn't related to the product. Verify the link and try again.","Le lien de téléchargement n'est pas lié au produit. Vérifiez le lien et réessayez.",module,Magento_Downloadable
+"The link with ""%1"" ID can't be deleted.","Le lien avec l'identifiant ""%1"" ne peut pas être supprimé.",module,Magento_Downloadable
 "Please specify product link(s).","Spécifiez le ou les liens des produits",module,Magento_Downloadable
 "Sample file not provided","Fichier d'échantillons non fourni",module,Magento_Downloadable
-"The sample information is invalid. Verify the information and try again.","The sample information is invalid. Verify the information and try again.",module,Magento_Downloadable
-"The sample type is invalid. Verify the sample type and try again.","The sample type is invalid. Verify the sample type and try again.",module,Magento_Downloadable
-"The sample title is empty. Enter the title and try again.","The sample title is empty. Enter the title and try again.",module,Magento_Downloadable
-"No downloadable sample with the provided ID was found. Verify the ID and try again.","No downloadable sample with the provided ID was found. Verify the ID and try again.",module,Magento_Downloadable
-"The downloadable sample isn't related to the product. Verify the link and try again.","The downloadable sample isn't related to the product. Verify the link and try again.",module,Magento_Downloadable
-"The sample with ""%1"" ID can't be deleted.","The sample with ""%1"" ID can't be deleted.",module,Magento_Downloadable
+"The sample information is invalid. Verify the information and try again.","Les informations de l’échantillon ne sont pas valides. Vérifiez les informations et réessayez.",module,Magento_Downloadable
+"The sample type is invalid. Verify the sample type and try again.","Le type d’échantillon n’est pas valide. Vérifier le type d’échantillon et réessayez.",module,Magento_Downloadable
+"The sample title is empty. Enter the title and try again.","Le titre de l’échantillon est vide. Entrez le titre et réessayez.",module,Magento_Downloadable
+"No downloadable sample with the provided ID was found. Verify the ID and try again.","Aucun échantillon téléchargeable avec l’identifiant fourni n'a été trouvé. Vérifiez l’identifiant et réessayez.",module,Magento_Downloadable
+"The downloadable sample isn't related to the product. Verify the link and try again.","Le téléchargement de l'échantillon n'est pas lié au produit. vérifiez le lien et réessayez.",module,Magento_Downloadable
+"The sample with ""%1"" ID can't be deleted.","L’échantillon avec l'identifiant «%1» ne peut pas être supprimé.",module,Magento_Downloadable
 Yes,Oui,module,Magento_Downloadable
 No,Non,module,Magento_Downloadable
 "Use config","Utiliser la config",module,Magento_Downloadable
@@ -5559,7 +5559,7 @@ Email,Email,module,Magento_Eav
 URL,URL,module,Magento_Eav
 Letters,Lettres,module,Magento_Eav
 "Letters (a-z, A-Z) or Numbers (0-9)","Lettres (a-z, A-Z) ou chiffres (0-9)",module,Magento_Eav
-"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.",module,Magento_Eav
+"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Le type de contenu de l'éditeur de texte WYSIWYG nécessite d'être autorisé dans Magasins > Configuration > Management du contenu.",module,Magento_Eav
 "Input type ""%value%"" not found in the input types list.","Le type d'entrée ""%value%"" n'a pas été trouvé dans la liste des types d'entrée.",module,Magento_Eav
 "Attribute object is undefined","L'objet attribut est indéfini",module,Magento_Eav
 "Entity object is undefined","L'objet entité n'est pas défini",module,Magento_Eav
@@ -5594,19 +5594,19 @@ Letters,Lettres,module,Magento_Eav
 """%1"" cannot contain more than %2 lines.","«%1» ne peut pas contenir plus de %2 lignes.",module,Magento_Eav
 """%1"" length must be equal or greater than %2 characters.","La longueur de ""%1"" doit être supérieure ou égale à %2 caractères.",module,Magento_Eav
 """%1"" length must be equal or less than %2 characters.","La longueur de ""%1"" doit être égale ou inférieure à %2 caractères.",module,Magento_Eav
-"The attribute group doesn't belong to the provided attribute set.","The attribute group doesn't belong to the provided attribute set.",module,Magento_Eav
-"The attributeGroup can't be saved.","The attributeGroup can't be saved.",module,Magento_Eav
-"The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","The group with the ""%1"" ID doesn't exist. Verify the ID and try again.",module,Magento_Eav
-"The attribute group with id ""%1"" can't be deleted.","The attribute group with id ""%1"" can't be deleted.",module,Magento_Eav
-"The AttributeSet with a ""%1"" ID doesn't exist. Verify the attributeSet and try again.","The AttributeSet with a ""%1"" ID doesn't exist. Verify the attributeSet and try again.",module,Magento_Eav
-"The attribute set ID is incorrect. Verify the ID and try again.","The attribute set ID is incorrect. Verify the ID and try again.",module,Magento_Eav
-"The attribute group doesn't belong to the attribute set.","The attribute group doesn't belong to the attribute set.",module,Magento_Eav
-"The ""%1"" attribute set wasn't found. Verify and try again.","The ""%1"" attribute set wasn't found. Verify and try again.",module,Magento_Eav
-"The ""%1"" attribute wasn't found in the ""%2"" attribute set. Enter the attribute and try again.","The ""%1"" attribute wasn't found in the ""%2"" attribute set. Enter the attribute and try again.",module,Magento_Eav
-"The system attribute can't be deleted.","The system attribute can't be deleted.",module,Magento_Eav
-"The attribute can't be saved.","The attribute can't be saved.",module,Magento_Eav
-"The attribute with a ""%1"" attributeCode doesn't exist. Verify the attribute and try again.","The attribute with a ""%1"" attributeCode doesn't exist. Verify the attribute and try again.",module,Magento_Eav
-"The attribute can't be deleted.","The attribute can't be deleted.",module,Magento_Eav
+"The attribute group doesn't belong to the provided attribute set.","Le groupe d’attributs n’appartient pas à l’ensemble d’attributs fournis.",module,Magento_Eav
+"The attributeGroup can't be saved.","Impossible d’enregistrer le groupe d'attributs (’attributeGroup').",module,Magento_Eav
+"The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","Le groupe avec l'identifiant ""%1"" n'existe pas. Vérifiez l'identifiant et essayez à nouveau.",module,Magento_Eav
+"The attribute group with id ""%1"" can't be deleted.","Le groupe d'attributs ayant l'identifiant ""%1"" ne peut pas être supprimé.",module,Magento_Eav
+"The AttributeSet with a ""%1"" ID doesn't exist. Verify the attributeSet and try again.","L'ensemble d'attributs (AttributeSet) ayant l'identifiant ""%1"" n'existe pas. Vérifiez-le et réessayez.",module,Magento_Eav
+"The attribute set ID is incorrect. Verify the ID and try again.","L'identifiant de l'ensemble d'attributs est incorrect. Vérifiez l'identifiant et réessayez.",module,Magento_Eav
+"The attribute group doesn't belong to the attribute set.","Le groupe d’attributs n’appartient pas à l’ensemble d’attributs.",module,Magento_Eav
+"The ""%1"" attribute set wasn't found. Verify and try again.","L'ensemble d'attributs ""%1"" n'a pas été trouvé. Vérifiez et réessayez.",module,Magento_Eav
+"The ""%1"" attribute wasn't found in the ""%2"" attribute set. Enter the attribute and try again.","L’attribut «%1» n’a pas été trouvé parmi l'ensemble d’attributs «%2». Entrez l’attribut puis réessayez.",module,Magento_Eav
+"The system attribute can't be deleted.","L'attribut système ne peut pas être supprimé.",module,Magento_Eav
+"The attribute can't be saved.","L'attribut ne peut pas être sauvegardé.",module,Magento_Eav
+"The attribute with a ""%1"" attributeCode doesn't exist. Verify the attribute and try again.","L'attribut ayant le code attribut ""%1"" n'existe pas. Vérifiez-le et réessayez.",module,Magento_Eav
+"The attribute can't be deleted.","L'attribut ne peut pas être supprimé.",module,Magento_Eav
 "The attribute with a ""%1"" ID doesn't exist. Verify the attribute and try again.","L'attribut ayant l'identifiant ""%1"" n'existe pas. Vérifiez l'attribut et réessayez.",module,Magento_Eav
 "The attribute set couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.","L’ensemble d’attributs n’a pas pu être sauvé suite à une erreur. Vérifier vos informations et réessayez. Si l’erreur persiste, veuillez réessayer ultérieurement.",module,Magento_Eav
 "The default attribute set can't be deleted.","L’ensemble d’attributs par défaut ne peut pas être supprimé.",module,Magento_Eav
@@ -5615,7 +5615,7 @@ Letters,Lettres,module,Magento_Eav
 "Entity is not initialized","L'entité n'est pas initialisée.",module,Magento_Eav
 "This parameter is unknown. Verify and try again.","Ce paramètre est inconnu. Vérifiez et réessayez.",module,Magento_Eav
 "Unique constraint violation found","Une violation de contrainte d'unicité a été trouvée",module,Magento_Eav
-"The attribute code '%1' is reserved by system. Please try another attribute code","The attribute code '%1' is reserved by system. Please try another attribute code",module,Magento_Eav
+"The attribute code '%1' is reserved by system. Please try another attribute code","Le code d'attribut \'%1\' est réservé par le système. Choisissez un autre code",module,Magento_Eav
 "The attribute code needs to be %1 characters or fewer. Re-enter the code and try again.","Le code de l'attribut doit être %1 caractères ou moins. Entrez le code et réessayez.",module,Magento_Eav
 "The default decimal value is invalid. Verify the value and try again.","La valeur décimale par défaut n’est pas valide. Vérifiez la valeur et réessayez.",module,Magento_Eav
 "The default date is invalid. Verify the date and try again.","La date par défaut n’est pas valide. Vérifiez la date et réessayez.",module,Magento_Eav
@@ -5725,8 +5725,8 @@ Preview,Prévisualiser,module,Magento_Email
 Unknown,Inconnu,module,Magento_Email
 "You deleted the email template.","Vous avez supprimé le gabarit d'e-mail.",module,Magento_Email
 "The email template is currently being used.","Le gabarit d'e-mail est actuellement utilisé.",module,Magento_Email
-"We can't delete email template data right now. Please review log and try again.","We can't delete email template data right now. Please review log and try again.",module,Magento_Email
-"We can't find an email template to delete.","We can't find an email template to delete.",module,Magento_Email
+"We can't delete email template data right now. Please review log and try again.","Nous ne pouvons pas supprimer cette règle dès maintenant. Veuillez vérifier le journal et réessayer.",module,Magento_Email
+"We can't find an email template to delete.","Nous ne pouvons pas trouver un attribut à supprimer.",module,Magento_Email
 "Edit Template","Éditer le gabarit",module,Magento_Email
 "Edit System Template","Éditer le gabarit système",module,Magento_Email
 "New Template","Nouveau gabarit",module,Magento_Email
@@ -6043,7 +6043,7 @@ History,"Icône d'appli haute résolution",module,Magento_GiftCardAccount
 "We cannot apply this gift card.","Nous ne pouvons pas appliquer cette carte-cadeau.",module,Magento_GiftCardAccount
 "Invalid Request","Requête non valide",module,Magento_GiftCardAccount
 "Gift Card ""%1"" was removed.","Carte-cadeau ""%1"" est supprimée.",module,Magento_GiftCardAccount
-"You can't remove this gift card.","You can't remove this gift card.",module,Magento_GiftCardAccount
+"You can't remove this gift card.","Nous ne pouvons pas retirer cette carte-cadeau.",module,Magento_GiftCardAccount
 "Gift Card ""%1"" was redeemed.","La carte-cadeau ""%1"" a été remboursée.",module,Magento_GiftCardAccount
 "We cannot redeem this gift card.","Nous ne pouvons rembourser cette carte-cadeau.",module,Magento_GiftCardAccount
 "Gift Card",Cadeau,module,Magento_GiftCardAccount
@@ -6054,7 +6054,7 @@ History,"Icône d'appli haute résolution",module,Magento_GiftCardAccount
 "The balance cannot be less than zero.","Le solde ne peut pas être négatif.",module,Magento_GiftCardAccount
 "This gift card account is already in the quote.","Ce compte de carte-cadeau est déjà dans le devis.",module,Magento_GiftCardAccount
 "Please correct the gift card account code: ""%1"".","Veuillez corriger le compte de la carte-cadeau : ""%1"".",module,Magento_GiftCardAccount
-"This gift card account wasn't found in the quote.","This gift card account wasn't found in the quote.",module,Magento_GiftCardAccount
+"This gift card account wasn't found in the quote.","Ce compte de carte-cadeau est déjà dans le devis.",module,Magento_GiftCardAccount
 "Please correct the gift card account ID. Requested code: ""%1""","Veuillez corriger l'identifiant du compte de la carte-cadeau. Code requis : ""%1""",module,Magento_GiftCardAccount
 "Please correct the gift card account website: %1.","Veuillez corriger le site Web du compte de carte-cadeau : ""%1.",module,Magento_GiftCardAccount
 "Gift card account %1 is not enabled.","Le compte de carte-cadeau %1 n'est pas actif.",module,Magento_GiftCardAccount
@@ -6076,7 +6076,7 @@ Sent,Envoyé,module,Magento_GiftCardAccount
 "Unknown history action.","Action historique inconnue.",module,Magento_GiftCardAccount
 "We were unable to create full code pool size. Please check settings and try again.","Nous avons pas pu créer l'ensemble complet de codes. Vérifiez les paramètres et réessayez.",module,Magento_GiftCardAccount
 "No codes left in the pool.","Il n'a plus de codes restants dans l'ensemble.",module,Magento_GiftCardAccount
-"You can't redeem a gift card now.","You can't redeem a gift card now.",module,Magento_GiftCardAccount
+"You can't redeem a gift card now.","Vous ne pouvez pas échanger une carte cadeau maintenant.",module,Magento_GiftCardAccount
 "Gift card not found","Carte cadeau introuvable",module,Magento_GiftCardAccount
 "Gift card account is not redeemable.","Le compte de carte-cadeau  n'est pas actif.",module,Magento_GiftCardAccount
 "Cannot find the customer to update balance","Impossible de trouver le client pour mettre à jour le solde",module,Magento_GiftCardAccount
@@ -6178,10 +6178,10 @@ OK,OK,module,Magento_GiftMessage
 "Do you have any gift items in your order?","Y a-t-il des articles cadeaux dans votre commande ?",module,Magento_GiftMessage
 "Add Gift Options","Ajouter des options cadeau",module,Magento_GiftMessage
 "Gift Options for the Entire Order","Options cadeau pour toute la commande",module,Magento_GiftMessage
-"Leave this box blank if you don't want to leave a gift message for the entire order.","Leave this box blank if you don't want to leave a gift message for the entire order.",module,Magento_GiftMessage
+"Leave this box blank if you don't want to leave a gift message for the entire order.","Laissez ce champ vide si vous ne souhaitez pas laisser un message pour cadeau pour la commande tout entière.",module,Magento_GiftMessage
 "Gift Options for Individual Items","Options cadeau pour les articles individuels",module,Magento_GiftMessage
 "<span>Item %1</span> of %2","<span>article %1</span> de %2",module,Magento_GiftMessage
-"Leave a box blank if you don't want to add a gift message for that item.","Leave a box blank if you don't want to add a gift message for that item.",module,Magento_GiftMessage
+"Leave a box blank if you don't want to add a gift message for that item.","Laissez ce champ vide si vous ne souhaitez pas ajouter un message pour cadeau pour cet article.",module,Magento_GiftMessage
 "Add Gift Options for the Entire Order","Ajouter des options cadeau pour toute la commande",module,Magento_GiftMessage
 "You can leave this box blank if you don't want to add a gift message for this address.","You can leave this box blank if you don't want to add a gift message for this address.",module,Magento_GiftMessage
 "Add Gift Options for Individual Items","Ajouter des options cadeau pour les articles individuels",module,Magento_GiftMessage
@@ -6535,9 +6535,9 @@ None,Aucun,module,Magento_GiftWrapping
 "The image extension ""%1"" not allowed.","L'extension de l'image ""%1"" n'est pas autorisé.",module,Magento_GiftWrapping
 "Provided image name contains forbidden characters.","Le nom fourni de l'image contient des caractères interdits.",module,Magento_GiftWrapping
 "The image MIME type is not valid or not supported.","Le type de l'image MIME n'est pas valide ou n'est pas supporté.",module,Magento_GiftWrapping
-"Gift wrapping with the %1 ID wasn't found. Verify the ID and try again.","Gift wrapping with the %1 ID wasn't found. Verify the ID and try again.",module,Magento_GiftWrapping
-"A valid currency code wasn't entered. Enter a valid %1 currency code and try again.","A valid currency code wasn't entered. Enter a valid %1 currency code and try again.",module,Magento_GiftWrapping
-"The ""%1"" gift wrapping couldn't be removed.","The ""%1"" gift wrapping couldn't be removed.",module,Magento_GiftWrapping
+"Gift wrapping with the %1 ID wasn't found. Verify the ID and try again.","L'emballage-cadeau avec l'identifiant %1 n'a pas été trouvé. Vérifiez l'identifiant et réessayez.",module,Magento_GiftWrapping
+"A valid currency code wasn't entered. Enter a valid %1 currency code and try again.","Un code de devise valide n'a pas été entré. Entrez un code de devise %1 valide et réessayez.",module,Magento_GiftWrapping
+"The ""%1"" gift wrapping couldn't be removed.","L'emballage-cadeau ""%1"" n'a pas pu être supprimé.",module,Magento_GiftWrapping
 "Printed Card","Carte imprimée",module,Magento_GiftWrapping
 "Use Config Settings","Utilisez les paramètres de configuration",module,Magento_GiftWrapping
 "Use Default Value","Utiliser la valeur par défaut",module,Magento_GiftWrapping
@@ -6677,7 +6677,7 @@ From,Depuis,module,Magento_ImportExport
 To,À,module,Magento_ImportExport
 "We can't filter an attribute with no attribute options.","We can't filter an attribute with no attribute options.",module,Magento_ImportExport
 "Fixed Price: From","Prix fixe : de",module,Magento_ImportExport
-"-- Not Selected --","-- Not Selected --",module,Magento_ImportExport
+"-- Not Selected --","-- Non sélectionné --",module,Magento_ImportExport
 Exclude,Exclure,module,Magento_ImportExport
 "Attribute Label","Libelle d'attribut",module,Magento_ImportExport
 "Attribute Code","Code d'attribut",module,Magento_ImportExport
@@ -6694,23 +6694,23 @@ Import,Importer,module,Magento_ImportExport
 "Please specify number of errors to halt import process","Veuillez préciser le nombre d’erreurs pour stopper le processus d’importation",module,Magento_ImportExport
 "Field separator","Séparateur de champ",module,Magento_ImportExport
 "Multiple value separator","Séparateur de valeur multiples",module,Magento_ImportExport
-"Empty attribute value constant","Empty attribute value constant",module,Magento_ImportExport
+"Empty attribute value constant","constante de valeur d'attribut vide",module,Magento_ImportExport
 "Fields enclosure","Entourage de champs",module,Magento_ImportExport
 "File to Import","Fichier à importer",module,Magento_ImportExport
 "Select File to Import","Sélectionner le fichier à importer",module,Magento_ImportExport
-"File must be saved in UTF-8 encoding for proper import","File must be saved in UTF-8 encoding for proper import",module,Magento_ImportExport
+"File must be saved in UTF-8 encoding for proper import","Fichier doit être enregistré au format UTF-8 codage pour importation correcte",module,Magento_ImportExport
 "Images File Directory","Répertoire de fichiers images",module,Magento_ImportExport
 "For Type ""Local Server"" use relative path to Magento installation,
                                 e.g. var/export, var/import, var/export/some/dir","Pour Type « Serveur Local » utilisez le chemin d’accès relatif à l’installation de Magento,
                                 p. ex. var/export, import/var, var/exportation/some/dir",module,Magento_ImportExport
 "Download Sample File","Télécharger le fichier d’exemple",module,Magento_ImportExport
-"What is this?","What is this?",module,Magento_ImportExport
+"What is this?","Qu'est-ce que c'est ?",module,Magento_ImportExport
 "Please correct the data sent value.","Corrigez la valeur de données envoyées.",module,Magento_ImportExport
 Import/Export,Importer/Exporter,module,Magento_ImportExport
 History,"Icône d'appli haute résolution",module,Magento_ImportExport
 "Import History","Historique de l’importation",module,Magento_ImportExport
 "Import history","Historique de l’importation",module,Magento_ImportExport
-"Incorrect entity name.","Incorrect entity name.",module,Magento_ImportExport
+"Incorrect entity name.","Nom d'entité incorrect.",module,Magento_ImportExport
 "There is no sample file for this entity.","Il n’y a aucun exemple de fichier de cette entité.",module,Magento_ImportExport
 Status,Statut,module,Magento_ImportExport
 "Maximum error count has been reached or system error is occurred!","Nombre d’erreurs maximal a été atteint ou erreur système est survenue !",module,Magento_ImportExport
@@ -6760,7 +6760,7 @@ Status,Statut,module,Magento_ImportExport
 "The file you uploaded has no extension.","Le fichier que vous avez téléchargé n’a aucune extension.",module,Magento_ImportExport
 "The source file moving process failed.","Le processus de déplacement de fichier source a échoué.",module,Magento_ImportExport
 "Begin data validation","Lancer la validation des données",module,Magento_ImportExport
-"Skipped errors: %1","Skipped errors: %1",module,Magento_ImportExport
+"Skipped errors: %1","Erreurs ignorées : %1",module,Magento_ImportExport
 "Import data validation is complete.","Importation données validation est terminée.",module,Magento_ImportExport
 "The behavior token for %1 is invalid.","Le jeton de comportement de %1 n’est pas valide.",module,Magento_ImportExport
 "Please enter a correct entity model","Veuillez entrer un modèle d’entité correct",module,Magento_ImportExport
@@ -6771,18 +6771,18 @@ Status,Statut,module,Magento_ImportExport
 "Adapter must be an instance of \Magento\ImportExport\Model\Import\AbstractSource","Adaptateur doit être une instance de \Magento\ImportExport\Model\Import\AbstractSource",module,Magento_ImportExport
 "Please specify a source.","Veuillez préciser une source.",module,Magento_ImportExport
 "ImportExport: Import Data validation - Validation strategy not found","ImportExport : Validation de données sur les importations - stratégie de Validation non trouvé",module,Magento_ImportExport
-"There is no file: %file","There is no file: %file",module,Magento_ImportExport
+"There is no file: %file","Il n’y a pas de fichier : %file",module,Magento_ImportExport
 "Cannot get autoincrement value","Impossible de récupérer la valeur d'auto incrément",module,Magento_ImportExport
 "Error in data structure: %1 values are mixed","Erreur dans la structure de données : %1 valeurs sont mélangées",module,Magento_ImportExport
-"'Error in CSV: ' .","'Error in CSV: ' .",module,Magento_ImportExport
+"'Error in CSV: ' .","' Erreur dans CSV : '.",module,Magento_ImportExport
 "-- Please Select --","-- Faites un choix --",module,Magento_ImportExport
 label,Libellé,module,Magento_ImportExport
 Add/Update,"Ajouter/mettre à jour",module,Magento_ImportExport
 Replace,Remplacer,module,Magento_ImportExport
 Delete,Supprimer,module,Magento_ImportExport
-"New product data is added to the existing product data for the existing entries in the database. All fields except sku can be updated.","New product data is added to the existing product data for the existing entries in the database. All fields except sku can be updated.",module,Magento_ImportExport
-"The existing product data is replaced with new data. <b>Exercise caution when replacing data because the existing product data will be completely cleared and all references in the system will be lost.</b>","The existing product data is replaced with new data. <b>Exercise caution when replacing data because the existing product data will be completely cleared and all references in the system will be lost.</b>",module,Magento_ImportExport
-"Any entities in the import data that already exist in the database are deleted from the database.","Any entities in the import data that already exist in the database are deleted from the database.",module,Magento_ImportExport
+"New product data is added to the existing product data for the existing entries in the database. All fields except sku can be updated.","Les nouvelles données du produit sont ajoutées aux données existantes pour les entrées existantes dans la base de données. Tous les champs sauf sku peuvent être mis à jour.",module,Magento_ImportExport
+"The existing product data is replaced with new data. <b>Exercise caution when replacing data because the existing product data will be completely cleared and all references in the system will be lost.</b>","Les données du produit existant sont remplacées par les nouvelles données. <b>faire preuve de prudence lorsque vous remplacez des données car les données existantes du produit est complètement effacées et toutes les références dans le système seront perdues.</b>",module,Magento_ImportExport
+"Any entities in the import data that already exist in the database are deleted from the database.","Toute entité dans les données d'importation qui existent déjà dans la base de données est supprimée de la base de données.",module,Magento_ImportExport
 "Add/Update Complex Data","Ajouter/mettre à jour des données complexes",module,Magento_ImportExport
 "Delete Entities","Effacer les entités",module,Magento_ImportExport
 "Custom Action","Action personnalisée",module,Magento_ImportExport
@@ -6883,27 +6883,27 @@ Reauthorize,Réautoriser,module,Magento_Integration
 "View ""%1"" Integration","Voir l’intégration ""%1""",module,Magento_Integration
 "Edit ""%1"" Integration","Modifier l’intégration ""%1""",module,Magento_Integration
 "Warning! Integrations not using HTTPS are insecure and potentially expose private or personally identifiable information","Mise en garde ! Intégrations n'utilise pas HTTPS sont non-sécurisées et exposent les informations personnellement identifiables ou privées",module,Magento_Integration
-"The integrations created in the config file can't be edited.","The integrations created in the config file can't be edited.",module,Magento_Integration
+"The integrations created in the config file can't be edited.","Les intégrations créées dans le fichier de configuration ne peuvent pas être modifiées.",module,Magento_Integration
 "The integration '%1' has been saved.","The integration '%1' has been saved.",module,Magento_Integration
 "The integration was not saved.","L’intégration n'a pas été sauvegardée.",module,Magento_Integration
 "The integration '%1' has been re-authorized.","L’intégration '%1' a été ré-autorisée.",module,Magento_Integration
 "The integration '%1' has been activated.","L’intégration '%1' a été activée.",module,Magento_Integration
 "Integration '%1' has been sent for re-authorization.","L'intégration '%1' a été envoyée pour la ré-autorisation.",module,Magento_Integration
 "Integration '%1' has been sent for activation.","L'intégration '%1' a été envoyée pour activation.",module,Magento_Integration
-"A consumer with ""%1"" ID doesn't exist. Verify the ID and try again.","A consumer with ""%1"" ID doesn't exist. Verify the ID and try again.",module,Magento_Integration
+"A consumer with ""%1"" ID doesn't exist. Verify the ID and try again.","Un consommateur avec ""%1"" ID n'existe pas. Vérifiez l'ID et réessayez.",module,Magento_Integration
 title,titre,module,Magento_Integration
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Integration
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","La connexion au compte est incorrecte ou votre compte est temporairement désactivé. S’il vous plaît attendez et réessayez plus tard.",module,Magento_Integration
 "This user has no tokens.","Cet utilisateur n’a pas de jetons.",module,Magento_Integration
-"The tokens couldn't be revoked.","The tokens couldn't be revoked.",module,Magento_Integration
-"An error occurred during the attempt to grant permissions. For details, see the exceptions log.","An error occurred during the attempt to grant permissions. For details, see the exceptions log.",module,Magento_Integration
+"The tokens couldn't be revoked.","Les jetons ne peuvent être révoqués.",module,Magento_Integration
+"An error occurred during the attempt to grant permissions. For details, see the exceptions log.","Une erreur s'est produite lors de la tentative d'accorder des permissions. Pour plus de détails, voir le journal des exceptions.",module,Magento_Integration
 "Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Quelque chose s’est mal passé lors de la suppression de rôles et les autorisations. Vous en saurez plus dans le journal des exceptions.",module,Magento_Integration
-"""%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Integration
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" est requis. Entrez une valeur et réessayez.",module,Magento_Integration
 "This customer has no tokens.","Cet utilisateur n’a pas de jetons.",module,Magento_Integration
 Inactive,Inactif,module,Magento_Integration
 Active,Actif,module,Magento_Integration
 Reset,Réinitialiser,module,Magento_Integration
-"The integration with name ""%1"" exists.","The integration with name ""%1"" exists.",module,Magento_Integration
-"The integration with ID ""%1"" doesn't exist.","The integration with ID ""%1"" doesn't exist.",module,Magento_Integration
+"The integration with name ""%1"" exists.","L'intégration avec le nom ""%1"" existe.",module,Magento_Integration
+"The integration with ID ""%1"" doesn't exist.","L'intégration avec l'ID ""%1"" n'existe pas.",module,Magento_Integration
 "One or more <a href=""%1"">integrations</a> have been reset because of a change to their xml configs.","Un ou plusieurs <a href=""%1"">intégrations</a> ont été réinitialisées à cause d’un changement de leurs configs de xml.",module,Magento_Integration
 "Invalid Callback URL","URL de rappel invalide",module,Magento_Integration
 "Invalid Rejected Callback URL","URL de rappel rejeté invalide",module,Magento_Integration
@@ -6925,16 +6925,16 @@ Reset,Réinitialiser,module,Magento_Integration
 "Verifier is not the correct length","Vérificateur n’est pas de la bonne longueur",module,Magento_Integration
 "Token verifier and verifier token do not match","Vérificateur de jeton et jeton de vérificateur ne correspondent pas",module,Magento_Integration
 "A consumer with the ID %1 does not exist","Aucun utilisateur ayant l' ID %1 n’existe",module,Magento_Integration
-"The token length is invalid. Check the length and try again.","The token length is invalid. Check the length and try again.",module,Magento_Integration
+"The token length is invalid. Check the length and try again.","La longueur du jeton est invalide. Vérifiez la longueur et ré-essayez.",module,Magento_Integration
 "Specified token does not exist","Jeton spécifié n’existe pas",module,Magento_Integration
 "A token with consumer ID %1 does not exist","Le jeton avec utilisateur ID %1 n’existe pas",module,Magento_Integration
-"The oAuth consumer account couldn't be created due to an unexpected error. Please try again later.","The oAuth consumer account couldn't be created due to an unexpected error. Please try again later.",module,Magento_Integration
-"The oAuth consumer account couldn't be loaded due to an unexpected error. Please try again later.","The oAuth consumer account couldn't be loaded due to an unexpected error. Please try again later.",module,Magento_Integration
-"The attempt to post data to consumer failed due to an unexpected error. Please try again later.","The attempt to post data to consumer failed due to an unexpected error. Please try again later.",module,Magento_Integration
-"A consumer with ID ""%1"" doesn't exist. Verify the ID and try again.","A consumer with ID ""%1"" doesn't exist. Verify the ID and try again.",module,Magento_Integration
+"The oAuth consumer account couldn't be created due to an unexpected error. Please try again later.","Le compte consommateur oAuth n'a pas pu être créé en raison d'une erreur inattendue. Veuillez réessayer plus tard.",module,Magento_Integration
+"The oAuth consumer account couldn't be loaded due to an unexpected error. Please try again later.","Le compte consommateur oAuth n'a pas pu être chargé en raison d'une erreur inattendue. Veuillez réessayer plus tard.",module,Magento_Integration
+"The attempt to post data to consumer failed due to an unexpected error. Please try again later.","La tentative d'afficher des données au consommateur a échoué en raison d'une erreur inattendue. Veuillez réessayer plus tard.",module,Magento_Integration
+"A consumer with ID ""%1"" doesn't exist. Verify the ID and try again.","Un utilisateur avec l’ID ""%1"" n’existe pas. Vérifiez l’ID et réessayez.",module,Magento_Integration
 "Invalid token to except","Jeton non valide à exclure",module,Magento_Integration
-"Your account is temporarily disabled. Please try again later.","Your account is temporarily disabled. Please try again later.",module,Magento_Integration
-"The password entered for the current user is invalid. Verify the password and try again.","The password entered for the current user is invalid. Verify the password and try again.",module,Magento_Integration
+"Your account is temporarily disabled. Please try again later.","Votre compte est temporairement désactivé. Ré-essayez plus tard.",module,Magento_Integration
+"The password entered for the current user is invalid. Verify the password and try again.","Le mot de passe entré pour l'utilisateur est invalide. Vérifiez le mot de passe et ré-essayez.",module,Magento_Integration
 "A token with consumer ID 0 does not exist","Un jeton avec ID d'utilisateur 0 n’existe pas",module,Magento_Integration
 "The integration you selected asks you to approve access to the following:","L’intégration que vous avez sélectionné vous demande d’approuver l’accès à ce qui suit :",module,Magento_Integration
 "No permissions requested","Aucune autorisation demandée",module,Magento_Integration
@@ -6956,7 +6956,7 @@ Extensions,Extensions,module,Magento_Integration
 OAuth,OAuth,module,Magento_Integration
 "Access Token Expiration","Expiration jeton d'accès",module,Magento_Integration
 "Customer Token Lifetime (hours)","Durée de vie jeton utilisateur (heures)",module,Magento_Integration
-"We will disable this feature if the value is empty.","We will disable this feature if the value is empty.",module,Magento_Integration
+"We will disable this feature if the value is empty.","Nous désactiverons cette fonction si la valeur est vide.",module,Magento_Integration
 "Admin Token Lifetime (hours)","Durée de vie jeton administrateur (heures)",module,Magento_Integration
 "Cleanup Settings","Paramètres de nettoyage",module,Magento_Integration
 "Cleanup Probability","Probabilité de nettoyage",module,Magento_Integration
@@ -6971,9 +6971,9 @@ OAuth,OAuth,module,Magento_Integration
 "Timeout for OAuth consumer credentials Post request within X seconds.","Timeout for OAuth consumer credentials Post request within X seconds.",module,Magento_Integration
 "Authentication Locks","Sécurité d’authentification",module,Magento_Integration
 "Maximum Login Failures to Lock Out Account","Nombre maximum de tentatives de connexion avant verrouillage du compte",module,Magento_Integration
-"Maximum Number of authentication failures to lock out account.","Maximum Number of authentication failures to lock out account.",module,Magento_Integration
+"Maximum Number of authentication failures to lock out account.","Nombre maximum d'échecs d'authentification pour bloquer le compte.",module,Magento_Integration
 "Lockout Time (seconds)","Temps de verrouillage (secondes)",module,Magento_Integration
-"Period of time in seconds after which account will be unlocked.","Period of time in seconds after which account will be unlocked.",module,Magento_Integration
+"Period of time in seconds after which account will be unlocked.","Période de temps en secondes après lequel le compte est débloqué.",module,Magento_Integration
 "Integrations Configuration","Configuration d’intégrations",module,Magento_Integration
 "Integration configuration file","Fichier de configuration de l’intégration",module,Magento_Integration
 "Integrations API Configuration","Configuration d’intégrations API",module,Magento_Integration
@@ -7042,17 +7042,17 @@ Reports,Rapports,module,Magento_Invitation
 "Default Customer Group from System Configuration","Groupe client par défaut de Configuration du système",module,Magento_Invitation
 "By Invitation Only","Sur Invitation seulement",module,Magento_Invitation
 "Available to All","Accessible à tous",module,Magento_Invitation
-"The invitation code is incorrect. Verify the code and try again.","The invitation code is incorrect. Verify the code and try again.",module,Magento_Invitation
-"A customer ID group is missing. Enter a group and try again.","A customer ID group is missing. Enter a group and try again.",module,Magento_Invitation
-"The incorrect store is specified. Verify the store and try again.","The incorrect store is specified. Verify the store and try again.",module,Magento_Invitation
-"The store credit entered was invalid. Store credit must be less than the order amount. Verify and try again.","The store credit entered was invalid. Store credit must be less than the order amount. Verify and try again.",module,Magento_Invitation
-"The encrypted code couldn't be generated.","The encrypted code couldn't be generated.",module,Magento_Invitation
-"An ID wasn't found for this invitation. Verify the invitation and try again.","An ID wasn't found for this invitation. Verify the invitation and try again.",module,Magento_Invitation
-"The invitation with the ""%1"" status can't be sent.","The invitation with the ""%1"" status can't be sent.",module,Magento_Invitation
-"A valid invitation email is missing. Enter and try again.","A valid invitation email is missing. Enter and try again.",module,Magento_Invitation
-"The proper website couldn't be identified","The proper website couldn't be identified",module,Magento_Invitation
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again.",module,Magento_Invitation
-"This invitation is addressed to current customer ""%1"".","This invitation is addressed to current customer ""%1"".",module,Magento_Invitation
+"The invitation code is incorrect. Verify the code and try again.","Le code d'invitation n'est pas valide. Vérifiez-le et réessayez.",module,Magento_Invitation
+"A customer ID group is missing. Enter a group and try again.","Un groupe d'identifiant de client est manquant. Entrez le groupe et réessayez.",module,Magento_Invitation
+"The incorrect store is specified. Verify the store and try again.","Le mauvais magasin est spécifié. Vérifiez-le et réessayez.",module,Magento_Invitation
+"The store credit entered was invalid. Store credit must be less than the order amount. Verify and try again.","Le crédit magasin entré n'est pas valide. Un crédit magasin doit être inférieur au montant de la commande. Vérifiez et réessayez.",module,Magento_Invitation
+"The encrypted code couldn't be generated.","Le code chiffré n'a pas pu être généré.",module,Magento_Invitation
+"An ID wasn't found for this invitation. Verify the invitation and try again.","Un ID n'a pas été trouvé pour cette invitation. Vérifiez l'invitation et réessayez.",module,Magento_Invitation
+"The invitation with the ""%1"" status can't be sent.","L'invitation avec le statut ""%1"" ne peut pas être envoyée.",module,Magento_Invitation
+"A valid invitation email is missing. Enter and try again.","Un email d'invitation valide est manquant. Entrez et réessayez.",module,Magento_Invitation
+"The proper website couldn't be identified","Le site web approprié n'a pas pu être identifié",module,Magento_Invitation
+"An email wasn't specified. Enter the email and try again.","Un email n'a pas été spécifié. Entrez l'email et réessayez.",module,Magento_Invitation
+"This invitation is addressed to current customer ""%1"".","Cette invitation est adressée au client actuel ""%1"".",module,Magento_Invitation
 "This invitation is not valid.","Cette invitation n’est pas valide.",module,Magento_Invitation
 "Please correct the invitation email.","S’il vous plaît corriger l’e-mail d’invitation.",module,Magento_Invitation
 "Invitation for same email address","Invitation à la même adresse email",module,Magento_Invitation
@@ -7125,14 +7125,14 @@ No,Non,module,Magento_LayeredNavigation
 "Filterable (with results)","Filtrable (avec résultats)",module,Magento_LayeredNavigation
 "Filterable (no results)","Filtrable (pas de résultats)",module,Magento_LayeredNavigation
 "Use in Layered Navigation","Utiliser dans la navigation par filtres",module,Magento_LayeredNavigation
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price",module,Magento_LayeredNavigation
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Peut être utilisé uniquement avec le type d'entrée du catalogue Oui/Non, Dropdown, choix multiple et prix",module,Magento_LayeredNavigation
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
                     <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.",module,Magento_LayeredNavigation
+                     it will make no affect on Price filter.","Peut être utilisé uniquement avec le type d'entrée du catalogue Oui/Non, Dropdown, choix multiple et prix.
+                    <br>Le prix n'est pas compatible avec <b>'Filterable (aucun résultat)'</b> option - 
+                     il n'affectera pas le filtre de prix.",module,Magento_LayeredNavigation
 "Use in Search Results Layered Navigation","Utiliser dans la navigation par filtres des résultats de recherche",module,Magento_LayeredNavigation
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.",module,Magento_LayeredNavigation
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Peut être utilisé uniquement avec le type d'entrée du catalogue Oui/Non, Dropdown, choix multiple et prix.",module,Magento_LayeredNavigation
 Position,Position,module,Magento_LayeredNavigation
 "Position in Layered Navigation","Position dans la navigation par filtres",module,Magento_LayeredNavigation
 "Position of attribute in layered navigation block.","Position de l’attribut dans le bloc de navigation par filtres.",module,Magento_LayeredNavigation
@@ -7155,7 +7155,7 @@ Remove,Supprimer,module,Magento_LayeredNavigation
 "This setting will be applied when all prices in the specific price interval are equal.","Ce paramétrage s'appliquera lorsque tous les prix seront égaux dans l'intervalle de prix spécifique.",module,Magento_LayeredNavigation
 "Interval Division Limit","Limite de division d'intervalle",module,Magento_LayeredNavigation
 "Please specify the number of products, that will not be divided into subintervals.","Spécifiez le nombre de produits qui ne seront pas divisés en sous-intervalles.",module,Magento_LayeredNavigation
-"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.",module,Magento_LayeredNavigation
+"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Peut être utilisé uniquement avec le type d'entrée du catalogue Oui/Non (Boolean), Dropdown, choix multiple et prix.",module,Magento_LayeredNavigation
 "Admin Actions Log Archive","Archive de journal Actions admin",module,Magento_Logging
 Back,Retour,module,Magento_Logging
 "Log Entry #%1","Entrée de journal n° %1",module,Magento_Logging
@@ -7179,7 +7179,7 @@ label,Libellé,module,Magento_Logging
 "Cache types: %1","Types de cache : %1",module,Magento_Logging
 "Tax Rates Export","Export de taux de taxe",module,Magento_Logging
 "Unknown callback function: %1::%2","Fonction callback inconnue : %1::%2",module,Magento_Logging
-"More permissions are needed to access this.","More permissions are needed to access this.",module,Magento_Logging
+"More permissions are needed to access this.","Il faut plus de permissions pour accéder à cette option.",module,Magento_Logging
 Success,Succès,module,Magento_Logging
 Failure,Echec,module,Magento_Logging
 Daily,Quotidien,module,Magento_Logging
@@ -7198,7 +7198,7 @@ Logging,Journalisation,module,Magento_Logging
 "Action Log","Registre d'actions",module,Magento_Logging
 Archive,Archive,module,Magento_Logging
 "Action Logs","Logs d'actions",module,Magento_Logging
-"Bulk Actions","Bulk Actions",module,Magento_Logging
+"Bulk Actions","Actions en masse",module,Magento_Logging
 "Admin Actions Log Archiving","Archivage du log des actions de l'administrateur",module,Magento_Logging
 "Log Entry Lifetime, Days","Durée de vie des entrées du journal, en jours",module,Magento_Logging
 "Log Archiving Frequency","Fréquence d'archivage du journal",module,Magento_Logging
@@ -7294,7 +7294,7 @@ Details,Détails,module,Magento_Logging
 Partners,Partenaires,module,Magento_Marketplace
 "Magento Marketplace","Magento Marketplace",module,Magento_Marketplace
 "Platinum Partners","Partenaires platines",module,Magento_Marketplace
-"Representing Magento's highest level of partner engagement, Magento Platinum Partners have established themselves as leaders and innovators of key products and services designed to help merchants and brands grow their business. Magento reserves the Platinum level for select trusted partners that are committed to offering integrations of commerce features, functions, and tools, as well as back-end systems and operations, to extend and enhance the power of the Magento commerce platform.","Representing Magento's highest level of partner engagement, Magento Platinum Partners have established themselves as leaders and innovators of key products and services designed to help merchants and brands grow their business. Magento reserves the Platinum level for select trusted partners that are committed to offering integrations of commerce features, functions, and tools, as well as back-end systems and operations, to extend and enhance the power of the Magento commerce platform.",module,Magento_Marketplace
+"Representing Magento's highest level of partner engagement, Magento Platinum Partners have established themselves as leaders and innovators of key products and services designed to help merchants and brands grow their business. Magento reserves the Platinum level for select trusted partners that are committed to offering integrations of commerce features, functions, and tools, as well as back-end systems and operations, to extend and enhance the power of the Magento commerce platform.","Représentant le niveau le plus élevé de l’engagement du partenaire de Magento, Magento Platinum partenaires sont reconnus comme chefs de file et innovateurs des principaux produits et services conçus pour aider les marchands et les marques faire croître leur entreprise. Certains partenaires de confiance qui sont engagés à offrir des intégrations des fonctionnalités de commerce, fonctions et outils, ainsi que systèmes back-end et opérations, d’étendre et d’améliorer la puissance de la plateforme e-commerce Magento Magento réserve le niveau platine.",module,Magento_Marketplace
 "Featured Platinum Partners","Partenaires platines recommandés",module,Magento_Marketplace
 "Partner search","Recherche de partenaires",module,Magento_Marketplace
 "Magento has a thriving ecosystem of technology partners to help merchants and brands deliver the best possible customer experiences. They are recognized as experts in eCommerce, search, email marketing, payments, tax, fraud, optimization and analytics, fulfillment, and more. Visit the Magento Partner Directory to see all of our trusted partners.","Magento dispose d'un écosystème florissant de partenaires technologiques pour aider les marchands et les marques à offrir la meilleure expérience client possible. Ils sont reconnus en tant qu'experts en commerce électronique, recherche, marketing par courriel, paiements, fiscalité, fraude, optimisation et analyse, exécution, etc. Visitez le répertoire des partenaires Magento pour voir tous nos partenaires de confiance.",module,Magento_Marketplace
@@ -7394,27 +7394,27 @@ Reports,Rapports,module,Magento_MultipleWishlist
 Customers,Clients,module,Magento_MultipleWishlist
 "Customer Wish List Report","Rapport de liste d'achats client",module,Magento_MultipleWishlist
 "Wish list ""%1"" was saved.","Liste d'achats ""%1"" sauvegardée.",module,Magento_MultipleWishlist
-"We can't create the wish list right now.","We can't create the wish list right now.",module,Magento_MultipleWishlist
+"We can't create the wish list right now.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison.",module,Magento_MultipleWishlist
 "Page not found.","Page introuvable.",module,Magento_MultipleWishlist
 """%1"" was copied to %2.","""%1"" a été copié vers %2.",module,Magento_MultipleWishlist
-"We can't find the item.","We can't find the item.",module,Magento_MultipleWishlist
+"We can't find the item.","Nous ne pouvons pas trouver l'élément.",module,Magento_MultipleWishlist
 """%1"" is already present in %2.","""%1"" est déjà présent dans %2.",module,Magento_MultipleWishlist
 "We can't copy ""%1"".","Impossible de copier ""%1"".",module,Magento_MultipleWishlist
-"We can't copy the wish list item.","We can't copy the wish list item.",module,Magento_MultipleWishlist
-"We can't find %1 items.","We can't find %1 items.",module,Magento_MultipleWishlist
-"We can't copy %1 items.","We can't copy %1 items.",module,Magento_MultipleWishlist
+"We can't copy the wish list item.","Nous ne pouvons pas copier l'élément de la liste de souhaits.",module,Magento_MultipleWishlist
+"We can't find %1 items.","Nous ne pouvons pas trouver %1 éléments.",module,Magento_MultipleWishlist
+"We can't copy %1 items.","Nous ne pouvons pas copier %1 éléments.",module,Magento_MultipleWishlist
 "%1 items are already present in %2: %3.","%1 articles sont déjà présents dans %2 : %3.",module,Magento_MultipleWishlist
 "%1 items were copied to %2: %3.","%1 articles ont été copiés vers %2 : %3.",module,Magento_MultipleWishlist
 "The default wish list can't be deleted.","La liste d'achats par défaut ne peut être supprimée.",module,Magento_MultipleWishlist
 "Wish List ""%1"" has been deleted.","La liste d'achats ""%1"" a été supprimée.",module,Magento_MultipleWishlist
-"We can't delete the wish list right now.","We can't delete the wish list right now.",module,Magento_MultipleWishlist
+"We can't delete the wish list right now.","Nous ne pouvons pas supprimer la liste de souhaits en ce moment.",module,Magento_MultipleWishlist
 "Could not create a wish list.","Impossible de créer une liste d'achats.",module,Magento_MultipleWishlist
 """%1"" was moved to %2.","""%1"" a été déplacé(e) vers %2.",module,Magento_MultipleWishlist
-"We can't find an item with this ID.","We can't find an item with this ID.",module,Magento_MultipleWishlist
+"We can't find an item with this ID.","Nous ne pouvons pas trouver d'élément avec cet ID.",module,Magento_MultipleWishlist
 "We cannot move ""%1"".","Impossible de déplacer ""%1"".",module,Magento_MultipleWishlist
-"We can't move the wish list item.","We can't move the wish list item.",module,Magento_MultipleWishlist
+"We can't move the wish list item.","Nous ne pouvons pas déplacer l'élément de liste de souhaits.",module,Magento_MultipleWishlist
 "%1 items cannot be moved: %2.","%1 articles ne peuvent pas être déplacés : %2.",module,Magento_MultipleWishlist
-"We can't move %1 items.","We can't move %1 items.",module,Magento_MultipleWishlist
+"We can't move %1 items.","Nous ne pouvons pas déplacer %1 éléments.",module,Magento_MultipleWishlist
 "%1 items were moved to %2: %3.","%1 articles ont été copiés vers %2 : %3.",module,Magento_MultipleWishlist
 "%1 for ""%2""","%1 pour ""%2""",module,Magento_MultipleWishlist
 "We can't add the item to shopping cart.","Impossible d'ajouter l'article au panier.",module,Magento_MultipleWishlist
@@ -7432,7 +7432,7 @@ Customers,Clients,module,Magento_MultipleWishlist
 "Please enter at least 2 letters of the first name.","Veuillez entrer au moins deux lettres du prénom.",module,Magento_MultipleWishlist
 "Please enter at least 2 letters of the last name.","Veuillez entrer au moins deux lettres du nom de famille.",module,Magento_MultipleWishlist
 "Sign in to edit wish lists.","Connectez-vous pour éditer vos listes d'achats.",module,Magento_MultipleWishlist
-"The wish list is not assigned to your account and can't be edited.","The wish list is not assigned to your account and can't be edited.",module,Magento_MultipleWishlist
+"The wish list is not assigned to your account and can't be edited.","La liste de souhaits n'est pas assignée à votre compte et ne peut pas être modifiée.",module,Magento_MultipleWishlist
 "Provide the wish list name.","Fournir le nom de la liste d'achats.",module,Magento_MultipleWishlist
 "Wish list ""%1"" already exists.","La liste d'achats ""%1"" existe déjà.",module,Magento_MultipleWishlist
 "Only %1 wish list(s) can be created.","Seulement %1 liste(s) d'achats a(ont) pu être créée(s).",module,Magento_MultipleWishlist
@@ -7487,7 +7487,7 @@ Cancel,Annuler,module,Magento_MultipleWishlist
 "We can't create the Wish List right now.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison.",module,Magento_MultipleWishlist
 "Please select items to move.","Sélectionnez des éléments à déplacer.",module,Magento_MultipleWishlist
 "Please select items to copy.","Sélectionnez des éléments à copier.",module,Magento_MultipleWishlist
-"Are you sure you want to delete your wish list? This action can't be undone.","Are you sure you want to delete your wish list? This action can't be undone.",module,Magento_MultipleWishlist
+"Are you sure you want to delete your wish list? This action can't be undone.","Êtes-vous sûr de vouloir supprimer votre liste de souhaits ? Cette action ne peut pas être annulée.",module,Magento_MultipleWishlist
 "Wish Lists","Liste d'achats",module,Magento_MultipleWishlist
 "Enable Multiple Wish Lists","Activer les listes d'achats multiples",module,Magento_MultipleWishlist
 "Number of Multiple Wish Lists","Nombre de listes d'achats multiples",module,Magento_MultipleWishlist
@@ -7529,7 +7529,7 @@ Total,Total,module,Magento_Multishipping
 "Create Shipping Address","Créer une adresse de livraison",module,Magento_Multishipping
 "Data saving problem","Problème lors de la sauvegarde des données",module,Magento_Multishipping
 "We are unable to process your request. Please, try again later.","Nous ne pouvons pas enregistrer votre demande. Veuillez réessayer plus tard.",module,Magento_Multishipping
-"Maximum qty allowed for Shipping to multiple addresses is %1","Maximum qty allowed for Shipping to multiple addresses is %1",module,Magento_Multishipping
+"Maximum qty allowed for Shipping to multiple addresses is %1","La Qté maximale autorisée pour la livraison à plusieurs adresses est de %1",module,Magento_Multishipping
 "We cannot open the overview page.","Impossible d'ouvrir la page de résumé.",module,Magento_Multishipping
 "Please agree to all Terms and Conditions before placing the order.","Veuillez accepter les conditions générales de ventes avant de valider la commande.",module,Magento_Multishipping
 "Order place error","Erreur lors de la création de commande",module,Magento_Multishipping
@@ -7613,7 +7613,7 @@ Error:,"Erreur :",module,Magento_Multishipping
 "For successfully order items, you'll receive a confirmation email including order numbers, tracking information and more details.","Pour les articles commandés avec succès, vous recevrez un email de confirmation, les numéros de commande, des informations de suivi et plus de détails.",module,Magento_Multishipping
 "Successfully ordered","Commande enregistrée",module,Magento_Multishipping
 "Continue Shopping","Continuez vos achats",module,Magento_Multishipping
-"We can't complete your order because you don't have a payment method set up.","We can't complete your order because you don't have a payment method set up.",module,Magento_Multishipping
+"We can't complete your order because you don't have a payment method set up.","Nous ne pouvons pas compléter votre commande car vous n'avez pas de mode de paiement configuré.",module,Magento_Multishipping
 "Please choose a payment method.","Choisissez un moyen de paiement.",module,Magento_Multishipping
 "Multishipping Settings Section","Section de paramètres Multishipping",module,Magento_Multishipping
 "Multishipping Settings","Paramètres multishipping",module,Magento_Multishipping
@@ -8145,7 +8145,7 @@ Subscribers,Abonnés,module,Magento_Newsletter
 "Total of %1 record(s) were deleted.","%1 enregistrement(s) ont été effacés.",module,Magento_Newsletter
 "A total of %1 record(s) were updated.","%1 enregistrement(s) ont été mis à jour.",module,Magento_Newsletter
 "The newsletter template has been deleted.","Le gabarit de newsletter a été supprimé.",module,Magento_Newsletter
-"We can't delete this template right now.","We can't delete this template right now.",module,Magento_Newsletter
+"We can't delete this template right now.","Nous ne pouvons pas supprimer ce modèle en ce moment.",module,Magento_Newsletter
 "Edit Template","Éditer le gabarit",module,Magento_Newsletter
 "New Template","Nouveau gabarit",module,Magento_Newsletter
 "Create Newsletter Template","Créer un nouveau gabarit de newsletter",module,Magento_Newsletter
@@ -8285,7 +8285,7 @@ None,Aucun,module,Magento_OfflineShipping
 "Per Item","Par article",module,Magento_OfflineShipping
 "Unable to import data","Impossible d'importer les données",module,Magento_OfflineShipping
 "Something went wrong while importing table rates.","Une erreur s'est produite lors de l'enregistrement de la tarification.",module,Magento_OfflineShipping
-"We couldn't import this file because of these errors: %1","We couldn't import this file because of these errors: %1",module,Magento_OfflineShipping
+"We couldn't import this file because of these errors: %1","Nous n'avons pas pu importer ce fichier en raison de ces erreurs : %1",module,Magento_OfflineShipping
 "Requested column ""%1"" cannot be resolved","La colonne demandée ""%1"" ne peut être trouvée",module,Magento_OfflineShipping
 "Column ""%1"" not found","Colonne ""%1"" non trouvée",module,Magento_OfflineShipping
 "The Table Rates File Format is incorrect in row number ""%1"". Verify the format and try again.","Le format de fichier de tarification est incorrecte pour la ligne numéro ""%1"". Vérifiez le format et réessayez.",module,Magento_OfflineShipping
@@ -8332,8 +8332,8 @@ Import,Importer,module,Magento_OfflineShipping
 "Varnish Configuration","Configuration Varnish",module,Magento_PageCache
 "Access list","Liste d'accès",module,Magento_PageCache
 "IPs access list separated with ',' that can purge Varnish configuration for config file generation.
-                            If field is empty default value localhost will be saved.","IPs access list separated with ',' that can purge Varnish configuration for config file generation.
-                            If field is empty default value localhost will be saved.",module,Magento_PageCache
+                            If field is empty default value localhost will be saved.","Liste d'accès IPs séparée par ',' qui peut purger la configuration de Varnish pour la génération de fichier de configuration.
+                            Si le champ est vide par défaut, localhost sera sauvegardé.",module,Magento_PageCache
 "Backend host","Hôte de backend",module,Magento_PageCache
 "Specify backend host for config file generation. If field is empty default value localhost will be saved.","Spécifiez l'hôte principal pour la génération du fichier de configuration. Si le champ est vide, la valeur par défaut localhost sera enregistrée.",module,Magento_PageCache
 "Backend port","Port du backend",module,Magento_PageCache
@@ -9188,12 +9188,12 @@ Qty,Qté,module,Magento_QuickOrder
 "Download Sample","Télécharger un exemple",module,Magento_QuickOrder
 "The address failed to save. Verify the address and try again.","L'adresse n'a pas pu être sauvegardée. Vérifiez l'adresse et réessayez.",module,Magento_Quote
 "The ""%1"" Cart doesn't contain products.","Le panier ""%1"" ne contient aucun produit.",module,Magento_Quote
-"Cart isn't assigned to correct store","Cart isn't assigned to correct store",module,Magento_Quote
-"The coupon code couldn't be applied. Verify the coupon code and try again.","The coupon code couldn't be applied. Verify the coupon code and try again.",module,Magento_Quote
-"The coupon code isn't valid. Verify the code and try again.","The coupon code isn't valid. Verify the code and try again.",module,Magento_Quote
-"The coupon code couldn't be deleted. Verify the coupon code and try again.","The coupon code couldn't be deleted. Verify the coupon code and try again.",module,Magento_Quote
-"You don't have the correct permissions to assign the customer to the cart.","You don't have the correct permissions to assign the customer to the cart.",module,Magento_Quote
-"The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Quote
+"Cart isn't assigned to correct store","Le panier n'est pas assigné au bon magasin",module,Magento_Quote
+"The coupon code couldn't be applied. Verify the coupon code and try again.","Le code du coupon n'a pas pu être appliqué. Vérifiez le code du coupon et réessayez.",module,Magento_Quote
+"The coupon code isn't valid. Verify the code and try again.","Le code du coupon n'est pas valide. Vérifiez le code et réessayez.",module,Magento_Quote
+"The coupon code couldn't be deleted. Verify the coupon code and try again.","Le code du coupon n'a pas pu être supprimé. Vérifiez le code du coupon et réessayez.",module,Magento_Quote
+"You don't have the correct permissions to assign the customer to the cart.","Vous ne disposez pas des autorisations appropriées pour affecter le client au panier.",module,Magento_Quote
+"The shipping address is missing. Set the address and try again.","L'adresse de livraison est manquante. Définissez l'adresse et réessayez.",module,Magento_Quote
 "The requested Payment Method is not available.","La méthode demandée de paiement n'est pas disponible.",module,Magento_Quote
 "We found an invalid request for adding product to quote.","Nous avons trouvé une demande non valide pour l'ajout d'un produit à un devis.",module,Magento_Quote
 "Product that you are trying to add is not available.","Le produit que vous essayez d'ajouter n'est pas disponible.",module,Magento_Quote
@@ -9217,38 +9217,38 @@ Subtotal,Sous-total,module,Magento_Quote
 "Some of the selected options are not currently available.","Certaines options sélectionnées ne sont pas disponibles pour le moment.",module,Magento_Quote
 "Selected option(s) or their combination is not currently available.","Les options sélectionnées ou leur combinaison ne sont pas disponibles pour le moment.",module,Magento_Quote
 "Some item options or their combination are not currently available.","Certaines options ou leur combinaison ne sont pas disponibles pour le moment.",module,Magento_Quote
-"The %1 Cart doesn't contain the %2 item.","The %1 Cart doesn't contain the %2 item.",module,Magento_Quote
-"The quote couldn't be saved.","The quote couldn't be saved.",module,Magento_Quote
-"The item couldn't be removed from the quote.","The item couldn't be removed from the quote.",module,Magento_Quote
+"The %1 Cart doesn't contain the %2 item.","Le panier %1 ne contient pas l'article %2.",module,Magento_Quote
+"The quote couldn't be saved.","Le devis n'a pas pu être enregistré.",module,Magento_Quote
+"The item couldn't be removed from the quote.","L'article n'a pas pu être retiré du devis.",module,Magento_Quote
 "The qty value is required to update quote item.","Une quantité est requise pour mettre à jour un article du devis.",module,Magento_Quote
 "Minimum order amount is %1","Le montant minimal de commande est %1",module,Magento_Quote
 "Invalid customer id %1","Identifiant du client %1 non valide",module,Magento_Quote
 "Invalid address id %1","Identifiant de l'adresse %1 non valide",module,Magento_Quote
 "Invalid customer address id %1","Identifiant de l'adresse client %1 non valide",module,Magento_Quote
-"The quote can't be created.","The quote can't be created.",module,Magento_Quote
-"The customer can't be assigned to the cart. The cart belongs to a different store.","The customer can't be assigned to the cart. The cart belongs to a different store.",module,Magento_Quote
-"The customer can't be assigned to the cart because the cart isn't anonymous.","The customer can't be assigned to the cart because the cart isn't anonymous.",module,Magento_Quote
-"The customer can't be assigned to the cart because the customer already has an active cart.","The customer can't be assigned to the cart because the customer already has an active cart.",module,Magento_Quote
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Quote
+"The quote can't be created.","Le devis ne peut pas être créé.",module,Magento_Quote
+"The customer can't be assigned to the cart. The cart belongs to a different store.","Le client ne peut pas être affecté au panier. Le panier appartient à un magasin différent.",module,Magento_Quote
+"The customer can't be assigned to the cart because the cart isn't anonymous.","Le client ne peut pas être affecté au panier car celui-ci n'est pas anonyme.",module,Magento_Quote
+"The customer can't be assigned to the cart because the customer already has an active cart.","Le client ne peut pas être affecté au panier car il a déjà un panier actif.",module,Magento_Quote
+"A server error stopped your order from being placed. Please try to place your order again.","Une erreur informatique a empêché votre commande d'être finalisée. Merci de bien vouloir recommencer.",module,Magento_Quote
 "Invalid state change requested","Changement d'état demandé non valide",module,Magento_Quote
 "Only 1 shipping assignment can be set","Une seule affectation d'expédition peut être définie",module,Magento_Quote
 "This item price or quantity is not valid for checkout.","Le prix ou la quantité de l'article n'est pas valide pour le paiement.",module,Magento_Quote
-"Something went wrong. Please try to place the order again.","Something went wrong. Please try to place the order again.",module,Magento_Quote
+"Something went wrong. Please try to place the order again.","Quelque chose s'est mal passé. Essayez de passer commande une nouvelle fois.",module,Magento_Quote
 "Store Credit","Crédit magasin",module,Magento_Quote
 Discount,Remise,module,Magento_Quote
 Tax,TVA,module,Magento_Quote
-"The Cart includes virtual product(s) only, so a shipping address is not used.","The Cart includes virtual product(s) only, so a shipping address is not used.",module,Magento_Quote
-"The shipping method can't be set. %1","The shipping method can't be set. %1",module,Magento_Quote
-"The shipping method can't be set for an empty cart. Add an item to cart and try again.","The shipping method can't be set for an empty cart. Add an item to cart and try again.",module,Magento_Quote
-"Current customer does not have an active cart.","Current customer does not have an active cart.",module,Magento_Quote
+"The Cart includes virtual product(s) only, so a shipping address is not used.","Le panier contient uniquement un ou plusieurs produits virtuels. Par conséquent, aucune adresse d'expédition n'est utilisée.",module,Magento_Quote
+"The shipping method can't be set. %1","Le mode de livraison ne peut pas être défini. %1",module,Magento_Quote
+"The shipping method can't be set for an empty cart. Add an item to cart and try again.","Le mode de livraison ne peut pas être défini pour un panier vide. Ajoutez un article et réessayez.",module,Magento_Quote
+"Current customer does not have an active cart.","Le client courant n'a pas de panier actif.",module,Magento_Quote
 error345,"erreur 345",module,Magento_Quote
 Carts,Paniers,module,Magento_Quote
 "Manage carts","Gérer les paniers",module,Magento_Quote
-"Some addresses can't be used due to the configurations for specific countries.","Some addresses can't be used due to the configurations for specific countries.",module,Magento_Quote
-"Please check the shipping address information.","Please check the shipping address information.",module,Magento_Quote
-"The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again.",module,Magento_Quote
-"Please check the billing address information.","Please check the billing address information.",module,Magento_Quote
-"Enter a valid payment method and try again.","Enter a valid payment method and try again.",module,Magento_Quote
+"Some addresses can't be used due to the configurations for specific countries.","Certaines adresses ne peuvent être utilisées à cause des configurations pour des pays spécifiques.",module,Magento_Quote
+"Please check the shipping address information.","Vérifiez les informations de l'adresse de livraison.",module,Magento_Quote
+"The shipping method is missing. Select the shipping method and try again.","Le mode de livraison manque. Choisissez un mode de livraison et réessayez.",module,Magento_Quote
+"Please check the billing address information.","Vérifiez les informations de l'adresse de facturation.",module,Magento_Quote
+"Enter a valid payment method and try again.","Entrez un mode de paiement valide et réessayez.",module,Magento_Quote
 "Shopping cart error: %message","Erreur dans le panier : %message",module,Magento_QuoteGraphQl
 "Could not find a product with SKU ""%sku""","Impossible de trouver un produit portant la REF ""%sku""",module,Magento_QuoteGraphQl
 "Missing key ""sku"" in cart item data","Clé REF manquante dans les données article du panier",module,Magento_QuoteGraphQl
@@ -9368,7 +9368,7 @@ for,pour,module,Magento_Reminder
 subtotal,sous-total,module,Magento_Reminder
 "grand total","montant global",module,Magento_Reminder
 "Shopping cart %1 amount %2 %3:","Panier de commande %1 montant de %2 %3 :",module,Magento_Reminder
-"The quote total specified is unknown. Verify the total and try again.","The quote total specified is unknown. Verify the total and try again.",module,Magento_Reminder
+"The quote total specified is unknown. Verify the total and try again.","Le devis total spécifié est inconnu. Vérifiez le total et réessayez.",module,Magento_Reminder
 "Numeric Attribute","Attribut numérique",module,Magento_Reminder
 weight,poids,module,Magento_Reminder
 "row weight","poids de ligne",module,Magento_Reminder
@@ -9376,7 +9376,7 @@ quantity,quantité,module,Magento_Reminder
 "base price","prix de base",module,Magento_Reminder
 "base cost","coût de base",module,Magento_Reminder
 "Item %1 %2 %3:","Article %1 %2 %3 :",module,Magento_Reminder
-"The attribute specified is unknown. Verify the attribute and try again.","The attribute specified is unknown. Verify the attribute and try again.",module,Magento_Reminder
+"The attribute specified is unknown. Verify the attribute and try again.","Attribut spécifié non reconnu. Vérifiez l’attribut, puis réessayez.",module,Magento_Reminder
 "Items Subselection","Éléments de sous-sélection",module,Magento_Reminder
 "Coupon Code","Code offre spéciale",module,Magento_Reminder
 "Shopping cart %1 a coupon applied","Panier %1 avec coupon appliqué",module,Magento_Reminder
@@ -9412,8 +9412,8 @@ is,est,module,Magento_Reminder
 "The item was added to wish list %1, store view %2.","L’élément a été ajouté à la liste de souhaits %1, vue magasin %2.",module,Magento_Reminder
 "If an item is %1 in the wish list and %2 of these conditions match:","Si un élément est %1 dans la liste d'achats et %2 de ces conditions correspondent :",module,Magento_Reminder
 "Condition type is unexpected","Condition type est inattendu",module,Magento_Reminder
-"The valid number of minutes needs to be entered. Enter and try again.","The valid number of minutes needs to be entered. Enter and try again.",module,Magento_Reminder
-"The Cron expression was unable to be saved.","The Cron expression was unable to be saved.",module,Magento_Reminder
+"The valid number of minutes needs to be entered. Enter and try again.","Un nombre valide de minutes doit être entré. Entrez-le et essayez à nouveau.",module,Magento_Reminder
+"The Cron expression was unable to be saved.","L’expression de Cron n’a pu être sauvé.",module,Magento_Reminder
 "<b>Important</b>: If you select ""Use Auto Generation"", this rule will no longer be used in any automated email reminder rules for abandoned carts","<b>important</b>: Si vous sélectionnez ""Utilisation Auto génération"", cette règle ne sera plus utilisée dans aucun rappel automatique par email pour paniers abandonnés",module,Magento_Reminder
 "Validate error 1","Valider erreur 1",module,Magento_Reminder
 "Validate error 2","Valider erreur 2",module,Magento_Reminder
@@ -9549,7 +9549,7 @@ Name,Nom,module,Magento_Reports
 "Times Deleted","Nombre de fois supprimés",module,Magento_Reports
 "Index type is not valid","Type d’index n’est pas valide",module,Magento_Reports
 Reports,Rapports,module,Magento_Reports
-"Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""#2"" data-post=""%3"">here</a>.","Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""#2"" data-post=""%3"">here</a>.",module,Magento_Reports
+"Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""#2"" data-post=""%3"">here</a>.","Dernière mise à jour : %1. Pour rafraîchir les <a href=""%2"">statistiques</a>. du dernier jour, cliquez <a href=""#2"" data-post=""%3"">ici</a>.",module,Magento_Reports
 "New Accounts Report","Rapport sur les nouveaux comptes",module,Magento_Reports
 "Customers by Number of Orders","Clients par nombre de commandes",module,Magento_Reports
 "Order Count Report","Rapport du nombre de commandes",module,Magento_Reports
@@ -9588,7 +9588,7 @@ Statistics,Statistiques,module,Magento_Reports
 "We can't refresh lifetime statistics.","Impossible de mettre à jour les statistiques depuis l'ouverture de la boutique.",module,Magento_Reports
 "Recent statistics have been updated.","Les statistiques récentes ont été mise à jour.",module,Magento_Reports
 "We can't refresh recent statistics.","We can't refresh recent statistics.",module,Magento_Reports
-"System configuration is not found for report event type ""%1""","System configuration is not found for report event type ""%1""",module,Magento_Reports
+"System configuration is not found for report event type ""%1""","Configuration du système n’est pas trouvé pour le type d’événement de rapport ""%1""",module,Magento_Reports
 "The product type filter specified is incorrect.","Le filtre type de produit spécifié est incorrect.",module,Magento_Reports
 "Order Taxes Report Grouped by Tax Rates","Rapport de taxes de commande groupés par taux d'imposition",module,Magento_Reports
 "Total Invoiced VS Paid Report","Rapport du facturé en fonction du payé",module,Magento_Reports
@@ -9633,21 +9633,21 @@ Dashboard,"Tableau de bord",module,Magento_Reports
 "Year-To-Date Starts","L'année en cours commence le",module,Magento_Reports
 "Current Month Starts","Le mois en cours commence le",module,Magento_Reports
 "Select day of the month.","Choisissez le jour du mois.",module,Magento_Reports
-"General Options","General Options",module,Magento_Reports
-"Enable Reports","Enable Reports",module,Magento_Reports
-"If disabled, all report events will be disabled","If disabled, all report events will be disabled",module,Magento_Reports
-"Enable ""Product View"" Report","Enable ""Product View"" Report",module,Magento_Reports
-"If enabled, will collect statistic of viewed product pages","If enabled, will collect statistic of viewed product pages",module,Magento_Reports
-"Enable ""Send Product Link To Friend"" Report","Enable ""Send Product Link To Friend"" Report",module,Magento_Reports
-"If enabled, will collect statistic of product links sent to friend","If enabled, will collect statistic of product links sent to friend",module,Magento_Reports
-"Enable ""Add Product To Compare List"" Report","Enable ""Add Product To Compare List"" Report",module,Magento_Reports
-"If enabled, will collect statistic of products added to Compare List","If enabled, will collect statistic of products added to Compare List",module,Magento_Reports
-"Enable ""Product Added To Cart"" Report","Enable ""Product Added To Cart"" Report",module,Magento_Reports
-"If enabled, will collect statistic of products added to Cart","If enabled, will collect statistic of products added to Cart",module,Magento_Reports
-"Enable ""Product Added To WishList"" Report","Enable ""Product Added To WishList"" Report",module,Magento_Reports
-"If enabled, will collect statistic of products added to WishList","If enabled, will collect statistic of products added to WishList",module,Magento_Reports
-"Enable ""Share WishList"" Report","Enable ""Share WishList"" Report",module,Magento_Reports
-"If enabled, will collect statistic of shared WishLists","If enabled, will collect statistic of shared WishLists",module,Magento_Reports
+"General Options","Options générales",module,Magento_Reports
+"Enable Reports","Activer les rapports",module,Magento_Reports
+"If disabled, all report events will be disabled","Si désactivé, tous les événements de rapport seront désactivés",module,Magento_Reports
+"Enable ""Product View"" Report","Activer le rapport « Produits vus »",module,Magento_Reports
+"If enabled, will collect statistic of viewed product pages","Si activé, permettra de recueillir les statistiques des pages produits consultés",module,Magento_Reports
+"Enable ""Send Product Link To Friend"" Report","Activer le rapport de « Envoyer le lien du produit à un ami »",module,Magento_Reports
+"If enabled, will collect statistic of product links sent to friend","Si activé, permettra de recueillir les statistiques des liens produits envoyés à un ami",module,Magento_Reports
+"Enable ""Add Product To Compare List"" Report","Activer le rapport « Ajouter un produit à la liste de comparaison »",module,Magento_Reports
+"If enabled, will collect statistic of products added to Compare List","Si activé, permettra de recueillir les statistiques de produits qui sont ajoutés à la liste de comparaison",module,Magento_Reports
+"Enable ""Product Added To Cart"" Report","Activer le rapport « Produits ajoutés au panier »",module,Magento_Reports
+"If enabled, will collect statistic of products added to Cart","Si activé, permettra de recueillir les statistiques de produits qui sont ajoutés aux paniers",module,Magento_Reports
+"Enable ""Product Added To WishList"" Report","Activer le rapport « Produits ajoutés à votre liste cadeaux »",module,Magento_Reports
+"If enabled, will collect statistic of products added to WishList","Si activé, permettra de recueillir les statistiques de produits qui sont ajoutés à la liste de courses",module,Magento_Reports
+"Enable ""Share WishList"" Report","Activer le rapport « Partager votre liste de courses »",module,Magento_Reports
+"If enabled, will collect statistic of shared WishLists","Si activé, permettra de recueillir les statistiques des listes de courses partagées",module,Magento_Reports
 Average,Moyen,module,Magento_Reports
 "Stock Quantity","Quantité en stock",module,Magento_Reports
 "Ordered Quantity","Quantité commandée",module,Magento_Reports
@@ -9846,7 +9846,7 @@ Ratings,Notations,module,Magento_Review
 "My Product Reviews","Mes commentaires",module,Magento_Review
 "You submitted your review for moderation.","Votre évaluation est enrégistrée avec succès. Merci.",module,Magento_Review
 "We can't post your review right now.","We can't post your review right now.",module,Magento_Review
-"The storage key wasn't set. Add the storage key and try again.","The storage key wasn't set. Add the storage key and try again.",module,Magento_Review
+"The storage key wasn't set. Add the storage key and try again.","La clé de stockage n'est pas paramétrée. Ajoutez la clé de stockage et ré-essayez.",module,Magento_Review
 Approved,Approuvé,module,Magento_Review
 Pending,"En attente",module,Magento_Review
 "Not Approved","Non approuvé",module,Magento_Review
@@ -9891,7 +9891,7 @@ Summary,Résumé,module,Magento_Review
 "Please select one of each of the ratings above.","Sélectionnez une notation de chaque parmi les suivantes.",module,Magento_Review
 "By Customers","Par clients",module,Magento_Review
 "By Products","Par produits",module,Magento_Review
-Enabled,Enabled,module,Magento_Review
+Enabled,Activé,module,Magento_Review
 "Allow Guests to Write Reviews","Autoriser les invités à écrire des commentaires",module,Magento_Review
 Active,Actif,module,Magento_Review
 Inactive,Inactif,module,Magento_Review
@@ -9969,7 +9969,7 @@ Customers,Clients,module,Magento_Reward
 "Earned promotion extra points from order #%1","Points supplémentaires gagnés sur la commande #%1",module,Magento_Reward
 "%1 store reward points available (%2)","%1 points fidélité disponibles (%2)",module,Magento_Reward
 "%1 store reward points available","%1 points fidélité disponibles",module,Magento_Reward
-"Sign in now and earn %1 for this order.","Sign in now and earn %1 for this order.",module,Magento_Reward
+"Sign in now and earn %1 for this order.","Commandez maintenant et gagnez %1 pour cette commande.",module,Magento_Reward
 "%1 was deducted because of refund.","%1 a été réduit à cause du remboursement.",module,Magento_Reward
 "The action ID you enter must be a number.","L'ID de l'action que vous avez entré doit être un nombre.",module,Magento_Reward
 "You don't have enough reward points to pay for this purchase.","You don't have enough reward points to pay for this purchase.",module,Magento_Reward
@@ -9981,8 +9981,8 @@ Dynamic,Dynamique,module,Magento_Reward
 Each,Chaque,module,Magento_Reward
 First,Premier,module,Magento_Reward
 "All Websites","Tous les sites web",module,Magento_Reward
-"The ""Minimum Reward Points Balance"" is invalid. The balance needs to be a positive number or left empty. Verify and try again.","The ""Minimum Reward Points Balance"" is invalid. The balance needs to be a positive number or left empty. Verify and try again.",module,Magento_Reward
-"The ""Cap Reward Points Balance"" is invalid. The balance needs to be a positive number or left empty. Verify and try again.","The ""Cap Reward Points Balance"" is invalid. The balance needs to be a positive number or left empty. Verify and try again.",module,Magento_Reward
+"The ""Minimum Reward Points Balance"" is invalid. The balance needs to be a positive number or left empty. Verify and try again.","Le ""Solde de Points de Récompense minimum"" est invalide. Le solde doit être un nombre positif ou laissé vide. Vérifiez et réessayez.",module,Magento_Reward
+"The ""Cap Reward Points Balance"" is invalid. The balance needs to be a positive number or left empty. Verify and try again.","Le ""Solde de Points de Récompense minimum"" est invalide. Le solde doit être un nombre positif ou laissé vide. Vérifiez et réessayez.",module,Magento_Reward
 "The ""Minimum Reward Points Balance"" is invalid. The balance needs to be less than or equal to the ""Cap Reward Points Balance"".","Le solde de points de récompense minimum est invalide. Le solde doit être inférieur ou égal au solde de points de récompense de Cap.",module,Magento_Reward
 "Customer earned promotion extra %1.","Le client a gagné des extras %1.",module,Magento_Reward
 "The customer earned %1 for this order.","Le client a gagné %1 pour cette commande.",module,Magento_Reward
@@ -12704,10 +12704,10 @@ Message,Message,module,Magento_Support
 "Is Default","Est par défaut",module,Magento_Support
 "Default Store","Magasin par défaut",module,Magento_Support
 "Websites Tree","Websites Tree",module,Magento_Support
-"There was an error while loading system report data.","There was an error while loading system report data.",module,Magento_Support
+"There was an error while loading system report data.","Il y a eu une erreur lors du chargement des données du rapport système.",module,Magento_Support
 General,Général,module,Magento_Support
-Environment,Environment,module,Magento_Support
-"Cannot save backup. The reason is: Utility lsof not found","Cannot save backup. The reason is: Utility lsof not found",module,Magento_Support
+Environment,Environnement,module,Magento_Support
+"Cannot save backup. The reason is: Utility lsof not found","Impossible d'enregistrer la sauvegarde. La raison est : l'utilitaire lsof n'a pas été trouvé",module,Magento_Support
 "Test error","Test error",module,Magento_Support
 "Error message!","Error message!",module,Magento_Support
 "User Defined","Défini par l'utilisateur",module,Magento_Support
@@ -12813,7 +12813,7 @@ To,À,module,Magento_TargetRule
 "Result Limit","Limite de résultat",module,Magento_TargetRule
 "Maximum number of products this rule can apply to (up to 20).","Nombre maximum de produits que cette règle peut demander (jusqu'à 20).",module,Magento_TargetRule
 "Product Rule Information","Information de règle produits",module,Magento_TargetRule
-"The Catalog Product List Type needs to be defined. Verify the type and try again.","The Catalog Product List Type needs to be defined. Verify the type and try again.",module,Magento_TargetRule
+"The Catalog Product List Type needs to be defined. Verify the type and try again.","Le type de liste de produits du catalogue doit être défini. Vérifiez le type et réessayez.",module,Magento_TargetRule
 "You deleted the rule.","Vous avez supprimé la règle.",module,Magento_TargetRule
 "We can't find a page to delete.","Impossible de trouver une page à supprimer.",module,Magento_TargetRule
 "This rule no longer exists.","Cette règle n'existe plus.",module,Magento_TargetRule
@@ -12847,7 +12847,7 @@ less,moins,module,Magento_TargetRule
 "Related Products","Produits associés",module,Magento_TargetRule
 Up-sells,"Ventes incitatives",module,Magento_TargetRule
 Cross-sells,"Ventes croisées",module,Magento_TargetRule
-"The attribute's model class name is invalid. Verify the name and try again.","The attribute's model class name is invalid. Verify the name and try again.",module,Magento_TargetRule
+"The attribute's model class name is invalid. Verify the name and try again.","Le nom d'attribut ""%1"" est non valide. Changez-le et réessayez.",module,Magento_TargetRule
 "This attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_), and be sure the code begins with a letter.","Ce code d’attribut n’est pas valide. Veuillez utiliser seulement les lettres (a-z), chiffres (0-9) ou traits de soulignement (_) et n’oubliez pas que le code commence par une lettre.",module,Magento_TargetRule
 "Product Attributes","Attributs de produit",module,Magento_TargetRule
 "Both Selected and Rule-Based","En même temps sélectionné et basé sur des règles",module,Magento_TargetRule
@@ -12954,10 +12954,10 @@ Tax,TVA,module,Magento_Tax
 "Invalid name of tax class specified.","Nom non valide de la catégorie de taxe spécifié.",module,Magento_Tax
 "We can't delete this tax class right now.","We can't delete this tax class right now.",module,Magento_Tax
 "We can't save this tax class right now.","We can't save this tax class right now.",module,Magento_Tax
-"The required information is invalid. Verify the information and try again.","The required information is invalid. Verify the information and try again.",module,Magento_Tax
-"The Rate Percent is invalid. Enter a positive number and try again.","The Rate Percent is invalid. Enter a positive number and try again.",module,Magento_Tax
-"The ZIP Code length is invalid. Verify that the length is nine characters or fewer and try again.","The ZIP Code length is invalid. Verify that the length is nine characters or fewer and try again.",module,Magento_Tax
-"The ZIP Code is invalid. Use numbers only.","The ZIP Code is invalid. Use numbers only.",module,Magento_Tax
+"The required information is invalid. Verify the information and try again.","Les informations de l’échantillon ne sont pas valides. Vérifiez les informations et réessayez.",module,Magento_Tax
+"The Rate Percent is invalid. Enter a positive number and try again.","Le pourcentage de taux est invalide. Entrez un nombre positif et réessayez.",module,Magento_Tax
+"The ZIP Code length is invalid. Verify that the length is nine characters or fewer and try again.","La longueur du code ZIP est invalide. Vérifiez que la longueur est de neuf caractères ou moins et réessayez.",module,Magento_Tax
+"The ZIP Code is invalid. Use numbers only.","Le code ZIP est invalide. Utilisez uniquement des numéros.",module,Magento_Tax
 "Range To should be equal or greater than Range From.","La ""tranche jusqu'à"" doit être supérieure ou égale à la ""tranche à partir de"".",module,Magento_Tax
 "The tax rate can't be removed because it exists in a tax rule.","Le taux de taxe ne peut pas être enlevé. Il est utilisé dans une règle de taxe.",module,Magento_Tax
 """%fieldName"" is required. Enter and try again.","""%fieldName"" est requis. Entrez une valeur et réessayez.",module,Magento_Tax
