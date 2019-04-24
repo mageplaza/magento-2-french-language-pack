@@ -117,11 +117,13 @@ To download and install French pack manually, you have to access to your server 
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/fr_fr/fr_FR.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/fr_fr/`
 
-See this screenshot
+See this screenshot:
 
 ![French pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **fr_fr**
 
 #### Step 2: Flush cache
 
