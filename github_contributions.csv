@@ -344,10 +344,10 @@
 "ACH Deposit (Reversal)","Dépôt d’ACH (inversion)"
 "ACH Funding for Funds Recovery from Account Balance","Placement d’ACH pour le rétablissement de fonds de l’équilibre de compte"
 "ACH Withdrawal","Retrait d’ACH"
-ALL,TOUS
+ALL,TOUTES
 "ALL GROUPS","TOUS LES GROUPES"
 AM,AM
-ANY,TOUT
+ANY,UNE OU PLUSIEURS DE
 "A PDF object is not specified.","L’objet PDF n’est pas spécifié."
 "A PDF page object is not specified.","La page PDF n’est pas spécifiée."
 API,API
@@ -3137,7 +3137,7 @@ Identifier,Identifiant
 "Id is required","ID obligatoire"
 "Id required","ID obligatoire"
 "If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:","Si %1 %2 %3 pour une sous-sélection d’articles dans le panier répondant à %4 ces conditions :"
-"If %1 of these conditions are %2:","Si %1 de ces conditions sont %2 :"
+"If %1 of these conditions are %2:","Si %1 ces conditions sont %2 :"
 "If 0 is specified, CAPTCHA on the Login form will be always available.","Si 0 est choisi, le CAPTCHA sera toujours disponible dans le formulaire de connexion."
 "If an item is %1 in the cart with %2 of these conditions true:","Si un article est %1 panier et qu’il répond à %2 ces conditions :"
 "If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","Si la position actuelle de la trame ne couvre pas les pages les plus importantes, elle rend le lien à la position actuelle plus / moins cette valeur."
@@ -6545,7 +6545,7 @@ Text,Texte
 "The JS file must be less than %1M.","La taille du fichier JS doit être inférieure à %1Mo."
 "The JavaScript/CSS cache has been cleaned.","Le cache javascript/CSS a été nettoyé."
 "The Magento cache storage has been flushed.","Le cache Magento a été purgé."
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","L’intégration New Relic nécessite newrelic-php5, qui ne semble pas installé. Plus d’informations sur l’<a target=""_blank"" href=""%1"">installation de newrelic-php5</a>."
 "The Order State ""%1"" must not be set manually.","L’état de la commande ""%1"" ne peut être modifié manuellement."
 "The Order Updated Date report is displayed in real-time, and does not need to be refreshed.","Le rapport de mise à jour commande est affiché en temps réel et n’a pas besoin d’être rafraîchi."
