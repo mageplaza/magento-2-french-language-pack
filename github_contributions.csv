@@ -10284,3 +10284,10 @@ PENDING,Pending
 CANCELED,Canceled
 IN_REVIEW,"In review"
 "System Messages","Messages système"
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Il existe déjà un compte avec cette adresse email. Si vous êtes sûr que c'est votre adresse email, <a href=""%1"">cliquez ici</a> pour obtenir votre mot de passe et accédez à votre compte.",module,Magento_Customer
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","La longueur minimale de ce champ doit être égale ou supérieure à %1 symboles. Des espaces de début et de fin seront ignorées.",module,Magento_Ui
+If you have a VAT number make sure to enter it before your next purchase.,Si vous avez un numéro de TVA assurez-vous de le renseigner avant votre prochain achat.,,,,,,
+"In case no VAT number is provided, your purchase will include full taxes.","Dans le cas où aucun numéro de TVA n'est fourni, nous appliquerons un calcul de taxes grand public.",,,,,,
+Ask Seller,Question au vendeur,,,,,,
+Ask a question or request a quote,Pose une question ou demande un devis,,,,,,
+Summary of Your Review,Objet,,,,,,
