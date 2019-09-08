@@ -4,7 +4,7 @@ In this free topic, **Magento 2 French Language Pack** is referred to give you t
 
 Read more [Magento 2 French Language Pack](https://www.mageplaza.com/magento-2-french-language-pack.html)
 
-![Mageplaza French language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza French language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
