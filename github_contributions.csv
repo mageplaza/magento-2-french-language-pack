@@ -10284,3 +10284,5 @@ PENDING,Pending
 CANCELED,Canceled
 IN_REVIEW,"In review"
 "System Messages","Messages système"
+"Action Log","Registre des actions",module,Magento_Logging
+"Action Log","Registre des actions",module,Magento_AsynchronousOperations
