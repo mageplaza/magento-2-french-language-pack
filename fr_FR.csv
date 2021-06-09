@@ -360,7 +360,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 ", %1 successfully updated","%1 mis à jour avec succès",module,Magento_AsynchronousOperations
 ", %1 failed to update",", %1 des éléments n'ont pas pu être mis à jour",module,Magento_AsynchronousOperations
 "Something went wrong.","Un problème est survenu.",module,Magento_AsynchronousOperations
-"Action Log","Registre d'actions",module,Magento_AsynchronousOperations
+"Action Log","Registre d&apos;actions",module,Magento_AsynchronousOperations
 "Report","Rapport",module,Magento_AsynchronousOperations
 "Bulk Actions","Actions en masse",module,Magento_AsynchronousOperations
 "Action Logs","Logs d'actions",module,Magento_AsynchronousOperations
@@ -8023,7 +8023,7 @@ il n'affectera pas le filtre de prix.",module,Magento_LayeredNavigation
 "Error Message","Message d'erreur",module,Magento_Logging
 "Related Changes","Changements connexes",module,Magento_Logging
 "Logging","Journalisation",module,Magento_Logging
-"Action Log","Registre d'actions",module,Magento_Logging
+"Action Log","Registre d&apos;actions",module,Magento_Logging
 "Archive","Archive",module,Magento_Logging
 "Action Logs","Logs d'actions",module,Magento_Logging
 "Admin Actions Log Archiving","Archivage du log des actions de l'administrateur",module,Magento_Logging
