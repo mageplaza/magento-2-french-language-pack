@@ -15132,55 +15132,55 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","La transaction a été annulée",module,Magento_Worldpay
 "Transaction has been declined","La transaction a été refusée",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","Le type de réponse est incorrect. Vérifiez le type et réessayez.",module,Magento_Worldpay
-"My Account","Mon Compte",theme,frontend\Magento\blank
-"Now Shopping by","Sélection actuelle",theme,frontend\Magento\luma
-"Previous","Précédent",theme,frontend\Magento\luma
-"Remove","Supprimer",theme,frontend\Magento\luma
-"Remove This Item","Retirer cet élément",theme,frontend\Magento\luma
-"Shop By","Filtrer par",theme,frontend\Magento\luma
-"Clear All","Tout supprimer",theme,frontend\Magento\luma
-"Shopping Options","Affiner la recherche",theme,frontend\Magento\luma
-"Welcome to %store_name","Bienvenue sur %store_name",theme,frontend\Magento\luma
-"%name,","%name,",theme,frontend\Magento\luma
-"Welcome to %store_name.","Bienvenue sur %store_name.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pour vous connecter à notre site, utiliser ces informations d'identification lors de votre commande ou sur la page <a href=""%customer_url""> Mon compte</a> :",theme,frontend\Magento\luma
-"Email:","Email :",theme,frontend\Magento\luma
-"Password:","Mot de passe :",theme,frontend\Magento\luma
-"Password you set when creating account","Mot de passe défini lors de la création de compte",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Mot de passe oublié ? Cliquez <a href=""%reset_url""> ici</a> pour le réinitialiser.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","Lorsque vous vous connecterez à votre compte, vous serez en mesure de :",theme,frontend\Magento\luma
-"Quick Checkout","Commande rapide",theme,frontend\Magento\luma
-"Proceed through checkout faster","Effectuer votre commande plus rapidement",theme,frontend\Magento\luma
-"Order Status","Statuts de commande",theme,frontend\Magento\luma
-"Check the status of orders","Suivre le statut de vos commandes",theme,frontend\Magento\luma
-"Manage Addresses","Gérer les adresses",theme,frontend\Magento\luma
-"Store alternative addresses","Mémoriser plusieurs adresses",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","Pour l'expédition à plusieurs destinataires",theme,frontend\Magento\luma
-"Order History","Historique des commandes",theme,frontend\Magento\luma
-"View past orders","Voir votre historique de commandes",theme,frontend\Magento\luma
-"Footer","Pied de page",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","Avoir pour votre commande sur %store_name",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","Merci pour votre commande chez %store_name.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Vous pouvez vérifier l'état de votre commande en <a href=""%account_url""> vous connectant à votre compte</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Si vous avez des questions concernant votre commande, vous pouvez nous envoyer un email à <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Votre avoir #%creditmemo_id pour la commande #%order_id",theme,frontend\Magento\luma
-"Billing Info","Informations de facturation",theme,frontend\Magento\luma
-"Payment Method","Mode de paiement",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","Mise à jour de votre avoir sur %store_name",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Votre commande #%increment_id a été mise à jour avec le statut <strong>%order_status</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","Facture pour votre commande sur %store_name",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","Votre facture #%invoice_id pour la commande #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","Mise à jour de votre facture sur %store_name",theme,frontend\Magento\luma
-"Your %store_name order confirmation","Confirmation de votre commande sur %store_name",theme,frontend\Magento\luma
-"%customer_name,","%customer_name,",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","Dès que votre colis sera expédié, nous vous enverrons un numéro de suivi.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Votre commande <span class=""no-link""> #%increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","Effectuée le <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","Mise à jour de votre commande sur %store_name",theme,frontend\Magento\luma
-"Your %store_name order has shipped","Votre commande sur %store_name a été expédiée",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","La confirmation de votre expédition se trouve ci-dessous. Merci encore pour votre commande.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","Votre expédition #%shipment_id pour la commande #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name shipment","Mise à jour de votre expédition sur %store_name",theme,frontend\Magento\luma
+"My Account","Mon Compte",theme,frontend/Magento/blank
+"Now Shopping by","Sélection actuelle",theme,frontend/Magento/luma
+"Previous","Précédent",theme,frontend/Magento/luma
+"Remove","Supprimer",theme,frontend/Magento/luma
+"Remove This Item","Retirer cet élément",theme,frontend/Magento/luma
+"Shop By","Filtrer par",theme,frontend/Magento/luma
+"Clear All","Tout supprimer",theme,frontend/Magento/luma
+"Shopping Options","Affiner la recherche",theme,frontend/Magento/luma
+"Welcome to %store_name","Bienvenue sur %store_name",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
+"Welcome to %store_name.","Bienvenue sur %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pour vous connecter à notre site, utiliser ces informations d'identification lors de votre commande ou sur la page <a href=""%customer_url""> Mon compte</a> :",theme,frontend/Magento/luma
+"Email:","Email :",theme,frontend/Magento/luma
+"Password:","Mot de passe :",theme,frontend/Magento/luma
+"Password you set when creating account","Mot de passe défini lors de la création de compte",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Mot de passe oublié ? Cliquez <a href=""%reset_url""> ici</a> pour le réinitialiser.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","Lorsque vous vous connecterez à votre compte, vous serez en mesure de :",theme,frontend/Magento/luma
+"Quick Checkout","Commande rapide",theme,frontend/Magento/luma
+"Proceed through checkout faster","Effectuer votre commande plus rapidement",theme,frontend/Magento/luma
+"Order Status","Statuts de commande",theme,frontend/Magento/luma
+"Check the status of orders","Suivre le statut de vos commandes",theme,frontend/Magento/luma
+"Manage Addresses","Gérer les adresses",theme,frontend/Magento/luma
+"Store alternative addresses","Mémoriser plusieurs adresses",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","Pour l'expédition à plusieurs destinataires",theme,frontend/Magento/luma
+"Order History","Historique des commandes",theme,frontend/Magento/luma
+"View past orders","Voir votre historique de commandes",theme,frontend/Magento/luma
+"Footer","Pied de page",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Avoir pour votre commande sur %store_name",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Merci pour votre commande chez %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Vous pouvez vérifier l'état de votre commande en <a href=""%account_url""> vous connectant à votre compte</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Si vous avez des questions concernant votre commande, vous pouvez nous envoyer un email à <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Votre avoir #%creditmemo_id pour la commande #%order_id",theme,frontend/Magento/luma
+"Billing Info","Informations de facturation",theme,frontend/Magento/luma
+"Payment Method","Mode de paiement",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Mise à jour de votre avoir sur %store_name",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Votre commande #%increment_id a été mise à jour avec le statut <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Facture pour votre commande sur %store_name",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Votre facture #%invoice_id pour la commande #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Mise à jour de votre facture sur %store_name",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Confirmation de votre commande sur %store_name",theme,frontend/Magento/luma
+"%customer_name,","%customer_name,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Dès que votre colis sera expédié, nous vous enverrons un numéro de suivi.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Votre commande <span class=""no-link""> #%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Effectuée le <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Mise à jour de votre commande sur %store_name",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Votre commande sur %store_name a été expédiée",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","La confirmation de votre expédition se trouve ci-dessous. Merci encore pour votre commande.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Votre expédition #%shipment_id pour la commande #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Mise à jour de votre expédition sur %store_name",theme,frontend/Magento/luma
 "Details","Détails",lib,web
 "Warning: No message defined for %s","Avertissement : Aucun message défini pour %s",lib,web
 "Backup options","Options de sauvegarde",lib,web
