@@ -10285,3 +10285,4 @@ CANCELED,Canceled
 IN_REVIEW,"In review"
 "System Messages","Messages système"
 "Attachment","Pièce(s) jointe(s)"
+"Path ""%value%"" may not include parent directory traversal (""../"", ""..\"").","Le chemin ""%value%"" ne peut inclure le répertoire parent (""../"", ""..\"").",module,Magento_MediaStorage
