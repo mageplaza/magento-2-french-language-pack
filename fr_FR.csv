@@ -2554,6 +2554,8 @@ Temps en secondes entre les mises à jour du widget.,module,Magento_Catalog
 "File '%1' was not found or has read restriction.","Le fichier '%1' n'a pas été trouvé ou n'est pas accessible en lecture.",module,Magento_CatalogImportExport
 "Invalid Stock data for insert","Données de stock non valides pour l'insertion",module,Magento_CatalogImportExport
 "ALL GROUPS","TOUS LES GROUPES",module,Magento_CatalogInventory
+"You cannot use decimal quantity for this product.","Vous ne pouvez pas utiliser de quantité décimale pour ce produit.",module,Magento_CatalogInventory
+"The requested qty exceeds the maximum qty allowed in shopping cart","La quantité demandée dépasse la quantité maximale autorisée dans le panier.",module,Magento_CatalogInventory
 "Customer Group","Groupe de clients",module,Magento_CatalogInventory
 "Minimum Qty","Quantité mini",module,Magento_CatalogInventory
 "Add Minimum Qty","Ajouter une quantité mini",module,Magento_CatalogInventory
@@ -7453,6 +7455,8 @@ Le template d'email choisi par rapport au thème revient quand l'option ""Défau
 "Accepted and Purchased","Acceptation et achat",module,Magento_Invitation
 "Conversion Rate","Taux de conversion",module,Magento_Invitation
 "Invitation","Invitation",module,Magento_Invitation
+"You cannot use decimal quantity for this product.","Vous ne pouvez pas utiliser de quantité décimale pour ce produit.",module,Magento_InventorySales
+"The requested qty exceeds the maximum qty allowed in shopping cart","La quantité demandée dépasse la quantité maximale autorisée dans le panier.",module,Magento_InventorySales
 "No","Non",module,Magento_LayeredNavigation
 "Filterable (with results)","Filtrable (avec résultats)",module,Magento_LayeredNavigation
 "Filterable (no results)","Filtrable (pas de résultats)",module,Magento_LayeredNavigation
