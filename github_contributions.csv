@@ -10285,3 +10285,6 @@ CANCELED,Canceled
 IN_REVIEW,"In review"
 "System Messages","Messages système"
 "Attachment","Pièce(s) jointe(s)"
+"All","Tous",module,Magento_AdminGws
+"None","Aucun",module,Magento_AdminGws
+"Allowed Scopes","Portées autorisées",module,Magento_AdminGws
